@@ -38,6 +38,6 @@ This lab is all about property graphs. We will be using `Neo4j` to model, load, 
 
 #### 3. Dataset
 
-The dataset that we are going to use in this lab is from Kaggle. You can find it [here](https://www.kaggle.com/shivamb/netflix-shows)
+The dataset that we are going to use in this lab is from Kaggle. You can find it [here](https://www.kaggle.com/dpixton/byu-engineering-publications-in-scopus-201721)
 
 
