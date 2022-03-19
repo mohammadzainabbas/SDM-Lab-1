@@ -1,0 +1,2189 @@
+,dept_name,university,city,country
+0,Computer Science Department, Brigham Young University, Provo, UT  84604
+1,INESC-TEC Technology and Science, Campus da FEUP, Porto, Portugal
+1, Department of Engineering, University of Trás-os-Montes and Alto Douro (UTAD), Vila Real, Portugal
+1, Department of Chemical Engineering, Brigham Young University, Provo, UT
+2,Task Committee Secretary and Lead Engineer, Operational Hydraulics Unit, Hydrology and Hydraulics (HandH) Bureau, South Florida Water Management District
+2, Dept. of Civil and Environmental Engineering, Brigham Young Univ., 430 Engineering Bldg., Provo
+3,Department of Mechanical Engineering, Brigham Young University, Provo, UT  8460
+3, Pratt and Whitney, East Hartford, CT  06118, United States
+4,School of Communications, Brigham Young University, United States,
+4, Department of Communication, University of California, Santa Barbara, United States
+5,Dept. of Electrical and Computer Engineering, Tufts University, Medford, MA
+5, Dept. of Power, Electronics and Com. Eng., Faculty of Technical Sciences, Novi Sad
+5, Dept. of Physics and Astronomy, Brigham Young University, Provo, UT
+6,North Carolina State University, Department of Mechanical and Aerospace Engineering, Raleigh, NC  27695
+6, Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+7,Brigham Young University, Provo, UT  84602, United States
+8,Department of Electrical and Computer Science, Tufts University, Medford, MA  02155
+8, Department of Power, Electronic and Communication Eng., University of Novi Sad, Novi Sad
+8, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+9,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+9, School of Engineering, University of California, Santa Cruz, CA
+10,School of Environment and Guangdong Key Laboratory of Environmental Pollution and Health, Jinan University, Guangzhou, 510632
+10, Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, WI  53706
+10, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+11,Brigham Young University, Provo, UT, United States
+12,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT
+12, Air Force Research Laboratory, Control Center of Excellence, Wpafb, Dayton
+12, Infoscitex Corporation, Dayton, OH, United States
+12, Miami Valley Aerospace Llc, Afrl, Wright-Patterson Afb, Dayton
+13,North Carolina State University, Department of Mechanical and Aerospace Engineering, Raleigh, NC  27695
+13, Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+14,Department of Civil and Environmental Engineering, Brigham Young University, ProvoUT, United States
+14, Institute for Structural Mechanics, University of Stuttgart, Stuttgart, Germany
+14, Fachgebiet Statik und Dynamik, Brandenburgische Technische Universität Cottbus-Senftenberg, Cottbus, Germany
+14, Coreform LLC, OremUT, United States,
+15,Electrical and Computer Engineering, Brigham Young University, Provo, UT
+15, Applied and Computational Mathematics, Brigham Young University, Provo, UT
+15, Department of Electrical Engineering, Brigham Young University, Provo, UT
+16,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+16, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+17,Department of Marketing & Global Supply Chain Management, Marriott School of Business, Brigham Young University, 663 TNRB
+18,University of Dayton, Dayton, OH  45410, United States
+18, Brigham Young University, Provo, UT  84602, United States
+18, NASA Goddard Space Flight Center, Greenbelt, MD  20771, United States
+19,National Institute of Standards and Technology, Gaithersburg, MD  20899, United States
+19, Department of Physics and Astronomy, Howard University, Washington, DC  20059
+19, School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe
+19, U.S. Army Research Laboratory, Aberdeen Proving Ground, MD  21005, United States
+19, Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC  27695
+19, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+20,Department of Chemical, University of Wyoming, Laramie, WY  82071
+20, Chemical Engineering Department, Brigham Young University, Provo, UT  84602
+20, Western Research Institute, 3474 North 3rd Street, Laramie, WY  82072
+20, School of Energy Resources, University of Wyoming, Laramie, WY  82071
+20, School of Civil & Environmental Engineering, Georgia Institute of Technology, Atlanta, GA  30332
+20, Department of Chemical & Petroleum Engineering, University of Wyoming, Laramie, WY  82071
+21,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+22,Brigham Young University Provo, Computer Science Department Computer Science Department, Utah, 84602
+23,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+24,National Chiao Tung University, Electrical and Computer Engineering, Hsinchu, Taiwan
+24, Brigham Young University, Electrical and Computer EngineeringUT, United States,
+25,Lafayette College, Easton, PA, United States
+25, Wavetronix Llc, Provo, UT, United States
+25, Brigham Young University, Provo, UT, United States
+26,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+26, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+26, Air Force Research Laboratory, Eglin AFB, FL, United States
+27,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+27, School of Chemical and Petroleum Engineering, Sharif University of Technology, Tehran, Iran
+27, School of Chemical Engineering, College of Engineering, University of Tehran, Tehran
+28,Statistical Sciences Group, CCS-6, Los Alamos National Laboratory, Santa Fe
+28, Department of Statistics, Brigham Young University, Provo, UT
+29,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84604
+29, Department of Sociology, Brigham Young University, Provo, UT  84604
+30,Brigham Young University, Provo, UT  84058, United States
+31,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+31, Neuroscience Center, Brigham Young University, Provo, UT  84602
+32,Department of Physics and Astronomy, Brigham Young University, United States,
+33,Department of Mechanical Engineering, Brigham Young University, 350 EB, Provo
+34,BYU MAGICC Lab., United States,,
+34, Brigham Young University, Electrical and Computer Engineering, United States,
+35,School of Electrical Computer and Energy Engineering (ECEE), Arizona State University (ASU), Tempe, AZ
+35, Department of Electrical and Computer Engineering, Brigham Young University (BYU), Provo, UT
+35, Los Alamos National Laboratory (LANL), Los Alamos, NM, United States
+36,Department of Electrical and Computer Science, Tufts University, Medford, MA  02155
+36, Department for Power, Electronic and Communication Engineering, Faculty of Technical Sciences, University of Novi Sad
+36, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+37,Department of Statistics, Brigham Young University, Provo, UT
+38,Department of Electrical and Computer Engineering, University of Texas at Dallas, Richardson, TX  75083
+38, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+39,Mechanical Engineering, Brigham Young University, Provo, UT
+39, Munitions Directorate, Air Force Research Laboratory, Valparaiso, FL
+40,Chemistry and Biochemistry, College of Physical and Mathematical Sciences, Brigham Young University, Provo
+40, Senior Data Scientist, Lumen Learning, Portland, United States
+40, Instructional Psychology & Technology, McKay School of Education, Brigham Young University, Provo
+41,Department of Material Science and Engineering, Johns Hopkins University, Baltimore, MD  21218
+41, Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+41, School of Materials Science and Engineering, UNSW Sydney, Sydney, NSW  2052
+42,Exercise Sciences, Brigham Young University, Provo, UT
+43,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84604
+44,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+45,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+46,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+46, Department of Sociology, Brigham Young University, Provo, UT  84602
+47,Brigham Young University, Electrical and Computer Engineering Department, 450 Engineering Building, Provo
+48,Brigham Young University, Provo, UT  84602, United States
+49,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+49, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+49, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+50,Brigham Young University, Computer Science Department, Provo, United States
+51,School of Mathematics, Georgia Institute of Technology, 686 Cherry Street, Atlanta
+51, Department of Mathematics, Brigham Young University, TMCB 274, Provo
+52,Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT
+52, Coreform LLC, Orem, UT, United States
+53,School of Electronics and Information Technology, Sun Yat-sen University, Guangzhou, 510006
+53, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+53, Cubiscan, Inc., Farmington, UT  84025
+54,Department of Space Earth and Environment, Division of Energy Technology, Chalmers University of Technology, Gothenburg
+54, Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+54, LKAB, Box 952, Luleå, SE-97127
+55,Los Alamos National Lab, Los Alamos, NM  87544, United States
+55, Elettra-Sincrotrone Trieste S.C.pA., S.S. 14km 163 5 in Area Science Park Basovizza, Trieste, 34149
+55, School of Physics, Georgia Institute of Technology, Atlanta, GA  30332
+55, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+56,Nuclear Engineering Department, University of California-Berkeley, Berkeley, CA
+56, Material Science and Technology Division, Los Alamos National Laboratory, Los Alamos, NM
+56, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+56, Predictive Chemical and Nuclear Simulations, Pacific Northwest National Laboratory, Richland, WA
+56, Material Science Division, Lawrence Berkeley National Laboratory, Berkeley, CA
+57,Chemical Engineering Department, Brigham Young University, Provo, Utah  84602
+57, Chemistry and Biochemistry Department, Brigham Young University, Provo, Utah  84602
+57, Electrical and Computer Engineering Department, Brigham Young University, Provo, Utah  84602
+58,Brigham Young University, United States,,
+59,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+59, Department of Sociology, Brigham Young University, Provo, UT  84602
+60,Mechanical Engineering Department, Brigham Young University, Provo, UT
+61,Brigham Young University, Department Electrical and Computer Engineering, Provo, United States
+61, Cisco Systems Inc, San Jose, United States,
+62,Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+62, Electrical and Computer Engineering, University of California, Santa Cruz, CA  95064
+63,Electrical and Computer Engineering, Brigham Young University, Provo, UT
+63, Electronics and Communication Engineering, Sri Sivasubramaniya College of Engineering, Kalavakkam, India
+64,Chalmers University of Technology, Gothenburg, 41296, Sweden
+64, Consultant, 72 Lomitas Road, Danville, CA  94526
+64, Brigham Young University, Provo, UT  84602, United States
+64, Brandenburgische Technische Universität Cottbus-Senftenberg 01968, Germany and Chalmers University of Technology, Gothenburg, 41296
+65,Supervising Transportation Engineer, California High Speed Rail Authority, Sacramento, CA  95814
+65, Dept. of Civil and Environmental Engineering, Brigham Young Univ., Provo, UT  84602
+65, Structural Analyst Engineer, Structus, Inc., 160 Pine St.
+65, Dept. of Civil and Environmental Engineering, Univ. of California Los Angeles, Los Angeles, CA  90095
+66,Department of Materials Science and Engineering, University of Maryland, College Park, MD  20742
+66, SLAC National Accelerator Laboratory, Menlo Park, CA  94025, United States
+66, NICE America Research Inc., Mountain View, CA  94043, United States
+66, National Institute of Standards and Technology, Gaithersburg, MD  20899, United States
+66, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+66, Hitachi-Technologies America Inc., Clarksburg, MD  20871, United States
+66, NICE, Beijing, 102211, China
+67,Department of Plant and Wildlife Sciences, 4105B LSB, Brigham Young University, Provo
+67, Department of Geography, Brigham Young University, Provo, UT  84602
+68,Departments of Chemical Engineering, Brigham Young University, Provo, UT  84602
+68, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+69,Electrical and Computer Engineering, Brigham Young Univeristy, Provo, UT
+69, ON Semiconductor, Lindon, UT, United States
+70,Pacific Northwest National Laboratory, Richland, WA, United States
+70, Brigham Young University, Provo, UT, United States
+71,School of Electrical and Computer Engineering, Nanfang College of Sun Yat-sen University, Guangzhou, 510970
+71, Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+72,School of Electrical and Computer Engineering, Nanfang College of Sun Yat-sen University, Guangzhou, 510970
+72, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+73,Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+73, Mechanical Engineering Department, Purdue University, 585 Purdue Mall, West Lafayette
+74,Department of Mechanical Engineering, University of South Florida, 4202 E Fowler Ave, Tampa
+74, LifeLink Foundation, 9661 Delaney Creek Blvd, Tampa, FL  33619
+74, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+75,College of Engineering, South China Agricultural University, Guangzhou, China
+75, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+75, School of Mechanical and Automotive Engineering, South China University of Technology, Guangzhou, China
+76,Department of Chemical Engineering, Brigham Young University, Provo, UT  84604
+77,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+77, Department of Mathematics, Brigham Young University, Provo, UT  84602
+78,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+79,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+79, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+80,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+81,Department of Mechanical Engineering, Brigham Young University, 460 Engineering Building, Provo
+82,Department of Chemistry and Biochemistry, Brigham Young University, C100 Benson Building, Provo
+82, Department of Chemical Engineering, Brigham Young University, 330 Engineering Building, Provo
+83,Department of Mechanical Engineering 350 EB, Brigham Young University, Provo UT 84602, United States
+84,Department of Electrical and Computer Engineering, University of Colorado Colorado Springs, Colorado Springs, CO  80918
+84, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+85,Intel Communications and Devices Group, San Diego, United States,
+85, University of Texas at Dallas, Richardson, United States,
+85, Brigham Young University, Provo, United States,
+86,Chalmers University of Technology, Space, Earth and Environment, Göteborg
+86, Brigham Young University, Mechanical Engineering Department, Provo, UT  84602
+86, LKAB, Box 952, Luleå, SE-971 27
+87,Marriott School of Management, Brigham Young University, Provo, UT
+87, Woodbury School of Business, Utah Valley University, Orem, UT
+88,Department of Mechanical Engineering, Brigham Young University, 350 Engineering Building, Provo
+88, Department of Materials Science and Engineering, Ohio State University, 2041 College Rd., Columbus
+88, Department of Computational Materials & Data Science, Sandia National Laboratories, PO Box 5800, Albuquerque
+88, Department of Materials Mechanics & Tribology, Sandia National Laboratories, PO Box 5800, Albuquerque
+89,Curtin University, Faculty of Business, CDT 250, Miri
+89, Universiti Tunku Abdul Rahman (UTAR), Faculty of Business and Finance, Jalan Universiti, Bandar Barat
+89, Brigham Young University, Provo, UT  84602, United States
+89, University of Turku, Turun yliopistoFI-20014, Finland,
+90,School of Physical Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan
+90, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+91,Chemical Engineering Department, Brigham Young University, Provo, UT
+91, Carver College of Medicine, University of Iowa, Iowa City, IA
+92,Department of Medical Microbiology and Nanobiomedical Engineering, Medical University of Białystok, Mickiewicza 2c, Białystok
+92, Al. IX Wiekow Kielc 19A, Kielce, 25-317, Poland
+92, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+93,Brigham Young University, Department of Mechanical Engineering, 350 EB, Provo
+94,Department of Mechanical Engineering, Brigham Young University, 350 EB, Provo
+95,Department of Manufacturing Engineering, Brigham Young University, United States,
+96,Electrical and Computer Engineering, Brigham Young University, 6756 Provo, Utah United States (e-mail: sequoiap4@gmail.com)
+96, Electrical and Computer Engineering, Brigham Young University, 6756 Provo, Utah United States (e-mail: hygunth@gmail.com)
+96, Electrical and Computer Engineering, Brigham Young University, 6756 Provo, Utah United States 84602-0002 (e-mail: camacho@byu.edu)
+97,Brigham Young University, Provo, UT  84602, United States
+98,Brigham Young University, Provo, UT  84602, United States
+99,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+100,Nsf Shrec, Department of Electrical and Computer Engineering, Brigham Young University, 450 Engineering Building
+101,Brigham Young University, Provo, UT, United States
+102,Brigham Young University, United States,,
+103,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+103, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+104,Brigham Young University, Provo, UT  84602, United States
+104, Degrees of Freedom LLC, Venice, CA  90291, United States
+105,Mechanical Engineering Department, Brigham Young University, Provo, United States
+105, Biomedical Engineering Department, University of Utah, Salt Lake City, United States
+105, Mathematics Department, Brigham Young University, Provo, United States
+106,Brigham Young University, Provo, UT  84602, United States
+106, California Institute of Technology, Pasadena, CA  91109, United States
+107,Fehr Peers Transportation Consultants, Tacoma, WA, United States
+107, Department of Civil & Environmental Engineering, Brigham Young University, Provo, UT
+108,SilentBreak Security, Lehi, UT  84043, United States
+108, Brigham Young University, Provo, UT  84602, United States
+109,Los Alamos National Laboratory, Los Alamos, United States,
+109, Brigham Young University, Provo, United States,
+110,Brigham Young University, Department of Mechanical Engineering, Provo, UT  84602
+110, Air Force Research Laboratory, Department of Mechanical Engineering, Wright–Patterson Air Force BaseOH  45433, United States
+111,Department of Mechanical Engineering, University of South Florida, Tampa, FL  33620
+111, Department of Civil and Environmental Engineering, University of South Florida, Tampa, FL  33620
+111, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+112,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+112, NSF Center for Space, High-Performance, and Resilient Computing (SHREC), Provo
+113,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+113, NSF Center for Space, High-Performance, and Resilient Computing (SHREC),
+114,Acoustics Research Group, Department of Physics and Astronomy, Brigham Young University, Provo
+114, Geophysics Group (EES-17), MS D446, Los Alamos National Laboratory, Los Alamos
+115,Department of Mechanical, Energy, Management and Transportation Engineering, University of Genova
+115, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+116,Department of Chemical Engineering, Brigham Young University, Provo, Utah
+116, SINTEF, Trondheim, Norway,
+117,Brigham Young University, Provo, UT  84602, United States
+117, U.S. Naval Research Laboratory, Washington, D.C  20375, United States
+117, U.S. Air Force Research Laboratory, Wright-Patterson Air Force BaseOH  45433, United States,
+118,Department of Civil & Environmental Engineering, Brigham Young University, Provo, UT
+118, Freelance data scientist, Santa Clara, CA, United States
+118, Resource Systems Group, Inc., Salt Lake City, UT
+119,School of Electrical Science and Engineering, University of Electronic Science and Technology of China, Chengdu, 610051
+119, Department of Electrical and Computer Engineering, University of California, Los Angeles, CA  90095
+119, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+120,Fachbereich Physik, Philipps-Universität Marburg, Marburg, D-35032
+120, Center for Study of Complex Systems, Department of Mathematics and Department of Physics, University of Michigan, Ann Arbor
+120, Department of Mathematics, Brigham Young University, Provo, UT  84602
+121,Brigham Young University, Provo, UT  84602, United States
+121, U.S. Air Force Research Laboratory, Eglin Air Force Base, Florida, 32542
+121, Brigham Young University, Provo, UT  84602, United States
+122,Guangdong Provincial Engineering Technology Research Center for Sports Assistive Device, Guangzhou Sport University, Guangzhou, China
+122, School of Information Science and Engineering, Lanzhou University, Lanzhou, China
+122, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+123,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+123, National Science Foundation, Center for Space, High-performance, Resilient Computing
+123, Los Alamos National Laboratory, ISR-3 Space Data Systems, Los Alamos, NM  87545
+124,Institute of Systems Engineering, China Academy of Engineering Physics, No. 28, Mianshan Road
+124, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+124, State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, No.64, Xianning Road
+124, Shaanxi's Key Laboratory of Intelligent Robots, Xi'an Jiaotong University, No. 64, Xianning Road
+125,Walker Department of Mechanical Engineering and Applied Research Laboratories, University of Texas at Austin, Austin, TX  78713
+125, Knobles Scientific and Analysis, Austin, TX  78713, United States
+125, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+126,Department of Mechanical Engineering and Materials Science, Pratt School of Engineering, Duke University, Durham
+126, Department of Mechanical Engineering, The Fu Foundation School of Engineering and Applied Science, Columbia University, New York
+126, Department of Mechanical Engineering, Ira A. Fulton College, Brigham Young University, Provo
+126, Engineering Technology and Design Division, Los Alamos National Laboratory, Los Alamos, NM
+126, Engineering Institute, Los Alamos National Laboratory, Los Alamos, NM
+127,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+127, Department of Mechanical and Aerospace Engineering, University of California San Diego, La Jolla, CA
+127, Department of Mechanical Engineering, The University of Texas at Dallas, Richardson, TX
+127, Los Alamos National Laboratory, Los Alamos, NM, United States
+128,School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798 (e-mail: YQU002@e.ntu.edu.sg),
+128, Zero-Error Systems, Singapore 608598 (e-mail: weishu@zero-errorsystems.com),,
+128, College of Electronics and Information Engineering, Tongji University, Shanghai 201804, China.
+128, International College of Semiconductor Technology, National Chiao Tung University, Hsinchu 30010, Taiwan (e-mail: yckuan@g2.nctu.edu.tw).
+128, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT 84602 USA.
+128, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798.,
+129,National Institute of Standards and Technology, 325 Broadway, Boulder, CO
+129, Department of Physics, University of Colorado, Boulder, CO  80309
+129, Brigham Young University, 155 East 1230 North, Provo, UT
+129, University of Houston Texas, 7000 Fannin St, Houston, TX
+130,Geophysics Group (EES-17), Los Alamos National Laboratory, Los Alamos, NM
+130, Department of Nuclear Engineering, North Carolina State UniversityNC, United States,
+130, Department of Materials Processing, Tohoku University, Sendai, 980-8579
+130, Sandia National Laboratories, Albuquerque, NM, United States
+130, Non-Destructive Testing and Evaluation Group (E-6), Los Alamos National Laboratory, Los Alamos, NM
+130, Detonation Science and Technology (Q-6), Los Alamos National Laboratory, Los Alamos, NM
+130, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+130, Department of Physics, Colorado School of Mines, Golden, CO
+131,North Carolina State Univ., Dept. of Civil, Construction, and Environmental Engineering
+131, Exponent, Civil Engineering Practice, Oakland, CA
+131, Brigham Young Univ, United States,,
+131, Univ. of Nevada, Reno, United States,
+131, School of Civil and Construction Engineering, Oregon State Univ., Corvallis, OR
+131, Civil Engineering Dept., Univ. of Alaska Anchorage, Anchorage, AK
+131, COWI Marine North America, Seattle, WA, United States
+132,Operations and Technology Management, Boston University Questrom School of Business, Boston, MA
+132, Peter B. Gustavson School of Business, University of Victoria, Victoria, BC
+132, Marriott School of Business, Brigham Young University, Provo, UT
+132, School of Global Policy and Strategy, University of California San Diego, La Jolla, CA
+133,University of Trento, Trento, 38123, Italy
+133, HCDC Llc, Park City, UT, United States
+133, University of Roma Tor Vergata, Rome, Italy,
+133, L3 Technologies, New York, NY, United States
+133, Jet Propulsion Lab, Pasadena, CA, United States
+133, University of Genoa, Genoa, Italy,
+133, University of Transilvania, Brasov, Romania,
+133, Brigham Young University, Provo, UT, United States
+133, University of Cagliari, Cagliari, Italy,
+134,Department of Mathematics, Brigham Young University, Provo, UT  84602
+134, Department of Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden
+135,Department of Chemical Engineering, Brigham Young University, Provo, UT
+136,Brigham Young University, Department of Mechanical Engineering, 350 EB, Provo
+137,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+137, Concepts NRECVT  05001, United States,,
+138,Department of Physics and Astronomy, Brigham Young University, N283 ESC, Provo
+138, Caterpillar Inc., Technical Center, 14009 Old Galena Road, Mossville
+139,Department of Computer Science, University of Montana, United States,
+139, Department of Computer Science, Brigham Young University, United States,
+140,Department of Engineering Sciences, Division of Applied Mechanics, Uppsala University, Sweden
+140, GKN Aerospace, Trollhattan, SE-46181, Sweden
+140, Materials Research Group, Faculty of Engineering and the Environment, University of Southampton, United Kingdom
+140, Manufacturing Engineering Technology, Brigham Young University, United States,
+141,Department of Mathematics, Massachusetts Institute of Technology, Cambridge, MA  02139
+141, Oden Institute for Computational Engineering and Sciences, University of Texas at Austin, Austin, TX  78712
+141, Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+141, Institute for Analysis and Scientific Computing, TU Wien, Vienna, 1040
+142,Department of Electrical and Computer Engineering, Brigham Young UniversityUT, United States,
+142, Instituto de Telecomunicacoes, Department of Electrical and Computer Engineering, University of Coimbra, Portugal
+142, CISUC and Department of Informatics Engineering, University of Coimbra, Portugal,
+143,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+143, Fritz Haber Institute of the Max Planck Society, Faradayweg 4–6, Berlin, 14195
+143, Skolkovo Institute of Science and Technology, Skolkovo Innovation Center, Building 3, Moscow
+143, Department of Materials Science and Engineering, Johns Hopkins University, Baltimore, MD  21218
+143, Engineering Laboratory, University of Cambridge, Trumpington Street, Cambridge
+143, Computer Science Department, Brigham Young University, Provo, UT  84602
+143, Citrine Informatics, 702 Marshall Street, Redwood City, CA  94063
+144,University of Twente, Enschede, Netherlands,
+144, Brigham Young University, Provo, United States,
+145,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+146,Department of Public Health, Brigham Young University, Provo, UT
+146, Department of Microbiology & Molecular Biology, Brigham Young University, Provo, UT
+147,Brigham Young University, Provo, UT  84602, United States
+148,Brigham Young University, Provo, UT, United States
+148, University of Kansas, Lawrence, KS, United States
+149,School of Electrical and Computer Engineering, Nanfang College of Sun Yat-sen University, Guangzhou, 510970
+149, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+150,Electrical Computer and Science, University of Tennessee, Knoxville, United States
+150, Computer Science, Brigham Young University, United States,
+151,Division of Decision and Control Systems, KTH Royal Institute of Technology, Stockholm, 11428
+151, University of California at Santa Barbara, Santa Barbara, CA  93106, United States
+151, Brigham Young University, Provo, UT  84602, United States
+152,School of Information Engineering, Henan University of Science and Technology, Luoyang, Henan
+152, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+152, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, Changchun
+152, School of Astronautics, Northwestern Polytechnical University, Xi'an, Shaanxi
+153,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+153, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+154,Manufacturing Engineering and Technology, Brigham Young University, Provo, UT
+154, Information Systems, Brigham Young University, Provo, UT
+155,Brigham Young University, Computer Science Department, Provo, UT
+156,Brigham Young University, Department of Computer Science, United States,
+156, Brigham Young University, Computer Science, United States,
+157,Brigham Young University, Provo, UT  84601, United States
+158,Ira A Fulton College of Engineering and Technology, Brigham Young Univ., Provo, UT  84602
+158, School of Sustainable Engineering and the Built Environment, Arizona State Univ., P.O. Box 873005, Tempe
+159,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+159, Rockwell Collins, Cedar Rapids, IA  52498, United States
+159, Department of Electrical and Computer Engineering, University of Texas at Dallas, Richardson, TX  75083
+160,Tufts University, Dept. of Electrical and Computer Eng., Medford, MA
+160, Faculty of Technical Sciences, Electr. and Com. Eng. Novi Sad, Serbia Academy of Engineering Sciences of Serbia, Dept. of Power
+160, Brigham Young University, Dept. of Physics and Astronomy, Provo, UT
+161,Brigham Young University, Dept. of Physics and Astronomy, Provo, UT
+161, Faculty of Technical Sciences, Dept. of Power Electronics and Com. Engineering, Novi Sad, Serbia
+161, Tufts University, Dept. of Electrical and Computer Engineering, Medford, MA
+162,Department of Engineering, University of Southern Indiana, 8600 University Boulevard, Evansville
+162, Department of Mechanical Engineering, Brigham Young University, 435 CTB, Provo
+162, Department of Precision and Microsystems Engineering, Delft University of Technology, Mekelweg 2, 2628 CD Delft
+163,Brigham Young University, Provo, UT, United States
+163, Universidad del Desarrollo, National Research Center for Integrated Natural Disaster Management (CIGIDEN), Concepción, Chile
+163, University of Arkansas, Fayetteville, AR, United States
+163, Auburn University, Auburn, AL, United States
+163, University of California, San Diego, San Diego, CA
+163, University of Puerto Rico Mayaguez, Mayaguez, Puerto Rico,
+163, Instituto de Ingeniería, Universidad Nacional Autónoma de México, Mexico City, Mexico
+164,Mechanical Engineering Department, Brigham Young University, Provo, UT
+165,Air Force Research Laboratory, Fuzes Branch, Munitions Directorate, EglinFL
+165, Oak Ridge National Laboratoy, Oak Ride, TN, United States
+165, Ball Aerospace and Technologies Corporation, Colorado Springs, CO, United States
+165, Brigham Young University, Department of Mechanical Engineering, 350 EB, Provo
+165, US Army RDECOM-ARDEC, Picatinny Arsenal, NJ, United States
+165, Sciperio Inc., Orlando, FL, United States
+166,Center for Clinical Systems Biology, Rochester General Hospital, Rochester, NY
+166, Computer Science Department, Brigham Young University, Provo, UT
+166, Dept. of Psychology and Neuroscience, Computer Science, and Clinical Immunology Clinical Systems Biology Group, Inst. for Neuroimmune Medicine Nova Southeastern University
+166, Dept. of Clinical Immunology, EM Paper Laboratory of Clinical Immunology, Inst. for Neuroimmune Medicine, Nova Southeastern University
+166, Dept. of Clinical Immunology, Inst. for Neuroimmune Medicine, Nova Southeastern University, Fort Lauderdale
+166, Miami Veterans Affairs Medical Center, Miami, FL, United States
+166, Dept. of Biomedical Engineering, Rochester Institute of Technology, Rochester, NY
+167,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+168,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+169,Department of Mechanical Engineering, Brigham Young University, 435 Crabtree Building, Provo
+170,Henan University of Science and Technology, School of Information Engineering, Luoyang, China
+170, Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT
+171,School of Engineering, University of California, Santa Cruz, 1156 High Street
+171, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+172,School of Engineering, University of California, Santa Cruz, 1156 High Street
+172, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+172, Department of Microbiology and Molecular Biology, Brigham Young University, Provo, UT  84602
+172, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+172, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+173,Brigham Young University, Electrical and Computer Engineering, 450 Engineering Building, Provo
+173, University of California, Santa Cruz, School of Engineering, 1156 High Street
+174,Oregon State University, United States,,
+174, Brigham Young University, United States,,
+175,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+175, International College of Semiconductor Technology, National Chiao Tung University, Hsinchu, 30010
+175, Department of Electrical and Computer Engineering, University of California at Los Angeles, Los Angeles, CA  90095
+175, Department of Electronics Engineering, National Chiao Tung University, Hsinchu, 30010
+176,INESC TEC, Department of Engineering, Universidade de Trás-os-Montes e Alto Douro, UTAD
+176, Department of Chemical Engineering, Brigham Young University, Provo, UT
+177,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+177, National Chiao Tung University, International College of Semiconductor Technology, Hsinchu, 30010
+177, University of California at Los Angeles, Electrical and Computer Engineering, Los Angeles, CA  90095
+178,Department of Radiology, BenQ Medical Center, Affiliated BenQ Hospital, Nanjing Medical University
+178, Department of Health Services Administration, China Medical University, Taichung, 40402
+178, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+178, Department of Dental Technology and Materials Science, Central Taiwan University of Science and Technology, Taichung, 40601
+178, Department of Long Term Care, National Quemoy University, Jinning, 892
+178, CSIRO Data61, Epping, NSW  1710, Australia
+178, Department of Management Information Systems, Central Taiwan University of Science and Technology, Taichung, 40601
+179,School of Information Engineering, Henan University of Science and Technology, Luoyang City, Henan Province
+179, Robotic Vision Lab, Department of Electrical and Computer Engineering, Brigham Young University, Provo
+180,State Key Laboratory of Magnetic Resonance and Atomic Molecular Physics, National Center for Magnetic Resonance in Wuhan, Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences
+180, College of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, Hubei  430074
+180, Chemistry and Biochemistry Department, Brigham Young University, Provo, UT  84602
+181,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+182,Department of Mechanical Engineering, University of South Florida, 4202 E Fowler Ave, Tampa
+182, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+183,Mechanical Engineering, 350 EB, Provo, UT  84602
+183, Mechanical Engineering and Neuroscience, Brigham Young University, 350 EB, Provo
+184,School of Electronics and Information Technology, Sun Yat-sen University, Guangzhou, 510006
+184, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+184, Cubiscan, Inc, Farmington, UT  84025
+185,National University of Mexico, Mexico City, Mexico,
+185, Brigham Young University, Provo, UT, United States
+185, University of California, San Diego, San Diego, CA
+186,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+186, Department of Electrical and Computer Engineering, University of Coimbra, Instituto de Telecomunicações, Coimbra
+186, CISUC, Department of Informatics Engineering, University of Coimbra, Coimbra
+186, Synopsys Inc., Maia, 4470-605, Portugal
+187,Center for Friction Stir Processing, Advanced Materials and Manufacturing Processes Institute, University of North Texas, Denton
+187, Brigham Young University, Provo, UT  84602, United States
+187, Pacific Northwest National Laboratory, Energy Materials and Manufacturing, MSIN: K2-03, 902 Battelle Blvd.
+187, General Motors Technical Center, Warren, MI  48093, United States
+188,North Carolina State University, Department of Mechanical and Aerospace Engineering, Raleigh, NC  27695
+188, Advanced Instrumentation Systems Technology (AIST) Executing Agent, Code 709, Naval Undersea Warfare Center, Newport
+188, Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+189,Department of Statistics, Brigham Young University, Provo, UT
+190,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+191,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84604
+192,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+193,Information and Decision Algorithms Laboratories, Brigham Young University, Provo, UT  84602
+194,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+195,Brigham Young University, NSF Center for Space, High-Performance, and Resilient Computing (SHREC)
+196,NSF Center for Space, High-performance, and Resilient Computing (SHREC), Brigham Young University
+197,Brigham Young University, United States,,
+198,Frontier-Kemper Constructors, Inc., 1695 Allen Rd., Evansville
+198, Dept. of Civil and Environmental Engineering, Brigham Young Univ., Provo, UT  84602
+199,General Atomics, 3550 General Atomics Ct., San Diego, CA  92121
+199, Brigham Young University, Provo, UT  84602, United States
+200,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+200, National Snow and Ice Data Center, Cooperative Institute for Research in Environmental Sciences, University of Colorado Boulder, Boulder
+201,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+201, Department of Engineering, University of Southern Indiana, Evansville, IN  47712
+201, Lang Origami, Alamo, CA  94507, United States
+201, Department of Mathematics, Brigham Young University, Provo, UT  84602
+202,Key Laboratory for Precision & Non-traditional Machining Technology of Ministry of Education, Dalian University of Technology, Dalian, 116024
+202, Department of Mechanical Engineering, Brigham Young UniversityUT  84602, United States,
+203,Department of Exercise Sciences, Brigham Young University, Provo, UT
+204,Department of Exercise Science, Brigham Young University, Provo, UT
+204, Bayer CropScience LP, Research Triangle ParkNC, United States,
+205,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84604
+206,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+206, Electric Power Research Institute, Charlotte, NC  28262, United States
+207,Department of Mathematics, USTC, Hefei, Anhui
+207, Department of Computer Science, Brigham Young University, Provo, UT
+208,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+208, Department of Materials Science and Engineering, The Ohio State University, Columbus, OH
+209,University of Minnesota Duluth, United States,,
+209, Brigham Young University, United States,,
+209, University of Tennessee, Knoxville, United States,
+210,Department of Chemical Engineering, Ira A. Fulton College of Engineering and Technology, Brigham Young University, 350 Clyde Building
+210, Department of Civil and Environmental Engineering, Ira A. Fulton College of Engineering and Technology, Brigham Young University, 368 Clyde Building
+211,Department of Electrical Engineering, Brigham Young University, United States,
+211, Brigham Young University, Department of Chemical Engineering, United States,
+211, Electrical and Computer Engineering Department, Brigham Young University, United States,
+211, Brigham Young University, Department of Civil and Environmental Engineering, United States,
+212,Mechanical Engineering, Brigham Young University, 350 EB, Provo
+212, Mechanical Engineering and Neuroscience, Brigham Young University, 350 EB, Provo
+213,Department of Mechanical Engineering, Brigham Young University, United States,
+214,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT
+215,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+215, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+216,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84604
+217,Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+218,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+219,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT
+220,Computer Science Department, Brigham Young University, United States,
+220, Department of Statistics, Brigham Young University, United States,
+221,Department of Mechanical Engineering, Brigham Young University, United States,
+221, Department of Electrical and Computer Engineering, Brigham Young University, United States,
+221, School of Electronics and Information Technology, Sun Yat-sen University, China,
+222,Department of Technical Communication, University of North Texas, Denton, TX  76203
+222, Department of Linguistics, Brigham Young University, Provo, UT  84602
+223,Department of Mechanical Engineering, University of Texas at Tyler, Texas, United States
+223, Department of Mathematics, Brigham Young University, Provo, UT
+224,Department of Chemical Engineering, University of Utah, Salt Lake City, UT
+224, Department of Mining Engineering, University of Utah, Salt Lake City, UT
+224, Department of Chemical Engineering, Brigham Young University, Provo, UT
+225,Dept. of Power, Electronics and Communication Engineering, Faculty of Technical Sciences, Novi Sad
+225, Dept. of Physics and Astronomy, Brigham Young University, Provo, UT
+225, Dept. of Electrical and Computer Engineering, Tufts University, Medford, MA
+226,Department of Mechanical Engineering, University of South Florida, 4202 E Fowler Ave, Tampa
+226, Department of Chemical Engineering, University of Massachusetts Amherst, Amherst, MA  01003
+226, LifeLink Foundation, 9661 Delaney Creek Blvd, Tampa, FL  33619
+226, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+227,Brigham Young University, Mechanical Engineering, 435 CTB, Provo
+227, Brigham Young University, 265 CTB, Manufacturing Engineering Technology, Provo
+227, Ohio State University, Materials Science and Engineering, Columbus, OH  43210
+227, UC Santa Barbara, Mechanical Engineering Department, Materials Department, Santa Barbara
+227, University of New Hampshire, Department of Mechanical Engineering, Durham, NH  03824
+228,Institute of Engineering at National Autonomous University of Mexico, Mexico,,
+228, California Institute of Technology, United States,,
+228, University of Arkansas, United States,,
+228, University of California at San Diego, United States,,
+228, Brigham Young University, United States,,
+228, University of Concepcion, Chile,,
+229,Department of Mechanical Engineering, University of South Florida, Tampa, FL  33612
+229, National Research Council, Air Force Research Laboratory, Eglin Air Force Base, Valparaiso
+229, Electrical Engineering Department, University of South Florida, Tampa, FL  33612
+229, Oak Ridge National Laboratory, Oak Ridge, TN  37830, United States
+229, Pall Corporation, New Port Richey, FL  34654, United States
+229, School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR  97331
+229, Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+230,Institut für Verbundwerkstoffe GmbH, Germany,,
+230, Materials Division, National Physical Laboratory, United Kingdom,
+230, Department of Mechanical Engineering and Center for Composite Materials, University of Delaware, United States,
+230, Department of Polymer Materials and Plastics Engineering, Technische Universität Clausthal, Germany,
+230, Faculty of Engineering, University of Nottingham, United Kingdom,
+230, Processing of Composites Group, Montanuniversität Leoben, Austria,
+230, Department of Mechanical Engineering, Katholieke Universiteit Leuven, Belgium,
+230, Center for Design, Manufacturing and Materials, Skolkovo Institute of Science and Technology, Russian Federation
+230, Khalifa University of Science and Technology (KUST), Abu Dhabi, United Arab Emirates,
+230, Centre for Advanced Composite Materials, University of Auckland, New Zealand,
+230, Composite Materials and Structures Group, INEGI, Portugal,
+230, Department of Mechanical Engineering, KOÇ University, Turkey,
+230, ITAINNOVA Instituto Tecnológico de Aragón, Spain,,
+230, Department of Polymers and Composites Technology & Mechanical Engineering, IMT Lille Douai, France,
+230, Laboratory of Composite Materials and Adaptive Structures, ETH Zurich, Switzerland,
+230, Institute of Aircraft Design, University of Stuttgart, Germany,
+230, Institute of Research in Materials Science and Technology, Universidad Nacional de Mar del Plata, Argentina,
+230, Faculty of Manufacturing Engineering Technology, Brigham Young University, United States,
+230, Chair of Carbon Composites, Technische Universität München, Germany,
+230, Mines Saint-Etienne, Université de Lyon, CNRS, UMR 5307 LGF
+230, Composites Manufacturing & Simulation Center, Purdue University, United States,
+230, C2MA, IMT Mines Ales, Univ. Montpellier, Ales
+230, Institut de Soudure Group, France,,
+231,Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN
+231, Department of Chemical Engineering, Brigham Young University, Provo, UT
+232,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+233,Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+234,Brigham Young University, United States,,
+235,Department of ECE, University of California, Santa Cruz 1156 High Street, Santa Cruz
+235, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+236,University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
+236, Brigham and Women's Hospital, Boston, MA, United States
+236, Brigham Young University, Provo, UT, United States
+237,School of Electronics and Information Technology, Sun Yat-sen University, Guangzhou, China
+237, SYSU-CMU Shunde International Joint Research Institute, Shunde, Foshan, China
+237, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+238,Institute of Systems Engineering, China Academy of Engineering Physics, Mianyang, 621999
+238, State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, 710049
+238, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+239,University of California Santa Cruz, School of Engineering, 1156 High Street, Santa Cruz
+239, Department of Virology and Immunology, Texas Biomedical Research Institute, 7620 NW Loop 410, San Antonio
+239, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+240,Department of Electrical and Computer Engineering, Brigham Young UniversityUT, United States,
+240, Instituto de Telecomunicações, Department of Electrical and Computer Engineering, University of Coimbra, Portugal
+240, CISUC and Department of Informatics Engineering, University of Coimbra, Portugal,
+241,Instituto de Telecomunicações, Department of Electrical and Computer Engineering, University of Coimbra, Portugal
+241, CISUC and Department of Informatics Engineering, University of Coimbra, Portugal,
+241, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+242,Magnetic Research Inc., 3152 N University Ave #50, Provo, UT  84604
+242, University of California San Diego, 9500 Gilman Drive, La Jolla, CA  92093
+242, Department of Health Science, Brigham Young University, College of Life Sciences, Life Sciences Building (LSB)
+242, Department of Geology and Geophysics, University of Utah, Frederick Albert Sutton Building, 115 S
+243,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+244,Center for Materials Genomics, Duke University, Durham, NC  27708
+244, Department of Mechanical Engineering and Materials Science, Duke University, Durham, NC  27708
+244, Center for Materials Physics and Technology, Code 6390, U.S. Naval Research Laboratory, Washington
+244, Department of Physics, NRCN, P.O. Box 9001, Beer-Sheva
+244, Department of Chemistry, St. Olaf College, Northfield, MN  55057
+244, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+244, Materials Science, Electrical Engineering, Physics and Chemistry, Duke University
+244, Fritz-Haber-Institut der Max-Planck-Gesellschaft, Berlin-Dahlem, 14195, Germany
+245,Brigham Young University, Provo, UT  84602, United States
+245, San Diego State University, San Diego, CA  92182-1030, United States
+246,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+247,Department of Electrical Engineering and Computer Science, 1520 Middle Dr, Knoxville, TN  37996-2250
+247, Computer Science Department, Brigham Young University, 3361 TMCB PO Box 26576, Provo
+248,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+248, Department of Mechanical Engineering, 360D EB, Brigham Young University, Provo
+249,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+249, Patent Law Works LLP, Salt Lake City, UT  84111, United States
+250,Roseman University of Health Sciences, College of Dental Medicine, South Jordan, UT  84095
+250, Department of Physiology and Developmental Biology, Brigham Young University, Provo, UT  84602
+250, Roseman University of Health Sciences, College of Pharmacy, South Jordan, UT  84095
+251,Mechanical Engineering Department, University of South Florida, Tampa, FL  33620
+251, Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+252,Manufacturing Engineering Department, Brigham Young University, Provo, UT  84602
+252, Centre de Mise en Forme des Materiaux, Mines ParisTech, Sophia-Antipolis, 06904
+253,Department of Electrical and Computer Engineering, University of Coimbra, Portugal,
+253, CISUC and Department of Informatics Engineering, University of Coimbra, Portugal,
+253, Department of Electrical and Computer Engineering, Brigham Young UniversityUT, United States,
+254,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+254, Air Force Research Laboratory, Wright-Patterson, OH  45433, United States
+254, Uber Advanced Technologies Group, Pittsburgh, PA  15201, United States
+255,Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Building, Provo
+255, Dept. of Civil Engineering, Federal Univ. of São Carlos, Rodovia Washington Luiz km 235, São Carlos
+255, Dept. of Civil Engineering, São Paulo State Univ., Alameda Bahia 550, Ilha Solteira
+256,Brigham Young University, Provo, UT, United States
+257,Department of Manufacturing Engineering Technology, Brigham Young University, Provo, UT
+257, Qualified Rapid Products, West Jordan, UT, United States
+258,Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+258, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+259,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+260,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+261,Department of Mechanical Engineering, Brigham Young University, 435 CTB ProvoUT  84604, United States
+262,Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+262, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+262, Marriott School of Management, Brigham Young University, Provo, UT  84602
+263,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+263, NASA Goddard Space Flight Center, Greenbelt, MD  20771, United States
+264,Department of Mechanical Engineering, University of Houston, Houston, TX  77204-4006
+264, Materials Science and Engineering Program, University of Houston, Houston, TX  77204
+264, Advanced Manufacturing Institute (AMI), University of Houston, Houston, TX  77204
+264, Texas Center for Superconductivity at UH (TcSUH), University of Houston, Houston, TX  77204
+264, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+265,Acoustics Research Group, Department of Physics and Astronomy, Brigham Young University, Provo
+265, Detonation Science and Technology Group (Q-6), MS C925, Los Alamos National Laboratory, Los Alamos
+265, Geophysics Group (EES-17), MS D446, Los Alamos National Laboratory, Los Alamos
+266,Department of Biological Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge
+266, Department of Defense, Office of Naval Research, 875N. Randolph Street, Arlington
+266, Nanoscience Department, The Joint School of Nanoscience and Nanoengineering, The University of North Carolina at Greensboro, Greensboro
+266, IBM T.J. Watson Research Center, 1101 Kitchawan Road, PO Box 218, Yorktown Heights
+266, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+266, Micron School of Materials Science & Engineering, Boise State University, Boise, ID  83725
+266, Semiconductor Research Corp, 4819 Emperor Blvd., Durham, NC  27703
+267,NSF Center for Space, High-Performance, and Resilient Computing (SHREC), Deptartment of Electrical and Computer Engineering
+268,University of British Columbia, United States,,
+268, Imperial College London, United Kingdom,,
+268, Brigham Young University, United States,,
+269,New York University, United States,,
+269, New York University Abu Dhabi, United Arab Emirates,,
+269, Dept of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+270,Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+271,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+272,Department of Electrical Engineering and Computer Science, Washington State University, Pullman, WA  99164
+272, Information and Decision Algorithms Laboratories, Brigham Young University, Provo, UT  84602
+273,Brigham Young University, Instructional Psychology and Technology, Provo, UT
+273, Westminster College, Computer Science, Salt Lake City, UT
+274,Departament d′Enginyeria Mecànica, Universitat Rovira i Virgili, Av. Països Catalans, 26
+274, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+275,Statistical Sciences Group, Los Alamos National Laboratory, Los Alamos, NM
+275, Department of Statistics, Brigham Young University, Provo, UT
+276,Department of Electrical and Computer Engineering, University of California, Los Angeles, CA  90095
+276, School of Electrical Science and Engineering, University of Electronic Science and Technology of China, Chengdu, 610054
+276, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+277,Department of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA  30332
+277, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+277, ON Semiconductor, Lindon, UT  84042, United States
+278,Los Alamos National Laboratory, United States,,
+278, University of Chicago, United States,,
+278, Brigham Young University, United States,,
+278, University of Maryland, Baltimore County, United States,
+279,Department of Computer Science, Brigham Young University, Information and Decision Algorithms Laboratories, Provo
+280,Department of Computer Science, Information and Decision Algorithms Laboratories, Brigham Young University, Provo
+280, Department of Electrical and Computer Engineering, University of Calgary, Calgary, Canada
+281,Brigham Young University, United States,,
+282,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+283,Brigham Young University, Provo, UT  84602, United States
+283, Lang Origami, Alamo, CA  94507, United States
+284,Dept. of Physics and Astronomy, Brigham Young University, Provo, Utah
+284, Dept. of Electrical and Computer Engineering, Tufts University, Medford, MA
+284, Dept. of Power, Electronics, and Com. Engineering, University of Novi Sad
+285,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+286,Brigham Young University, Provo, UT  84602, United States
+287,Brigham Young University, Department of Mechanical Engineering, Provo, UT  84602
+288,Brigham Young University, Provo, UT  84602, United States
+289,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+289, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+290,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+291,Brigham Young University, Department of Mechanical Engineering, Provo, UT
+292,Brigham Young University, United States,,
+293,Brigham Young University, United States,,
+294,Brigham Young University, United States,,
+295,Brigham Young University, Provo, UT, United States
+296,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+297,Brigham Young University, United States,,
+298,Brigham Young University, Provo, UT, United States
+299,Brigham Young University, Provo, UT, United States
+300,Brigham Young University, United States,,
+301,Electrical and Computer Engineering Department, Brigham Young University, 450 Engineering Building, Provo
+301, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+302,Brigham Young University, United States,,
+303,Brigham Young University, United States,,
+304,Avenue Consultants Inc., 6575 South Redwood Rd., Taylorsville, UT  84123
+304, Dept. of Civil and Environmental Engineering, Brigham Young Univ., Provo, UT  84602
+304, Dept. of Statistics, Brigham Young Univ., Provo, UT  84602
+305,Brigham Young University, United States,,
+306,Brigham Young University, United States,,
+307,Mechanical Engineering, Brigham Young University, Provo, UT  84602
+307, Neuroscience, Brigham Young University, Provo, UT  84602
+308,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84606
+309,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+310,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+311,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+312,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+313,Brigham Young University, Department of Manufacturing Engineering 265 CTB, Provo, UT  84602
+314,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+314, BYU Applied Biomechanics Engineering Laboratory, Dept. of Mechanical Engineering, Brigham Young University, Provo
+315,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+315, BYU Applied Biomechanics Engineering Laboratory, Department of Mechanical Engineering, Brigham Young University, Provo
+316,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+317,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+317, Dept. of Chemical Engineering, Brigham Young University, Provo, UT  84602
+318,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+319,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+320,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+321,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+322,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+322, Dept. of Microbiology and Molecular Biology, Brigham Young University, Provo, UT  84602
+323,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84606
+323, Department of Sociology, Brigham Young University, Provo, UT  84606
+324,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+325,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+326,Brigham Young University, Provo, UT, United States
+327,Brigham Young University, Department of Chemical Engineering, 350 CB, Crabtree Building
+328,Brigham Young University, United States,,
+329,Department of Mechanical Engineering, Brigham Young University, 350 EB, Provo
+330,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+330, Chemistry and Biochemistry Department, Brigham Young University, Provo, UT  84602
+331,Department of Chemistry and Biochemistry, Brigham Young University, C100 BNSN, Provo
+331, Department of Physics and Astronomy, Brigham Young University, N265 ESC, rovo
+332,Brigham Young University, Electrical and Computer Engineering Dept., Provo, UT
+332, Brigham Young University, Chemistry and Biochemistry Dept., Provo, UT
+333,Department of Mechanical Engineering, Brigham Young University, 360 EB, Provo
+333, National Renewable Energy Laboratory, National Wind Technology Center, 15013 Denver West Pkwy, Golden
+334,Brigham Young University, Department of Mechanical Engineering, 360 EB, Provo
+334, National Renewable Energy Laboratory, National Wind Technology Center, 15013 Denver West Pkwy, Golden
+335,Department of Mech Eng, Brigham Young University, Provo, UT
+335, Department of Phys and Astronomy, Brigham Young University, Provo, UT
+335, Idaho National Laboratory, Idaho Falls, ID, United States
+336,University of South Florida, Tampa, FL, United States
+336, Brigham Young University, Provo, UT, United States
+337,BYU Turbomachinery Research Laboratory, Department of Mechanical Engineering, Brigham Young University, Provo
+337, Compressor Aero Research Laboratory, Air Force Research Laboratory, Propulsion Directorate, Wright-Patterson AFBOH  45433
+338,Department of Automatic Control and Systems Engineering, University of Sheffield, Sheffield, S1 3JD
+338, Department of Chemical Engineering, Brigham Young University, Provo, UT
+339,Department of Civil Engineering, Federal University of São Carlos – UFSCar, São Carlos, Brazil
+339, Department of Civil and Environmental Engineering, Brigham Young University - BYU, Provo, United States
+340,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84062
+340, Concepts NREC, 217 Billings Farm Road, White River Junction, VT  05001
+341,Mechanical and Aerospace Engineering Department, Oklahoma State University at Stillwater, Stillwater, OK  74074
+341, Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+342,BTU Cottbus-Senftenberg, Siemens-Halske-Ring 14, Cottbus, D-03046
+342, BTU Cottbus-Senftenberg, Siemens-Halske-Ring 14, Cottbus, D-03046
+342, Dept. of Chemical Engineering, Brigham Young University, Provo, UT  84602
+343,Purdue University, West Lafayette, United States,
+343, Brigham Young UniversityUT, United States,,
+344,Brigham Young University, United States,,
+344, Utah Valley University, United States,,
+345,Hales Engineering, 1220 North 500 West, Lehi, UT  84043
+345, Dept. of Civil and Environmental Engineering, Brigham Young Univ., Provo, UT  84602
+346,Brigham Young University, Provo, UT  84602, United States
+346, NASA Langley Research Center, Hampton, VA  23681, United States
+347,Department of ECE, University of California, Santa Cruz, 1156 High Street
+347, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+348,University of Tennessee, United States,,
+348, Brigham Young University, United States,,
+349,Civil and Environmental Engineering Dept., Brigham Young Univ., 368 CB, Provo
+349, Wagstaff Crane Service, 4315 S. Commerce Dr., Murray, UT  84107
+350,School of Engineering, University of California Santa Cruz, Santa Cruz, CA  95064
+350, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+351,Brigham Young University, United States,,
+351, Sandia National Laboratories, United States,,
+352,Brigham Young University, United States,,
+352, Sandia National Laboratories, United States,,
+353,Brigham Young University, Provo, UT, United States
+353, US Air Force Academy Colorado SpringsCO, United States,,
+354,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+354, Department of Engineering Mechanics, US Air Force Academy, Colorado Springs, CO  80840
+355,Brigham Young University, Provo, UT, United States
+355, INSA de Lyon, Villeurbanne, France,
+356,Brigham Young UniversityUT, United States,,
+356, Industrial Algorithms LimitedON, Canada,,
+357,Institute of Thermal Science and Technology, Shandong University, Jinan, Shandong  250061
+357, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+358,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+358, Loughborough Design School, Loughborough University, Loughborough, LE11 3TU
+359,Brigham Young University, Electrical and Computer Engineering Department, Provo, UT
+359, University of California, Electrical and Computer Engineering Department, Santa Cruz, CA
+360,Brigham Young University, United States,,
+360, Ford Motor Company, United States,,
+361,Brigham Young University, 368 Clyde Building, Provo, UT  84602
+361, South Dakota School of Mines & Technology, CM 311, Rapid City, SD  57701
+362,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+362, NSF Center for Space High-Performance, and Resilient Computing, Alexandria, VA  22314
+363,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+363, School of Applied and Engineering Physics, Cornell University, Ithaca, NY  14853
+364,Media Laboratory, Massachusetts Institute of Technology, 75 Amherst St., Cambridge
+364, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+365,Dept. of Physics, Yokohama National University, 79-5 Tokiwadai, Hodogaya
+365, Dept. of Chemistry, Brigham Young University, Provo, UT  84602
+366,Skolkovo Institute of Science and Technology, Skolkovo Innovation Center, Nobel str. 3, Moscow
+366, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+367,Brigham Young University, Engineering Building, Provo, UT  84602
+367, Brigham Young University, 350C MSRB, Provo, UT  84602
+367, Advanced Deployable Structures, Jet Propulsion Laboratory, California Institute of Technology, 299-101
+368,Department of Construction Science, Texas A and M University, College Station, TX  77843
+368, Department of Architecture, Texas A and M University, College Station, TX  77843
+368, College of Engineering, Brigham Young University, Provo, UT  84602-8200
+368, Principal Faculty, Myers-Lawson School of Construction, Virginia Polytechnic Institute and State University, Blacksburg
+369,Brigham Young University, Provo, UT  84604, United States
+369, Robotics and Dynamics Lab, Department of Mechanical Engineering,,
+369, MAGICC Lab, Department of Electrical and Computer Engineering,,
+370,Brigham Young University, Provo, UT  84602, United States
+370, U.S. Air Force Research Laboratory, Battlespace Acoustics Branch, Building 441, 2610 Seventh Street
+370, Blue Ridge Research and Consulting, LLC, Battlespace Acoustics Branch, 2610 Seventh Street
+371,Department of Civil Engineering, Federal University of São Carlos - UFSCaR, São Carlos, Brazil
+371, Department of Architecture and Urbanism, University Presbiteriana Mackenzie - UPM, São Paulo, Brazil
+371, Department of Civil and Environmental Engineering, Brigham Young University - BYU, Provo, United States
+372,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+372, Morehouse College, 30 Westview Dr SW, Atlanta, GA  30314
+372, Code 551, NASA Goddard Space Flight Center, 8800 Greenbelt Rd., Greenbelt
+373,Brigham Young University, Provo, UT  84602, United States
+373, Air Force Research Laboratory, Wright-Patterson Air Force BaseOH  45433, United States,
+373, Blue Ridge Research and Consulting, LLC, Asheville, NC  28801
+374,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+374, Naval Research Laboratory, Washington, D.C.  20375, United States
+374, Air Force Research Laboratory, Wright-Patterson AFBOH  45433, United States,
+375,Temple University, United States,,
+375, University of Colorado, Boulder, United States,
+375, Brigham Young University, United States,,
+376,Civil Engineering Department, Catholic University of Santa Catarina, Joinville, Brazil
+376, Civil Engineering Department, Federal University of Santa Catarina, Santa Catarina, Brazil
+376, Department of Civil and Environmental Engineering, Brigham Young University, Utah, United States
+377,Department of Computer Engineering, Faculty of Engineering, Adana Alparslan Türkeş Science and Technology University, Adana
+377, Department of Computer Engineering, Faculty of Engineering, Çukurova University, Adana
+377, Department of Exercise Sciences, College of Life Sciences, Brigham Young University, Provo
+378,School of Engineering, University of California Santa Cruz, 1156 High Street, Santa Cruz
+378, Department of Virology and Immunology, Texas Biomedical Research Institute, 7620 NW Loop 410, San Antonio
+378, ECEn Department, 459 Clyde Building, Brigham Young University, Provo
+379,Department for Power, Electronic and Communication Engineering, Faculty of Technical Sciences, University of Novi Sad
+379, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+379, Department of Electrical Engineering and Computer Science, Tufts University, Medford, MA  02155
+380,Dept. of Precision and Microsystems Engineering, Delft University of Technology, Delft, 2628 CD
+380, Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+381,Lang Origami, Alamo, CA, United States
+381, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+381, Degrees of Freedom LLC, 1731 Abbot Kinney Blvd, Venice, CA  90291
+382,Botnar Research Centre, Nuffield Department of Orthopaedics, Rheumatology, and Musculoskeletal Sciences
+382, Electrical and Computer Engineering Department, Brigham Young University, Provo, UT
+383,Department of Engineering, University of Southern Indiana, 8600 University Blvd, Evansville
+383, Department of Mechanical Engineering, Brigham Young University, CTB, Provo
+383, Lang Origami, Alamo, CA  94507, United States
+384,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+384, Department of Geosciences, Virginia Polytechnic Institute and State University, Blacksburg, VA  24061
+384, Peter A. Rock Thermochemistry Laboratory and NEAT ORU, University of California Davis, Davis, CA  95616
+385,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+385, NSF Center for Space, High-performance, and Resilient Computing, Provo
+385, ISR-3-space Data Systems, Los Alamos National Laboratory, Los Alamos, NM  87545
+386,Institute of Informatics, Federal University of Rio Grande Do sul, Porto Alegre, 90040-060
+386, Brigham Young University, Provo, UT  84602, United States
+386, Science and Technology Facility Council, Oxfordshire, OX11 0QX, United Kingdom
+387,Fuzes Branch, Munitions Directorate, Air Force Research Laboratory, Eglin AFB
+387, Mechanical Engineering Department, Brigham Young University, Provo, UT
+388,Graduate School of Engineering, Yokohama National University, 79-5 Tokiwadai, Hodogaya-ku
+388, Graduate School of Engineering Science, Osaka University, 1-3 Machikaneyama-cho, Toyonaka
+388, Department of Physics, Osaka Dental University, 8-1 Kuzuha-hanazono, Hirakata
+388, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+389,DECC, UFSM, Santa Maria, 97105-900
+389, DCEE, Brigham Young University, Provo, 84602
+389, UNIPAMPA, Alegrete, 97546-550, Brazil
+389, Civil Engineering Department, UFSC, Florianópolis, 88040-900
+390,School of Mechano-Electronic Engineering, Xidian University, Xi’an, China
+390, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+390, State Key Laboratory for Manufacturing Systems Engineering and Shaanxi Key Lab of Intelligent Robots, Xi’an Jiaotong University, Xi’an, China
+391,National Institutes of Health,,,
+391, Brigham Young University, United States,,
+391, University of Texas, Austin, United States,
+391, George Mason University, United States,,
+392,Department of Mechanical and Industrial Engineering, University of Illinois at Chicago, Chicago, IL  60607
+392, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+392, Department of Power Engineering, Jadavpur University, Kolkata, 700098
+392, Corporate Research and Engineering, Kimberly-Clark Corporation, Neenah, WI  54956
+393,Brigham Young University, Provo, UT  84602, United States
+393, U.S. Air Force Research Laboratory, Kirtland Air Force Base, New Mexico, 87117
+393, Mechanical Engineering, Crabtree Building, E Campus Dr., United States
+393, Space Vehicles Directorate, 3550 Aberdeen Ave SE, Germany,
+394,California Institute of Technology, Dept. of Mechanical and Civil Engineering, 1200 E. California Blvd., Pasadena
+394, Instituto de Ingeniería de la UNAM, Dept. of Civil Engineering, Mexico City, Mexico
+394, Brigham Young Univ., Dept. of Civil and Environmental Engineering, 368 Clyde Building, Provo
+394, Jacobs School of Engineering, Univ. of California, San Diego, 9500 Gilman Dr.
+395,New Jersey Institute of Technology, United States,,
+395, Qatar Computing Research Institute, Hamad bin Khalifa University, Qatar,
+395, Commonwealth Scientific and Industrial Research Organisation, Australia,,
+395, Brigham Young University, United States,,
+396,Brigham Young University, Provo, UT, United States
+396, Rajiv Mishra University of North Texas, Denton, TX, United States
+396, Yutaka Sato Tohoku University, Sendai, Japan,
+396, Pacific Northwest National Laboratory, Richland, WA, United States
+396, San Jose State University, San Jose, CA, United States
+397,Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA
+397, EOAS and COAPS, Florida State University, Tallahassee, FL
+397, College of Earth, Ocean and Atmospheric Sciences, Oregon State University, Corvallis
+397, Upper Ocean Processes Group, Woods Hole Oceanographic Institution, Woods Hole, MA
+397, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+398,Brigham Young University, 360G EB, Provo, UT  84602
+398, Univ Lyon, CNRS, INSA-Lyon, Université Claude Bernard Lyon 1
+398, ISAE-ENSMA, BP 40109, Futuroscope Chasseneuil Cedex, 86961
+399,Univ Lyon, CNRS, INSA-Lyon, Université Claude Bernard Lyon 1
+399, MEDepartment, Federal University of Rio Grande Do sul, Porto Alegre, RS
+399, Aix-Marseille Université, IUSTI/ UMR CNRS 7343, 5 rue E. Fermi, Marseille
+399, Direction R&D EDF, 6 quai Watier, Chatou, 78400
+399, Brigham Young University, 360G EB, Provo, UT  84602
+400,Aix-Marseille Université, IUSTI/ UMR CNRS 7343, 5 rue E. Fermi, Marseille
+400, Univ Lyon, CNRS, INSA-Lyon, Université Claude Bernard Lyon 1
+400, Department of Mechanical Engineering, Federal University of Rio Grande Do sul, Porto Alegre, RS
+400, Direction R & D EDF, 6 quai Watier, Chatou, 78400
+400, Brigham Young University, 360G EB, Provo, UT  84602
+401,ExxonMobil Development Co., United States,,
+401, University of Calgary, Canada,,
+401, Norce, Norway,,
+401, Brigham Young University, United States,,
+401, DrillScan, United States,,
+401, Baker Hughes GE, United States,,
+401, MindMesh Inc., United States,,
+401, Apache Corp, United States,,
+401, Schlumberger, United States,,
+401, University of Minnesota, United States,,
+401, Integrity Directional, United States,,
+401, Shell Development Co, United States,,
+402,School of Earth and Environmental Sciences, University of St Andrews, St Andrews, United Kingdom
+402, Institute of Geological Sciences, Planetary Sciences and Remote Sensing, Freie Universität Berlin, Germany
+402, Planetary Materials Group, Department of Earth Sciences, Natural History Museum, London
+402, University of Houston, United States,,
+402, Department of Earth and Planetary Sciences, University of Tennessee Knoxville, United States,
+402, ITC, Faculty of Geo-Information Science and Earth Observation, University of Twente, Enschede
+402, Department of Earth Sciences, University of Toronto, Toronto, Canada
+402, Department of Geological Sciences, Brigham Young University, Provo, United States
+402, Department of Physics, University of Helsinki, Helsinki, Finland
+402, Center for Lunar Science and Exploration, Lunar and Planetary Institute, Houston, United States
+403,Dept. of Physics and Astronomy, Brigham Young UniversityUT, United States,
+403, Dept. of Power, Electronics and Com. Engineering, University of Novi Sad, Serbia
+403, Dept. of Electrical and Computer Engineering, Tufts University, Medford, MA
+404,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+404, NSF Center for Space, High-Performance, and Resilient Computing (SHREC), United States
+405,Sandia National Laboratories, Albuquerque, NM  87123, United States
+405, Center for High Performance Reconfigurable Computing, Brigham Young University, Department of Electrical and Computer Engineering, Provo
+406,Dept. of Electrical and Computer Eng, Tufts University, Medford, MA
+406, Dept. of Power Electr. and Comm. Eng, Faculty of Technical Sciences, Novi Sad, Serbia
+406, Dept. of Physics and Astronomy, Brigham Young University, Provo, UT
+407,School of Engineering, University of California Santa Cruz, 1156 High Street, Santa Cruz
+407, Department of Virology and Immunology, Texas Biomedical Research Institute, 7620 NW Loop 410, San Antonio
+407, ECEn Department, Brigham Young University, Provo, UT  84602
+408,Department of Civil & Environmental Engineering, Brigham Young University, Provo, UT
+408, Department of Statistics, Brigham Young University, Provo, UT
+409,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+410,Department of Mechanical Engineering, Brigham Young University, 435 Crabtree Building, Provo
+411,Department of Chemical Engineering, Brigham Young University, 350 L CB, Provo
+412,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+412, Department of Mechanical Engineering, Pennsylvania State University, University Park, PA  16802
+412, Lang Origami, Alamo, CA  94507, United States
+413,State Key Laboratory for Manufacturing Systems Engineering, Xi’an Jiaotong University, Xi’an, Shaanxi  710049
+413, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+414,Brigham Young University, Electrical Computer Engineering, 450-K Engineering Building, Provo
+414, 412 Test Wing/ENI, 307 E. Popson Ave., Edwards AFB, CA  93561
+414, 41240 12th St. West, Palmdale, CA  93551, United States
+414, 2420 Briarwood Lane, Eustis, FL  32726, United States
+414, MITRE Corporation, 7596 Colshire Drive, McLean, VA  22102-7539
+415,Drainage Designer, Drainage Group, Kiewit Engineering Group, Inc.
+415, Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo
+415, Holistic Engineering and Land Management, Inc., 14040 N. Cave Creek Rd., Suite 104
+416,Department of Biology, Brigham Young University, 4102 LSB, Provo
+416, School of Biological Sciences, University of Northern Colorado, Campus Box 92, Greeley
+416, Department of Biology, Utah Valley University, SB 242M, Orem
+416, Department of Instructional Psychology and Technology, Brigham Young University, 150-H MCKB, Provo
+417,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+417, Center for Computing Research, Sandia National Laboratories, Albuquerque, NM  87185
+417, Nuclear Science and Engineering Directorate, Japan Atomic Energy Agency (JAEA), 2-4 Shirane, Shirakata
+418,Department of Mathematics, Brigham Young University, Provo, UT  84602
+418, Center for Applied Scientific Computing, Lawrence Livermore National Laboratory, P. O. Box 8080, L-561
+418, Department of Mathematics, University of Exeter, Exeter, EX4 4QF
+419,National Institute of Clean-and-Low-Carbon Energy, Beijing, 102211, China
+419, Departments of Petroleum and Chemical Engineering, University of Wyoming, Laramie, WY  82071
+419, School of Energy Resources, University of Wyoming, Laramie, WY  82071
+419, School of Resources and Environment Engineering, East China University of Science and Technology, Shanghai, 200237
+419, School of Chemical and Environmental Engineering, China University of Mining and Technology, Beijing, 100080
+419, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+420,Brigham Young University, United States,,
+421,Brigham Young University, 209 ERL, Provo, UT  84602
+421, Brigham Young University, 435T CTB, Provo, UT  84602
+422,Brigham Young University, Provo, UT  84602, United States
+423,Department of Mathematics, Brigham Young University, Provo, UT  84602
+423, Department of Mathematics, Indian Institute of Technology Bombay, Powai, Mumbai
+424,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+424, Draper Laboratory, Cambridge, MA  02139, United States
+425,Engineering Consultants Inc., Little Rock, AR  72201, United States
+425, Department of Civil Engineering, University of Arkansas, Fayetteville, AR  72701
+425, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+426,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+426, Kurt J. Lesker Company, Jefferson Hills, PA  15025, United States
+426, Environmental Molecular Sciences Laboratory, Pacific Northwest National Laboratory, Richland, WA  99352
+427,CReSTIC Laboratory EA3804, University of Reims Champagne-Ardenne, France,
+427, Department of Physics and Astronomy, Brigham Young University, United States,
+427, Los Alamos National Laboratory, Applied Computer Science Group (CCS-7), United States,
+428,Mechanical Engineering Department, University of South Florida, Tampa, FL  33620
+428, Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+429,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+430,Department of Chemical Engineering, Brigham Young University, Provo, UT
+431,Department of Chemical Engineering, 3290 MEB, University of Utah, Salt Lake City
+431, Department of Chemical Engineering, 350 CB, Brigham Young University, Provo
+432,Brigham Young University, Provo, UT, United States
+432, Electrical Consultants Inc., Salt Lake City, UT, United States
+432, Epic, Madison, WI, United States
+432, Kiewit, Omaha, NB, United States
+433,Ames (DOE) Laboratory, Ames, IA  50011, United States
+433, Mechanical Engineering Department, Iowa State University, Ames, IA  50011
+433, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+433, Department of Oral Biology, University of Florida, Gainsville, FL  32610
+433, Department of Oral and Maxillofacial Diagnostic Sciences, University of Florida, Gainsville, FL  32610
+434,Department of Electrical and Computer Engineering, University of Colorado Colorado Springs, Colorado Springs, CO  80918
+434, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+435,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+435, Electrical Engineering and Computer Science Department, University of Kansas, Lawrence, KS
+436,Department of Electrical and Computer Engineering, University of Colorado Colorado Springs, Colorado Springs, CO  80918
+436, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+437,Electrical and Computer Engineering Department, 459 Clyde Building, Brigham Young University, Provo
+438,Department of Construction Management, Clemson University, Clemson, SC
+438, The Haskell and Irene Lemon Construction Science Division, University of Oklahoma, Norman, OK
+438, Construction and Facilities Management, Brigham Young University, Provo, UT
+439,Department of Chemical Engineering, Brigham Young University, Provo, UT
+440,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+441,US Army Corps of Engineers, Engineer Research and Development Center, Coastal and Hydraulics Lab, United States
+441, Brigham Young University, United States,,
+442,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+442, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+442, Department of Physics, University of Redlands, 1200 E Colton Ave, Redlands
+442, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+443,State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, 710049
+443, Institute of Systems Engineering, China Academy of Engineering Physics, No.28, Mianshan road
+443, Department of Mechanical Engineering, Brigham Young University, 435S CTB, Provo
+443, State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, No.64, Xianning road
+444,Department of Chemical Engineering, Brigham Young University, 350 CB, Provo
+444, Department of Biology, 2120 LSB, Brigham Young University, Provo
+444, Department of Physiology and Developmental Biology, 3045 LSB, Brigham Young University, Provo
+445,Manufacturing Engineering Technology, Brigham Young University, Provo, UT
+445, Mechanical Engineering, Brigham Young University, Provo, UT
+445, General Motors R&D, Warren, MI, United States
+446,Compliant Mechanisms Laboratory, Department of Mechanical Engineering, Brigham Young University, Provo
+446, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+447,Technology and Engineering Education, Brigham Young University, Provo, UT
+448,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+449,Department of Physics, Utah State University, Logan, UT  84322
+449, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+449, Department of Chemical Engineering, University of Utah, Salt Lake City, UT  84112
+450,Department of Civil Engineering, Indian Institute of Technology Bombay, Powai, Mumbai
+450, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84604
+450, Department of Civil Engineering, Indian Institute of Technology Bombay, Mumbai, 400076
+450, Department of Engineering, Durham UniversityDH13LE, United Kingdom,
+450, Academy of Scientific and Innovative Research (AcSIR), CSIR Campus, India,
+451,Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA  15213
+451, Department of Aerospace Engineering and Mechanics, University of Alabama, Tuscaloosa, AL  35401
+451, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+451, Department of Surgery, University of Minnesota, Minneapolis, MN  55455
+452,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+453,Electrical Engineering, Brigham Young University, United States,
+453, Department of Electrical Engineering, Brigham Young University, Provo, UT
+454,Compliant Mechanisms Research Laboratory in Mechanical Engineering, Brigham Young University, Provo, UT  84602
+454, Nanocomposite Sensor Research Laboratory in Mechanical Engineering, Brigham Young University, Provo, UT  84602
+454, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+455,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+456,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84606
+457,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+457, Lang Origami, Alamo, CA  94507, United States
+458,Department of Biology, Brigham Young University, Provo, UT
+458, Department of Computer Science, Brigham Young University, Provo, UT
+458, Department of Microbiology and Molecular Biology, Brigham Young University, Provo, UT
+459,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+459, School of Engineering, University of California at Santa Cruz, Santa Cruz, CA  95064
+460,Brigham Young University, Electrical and Computer Engineering Department, Provo, UT  84602
+461,Brigham Young University, Electrical and Computer Engineering, Provo, UT
+462,Brigham Young University, Information and Decision Algorithms Laboratories, Provo, UT  84602
+462, Pacific Northwest National Laboratories, Computational Analytics Division, United States,
+463,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+463, Sensors, Air Force Research Laboratory, 1864 4th St, Wright-Patterson AFB
+464,Computer Science Department, Brigham Young University, Provo, UT  84602
+465,Computer Science Department, Brigham Young University, Provo, UT  84602
+466,Electrical Engineering, Brigham Young University, Provo, UT
+466, Mechanical Engineering, Brigham Young University, Provo, UT
+466, Electrical and Computer Engineering, Brigham Young University, Provo, UT
+467,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+467, Brandenburgische Technische Universität Cottbus-Senftenberg, Cottbus, Germany,
+467, Danville, CA, United States,
+467, Chalmers University, Gothenburg, Sweden,
+468,Department of Mechanical Engineering, Brigham Young University, 435 CTB, Provo
+468, Department of Precision and Microsystems Engineering, Delft University of Technology, Mekelweg 2, Delft
+469,Department of Electrical and Computer Engineering, University of Colorado Colorado Springs, Colorado Springs, CO  80918
+469, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+470,Department of Electrical and Computer Engineering, University of Colorado, Colorado Springs, CO
+470, Department of Electrical and Computer Engineering, Brigham Young UniversityUT, United States,
+470, Instituto de Telecomunicacões, Department of Electrical and Computer Engineering, University of Coimbra, Portugal
+470, CISUC and Department of Informatics Engineering, University of Coimbra, Portugal,
+471,University of Illinois at Urbana-Champaign, United States,,
+471, Brigham Young University, United States,,
+471, MIT Lincoln Laboratory, United States,,
+472,Mechanical Engineering Department, Brigham Young University, Provo, UT
+472, Centre de Thermique et d'Energétique de Lyon, INSA de Lyon, Villeurbanne, France
+473,Northern Arizona University, United States,,
+473, Carnegie Mellon University, United States,,
+473, Brigham Young University, United States,,
+473, Purdue University, United States,,
+474,Instructional Psychology and Technology, Brigham Young University, Provo, United States
+474, Education, Elon University, Elon, United States
+474, Education and Technology, Royal Roads University, Victoria, Canada
+474, Teacher Education and Administration, University of North Texas, Denton, United States
+475,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT
+476,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+476, Research Department, Wavetronix, Provo, UT  84606
+476, Electrical and Computer Engineering Department, Lafayette College, Easton, PA  18042
+477,Northwest Hydraulic Consultants, 12787 Gateway Dr. S., Tukwila, WA  98168
+477, Dept. of Civil and Environment Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo
+477, J-U-B Engineers, Inc., 240 West Center St., Orem
+478,Utah State University, United States,,
+478, Brigham Young University, United States,,
+478, The University of Arizona, United States,,
+478, University of Nevada-Las Vegas, United States,,
+479,State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, 710049
+479, Institute of Systems Engineering, China Academy of Engineering Physics, Mianyang, 621999
+479, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+480,Space Telescope Science Institute, Baltimore, MD, United States
+480, NASA Goddard Space Flight Center, Greenbelt, MD, United States
+480, University of Maryland, Department of Astronomy, College Park, MD
+480, Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA
+480, Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, United States
+480, Queen's University Belfast, Astrophysics Research Centre, Belfast, United Kingdom
+480, MIT, Department of Earth, Atmospheric, and Planetary Sciences
+480, Southwest Research Institute, Boulder, CO, United States
+480, University of Hawaii-Manoa, Institute for Astronomy, Honolulu, HI
+480, MoreData Inc., La Cañada Flintridge, CA, United States
+480, Ohio State University, Center for Cosmology and Astro Particle Physics (CCAPP), Columbus, OH
+480, Planetary Science Institute, Tucson, AZ, United States
+480, Academia Sinica, Institute of Astronomy and Astrophysics, Taipei, Taiwan
+480, INAF Istituto di Astrofisica e Planetologia Spaziali, Rome, Italy,
+480, Smithsonian Institution, National Air and Space Museum, Center for Earth and Planetary Studies, Washington
+480, Brigham Young University, Department of Physics and Astronomy, Brigham City, UT
+480, University of Arizona, Lunar and Planetary Laboratory, Tucson, AZ
+480, Johns Hopkins University, Applied Physics Laboratory, Laurel, MD
+480, University of Central Florida, Florida Space Institute, Orlando, FL
+480, South African Astronomical Observatory, Cape Town, South Africa,
+480, Northern Arizona University, Department of Physics and Astronomy, Flagstaff, AZ
+481,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+481, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+482,School of Technology, Brigham Young University, United States,
+483,Brigham Young University, Ira A. Fulton College of Engineering and Technology, United States,
+484,Brigham Young University, United States,,
+484, Brigham Young University, Museum of Art, United States,
+485,Brigham Young University, Provo, UT, United States
+486,Department of Manufacturing Engineering Technology, Brigham Young University, United States,
+487,Brigham Young University, College of Engineering and Technology, Sociology Department, United States
+488,Department of Engineering Leadership, Ira A. Fulton College of Engineering and Technology, Brigham Young University (BYU), United States
+489,Department of Electrical and Computer Engineering, Brigham Young University, United States,
+490,Purdue University, School of Engineering Education at Purdue, West Lafayette, United States
+490, Brigham Young University, United States,,
+491,Brigham Young University, United States,,
+491, Purdue University, West Lafayette, United States,
+492,Brigham Young University, United States,,
+492, University of Tennessee, Knoxville, United States,
+492, University of Minnesota Duluth, United States,,
+493,Computer and Information Science Department, Gannon University, Erie, PA
+493, Uppsala University, Sweden,,
+493, Purdue University, College of Engineering, West Lafayette, United States
+493, Department of Electronics Engineering Technology and Information Technology, Brigham Young University, United States,
+494,EDAX, United States,,
+494, Brigham Young University, United States,,
+495,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+495, ArcelorMittal Global RandD - East Chicago Automotive Products, East Chicago, IN  46312, United States
+496,Department of Civil and Environmental Engineering, Brigham Young University, 368 CB, Provo
+496, Coreform LLC, P.O. Box 970336, Orem, UT  84097
+497,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+497, Air Force Research Laboratory, Munitions Dir., Eglin AFB, FL
+498,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84042
+499,Department of mechanical of mechanical engineering, Brigham Young University, 435 CTB, Provo
+500,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+501,Ira A. Fulton College of Engineering and Technology, Brigham Young Univ., Provo, UT  84602
+501, School of Sustainable Engineering and the Built Environment, Department Construction Management and Engineering, Arizona State Univ., P.O. Box 873005
+502,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+502, School of Engineering, University of California Santa Cruz, Santa Cruz, CA  95064
+503,State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, 710049
+503, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+504,Dept. of Civil Engineering, Federal Univ. of Sao Carlos, Rod. Washington Luís, km 235
+504, Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo
+504, Dept. of Civil Engineering, Sao Paulo State Univ., Alameda Bahia, 550
+505,School of Electronics and Information Technology, Sun Yat-sen University, Guangzhou, 510006
+505, SYSU-CMU Shunde International Joint Research Institute, Shunde, Foshan, 528399
+505, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+506,Colorado School of Mines, Golden, CO, United States
+506, Brigham Young University, Provo, UT, United States
+506, Los Alamos National Laboratory, Los Alamos, NM, United States
+506, General Motors Company, Warren, MI, United States
+507,Brigham Young University, Provo, UT, United States
+507, Virginia Tech, Blacksburg, VA, United States
+507, Shanghai University, China,,
+507, U.S. Office of Naval Research Global, São Paulo, Brazil,
+508,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+509,Imaging Genetics Center, Keck School of Medicine of USC, Marina del Rey, CA
+509, Department of Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human Behavior, UCLA, Los Angeles
+509, Michael E. DeBakey Veterans Affairs Medical Center, Houston, TX, United States
+509, Department of Physical Medicine and Rehabilitation, Baylor College of Medicine, Houston, TX
+509, Department of Neurology, University of Utah, Salt Lake City, UT
+509, University of Missouri-St. Louis, St. Louis, MO, United States
+509, Ahmanson-Lovelace Brain Mapping Center, Department of Neurology, UCLA, Los Angeles
+509, Defense and Veterans Brain Injury Center, San Antonio, TX, United States
+509, Alaska Radiology Ass., Anchorage, AK, United States
+509, Department of Psychology and Neuroscience, Brigham Young University, Provo, UT
+509, Department of Radiology, Baylor College of Medicine, Houston, TX
+509, Polytrauma Rehabilitation Center, South Texas Veterans Health Care System, San Antonio, TX
+509, James A. Haley Veterans Hospital, Tampa, FL, United States
+509, University of South Florida, Tampa, FL, United States
+509, Psychiatry, Duke University, Durham, NC
+509, Department of Defense, United States Army Medical Research and Materiel Command, United States,
+509, Department of Physical Medicine and Rehabilitation, Virginia Commonwealth University, Richmond, VA
+509, Hunter Holmes McGuire VAMC, Richmond, VA, United States
+509, Departments of Neurology, Pediatrics, Psychiatry, Radiology
+510,Brigham Young University, Provo, UT, United States
+510, University of Puget Sound, Tacoma, WA, United States
+510, University of Nebraska at Omaha, Omaha, NE, United States
+510, University of Dayton, Dayton, OH, United States
+511,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+512,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+512, Department of Psychology and Neuroscience, Brigham Young University, Provo, UT  84602
+512, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+512, General Electric Global Research (GE-GR), 1 Research Circle, Niskayuna, NY  12309
+513,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+514,Brigham Young University, 435 CTB, Provo, UT  84602
+515,Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+515, Coreform LLC, P.O. Box 970336, Orem, UT  84097
+515, Lehrstuhl für Technische Mechanik, Technische Universität Kaiserslautern, Gottlieb-Daimler-Str., Kaiserslautern
+515, Istituto di Matematica Applicata e Tecnologie Informatiche del CNR, Via Ferrata 1, Pavia, 27100
+516,Department of Civil and Environmental Engineering, University of Connecticut, Storrs, CT
+516, Department of Statistics, Brigham Young University, Provo, UT
+516, Department of Emergency Response, Eversource Energy, Jacksonville, AL
+516, Department of Emergency Management, Jacksonville State University, Jacksonville, AL
+517,Brigham Young University, Department of Mechanical Engineering, Provo, UT
+517, Brigham Young University, Department of Exercise Science, Provo, UT
+518,Department of Chemistry and Biochemistry, Brigham Young University, C100 Benson Building, Provo
+518, Department of Chemical Engineering, Brigham Young University, 350 Clyde Building, Provo
+519,Department of Mathematics, Brigham Young University, Provo, UT  84602
+519, Department of Mathematics and Statistics, University of Wyoming, Laramie, WY  82071
+520,Mechanical Engineering Dept., Brigham Young University, Provo, UT
+520, Mechanical and Aerospace Engineering Dept., University of California, Los Angeles, CA
+521,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+522,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT
+523,Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+523, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+524,Lang Origami, Alamo, CA  94507, United States
+524, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+525,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+525, Department of Mechanical Engineering, Iowa State University, Ames, IA  50011
+525, Department of Mechanical, Industrial and Manufacturing Engineering, Oregon State University, Corvallis
+526,Verum TCS, LLC, Salt Lake City, UT
+526, Department of Bioengineering, University of Utah, Salt Lake City, UT
+526, Department of Anesthesiology, University of Utah, Salt Lake City, UT
+526, Department of Biomedical Engineering, Duke University, Durham, NC
+526, Department of Plant and Wildlife Sciences, Brigham Young University, Provo, UT
+527,School of Transportation Engineering, Tongji University, Shanghai, 201804
+527, Road and Traffic Key Laboratory, Ministry of Education, Shanghai, 201804
+527, National Engineering Laboratory for Integrated Optimization of Road Traffic and Safety Analysis Technologies, China,,
+527, Civil, Environmental and Construction Engineering, University of Central Florida, Orlando
+527, Department of Civil & Environmental Engineering, Brigham Young University, Provo, UT  84602
+528,Department of Power, Electronic and Communication Engineering, Faculty of Technical Sciences, Novi Sad
+528, Department of Physics and Astronomy, Brigham Young University, Provo, UT
+528, Department of Electrical and Computer Engineering, Tufts University, Medford, MA
+529,Dept of Comp Eng, Çukurova University, Adana, Turkey
+529, IP and Optical Dept, Nokia Networks, Ankara, Turkey
+529, Dept of Ex Sci, Brigham Young U, Provo, UT
+530,Computer Science Department, Brigham Young University, Provo, UT  84602
+531,Computer Science Department, Brigham Young University, Provo, UT  84602
+532,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+532, Department of Materials Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA  02139
+533,Chemical Engineering Department, Brigham Young University, Provo, UT  84602
+533, RMRS Missoula Fire Sciences Laboratory, USDA Forest Service, Missoula, MT  59808
+534,Oregon State University, United States,,
+534, US Army Research Laboratory, United States,,
+534, Brigham Young University, United States,,
+535,University of California Los Angeles, United States,,
+535, Chuo University, Tokyo, Japan,
+535, Department of Civil Engineering, Kyushu University, Fukuoka, Japan
+535, University of Colorado Boulder, Boulder, CO, United States
+535, Brigham Young University, Provo, UT, United States
+535, AECOM, San Jose, CA, United States
+535, University of California, Berkeley, United States,
+535, University of California, San Diego, United States,
+535, Tufts University, Medford, MA, United States
+536,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+536, Department of Chemistry and Biochemistry, Brigham Young University, A-Provo, UT  84602
+537,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+538,University of British Columbia, Canada,,
+538, Brigham-Young University, United States,,
+539,Department of Aerospace Engineering and Mechanics, University of Alabama, Tuscaloosa, AL  35401
+539, Department of Bioengineering, University of PittsburghPA  15260, United States,
+539, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+540,Department of Fine Chemistry and Department of Interdisciplinary Bio IT Materials, Seoul National University of Science and Technology, Seoul, 139-743
+540, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+541,Dept. of Electrical and Computer Engineering, Tufts University, Medford, MA
+541, Dept. of Power, Electronics and Com. Engineering, University of Novi Sad, Faculty of Technical Sciences
+541, Dept. of Physics and Astronomy, Brigham Young UniversityUT, United States,
+542,Information and Decision Algorithms Laboratories, Department of Computer Science, Brigham Young University, Provo
+542, Department of Electrical and Computer Engineering, University of Calgary, Calgary, Canada
+543,Lucid Software Inc, United States,,
+543, Brigham Young University, United States,,
+544,Department of Electrical Engineering and Computer Science, Washington State University, Pullman, WA  99164
+544, Information and Decision Algorithms Laboratories, Brigham Young University, Provo, UT  84602
+545,Brigham Young University, United States,,
+546,Brigham Young University, Department of Mechanical Engineering, Provo, UT
+546, Brigham Young University, Department of Exercise Science, Provo, UT
+547,Department of Mechanical Engineering, Brigham Young University, 435 CTB, Provo
+548,Brigham Young University, United States,,
+549,Brigham Young University, Provo, UT, United States
+550,Department of Mechanical Engineering, Brigham Young University, Provo, Utah
+550, East Hartford, CT  06118, United States,
+551,Brigham Young University, Department of Mechanical Engineering, Provo, UT  84602
+552,Construction and Facilities Management Program, Brigham Young Univ., Provo, UT  84602
+553,Mechanical Engineering, Brigham Young University, Provo, UT  84602
+554,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+555,Brigham Young University, Department of Mechanical Engineering, Provo, UT  84602
+556,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+557,Brigham Young University, United States,,
+558,Brigham Young University, Provo, UT, United States
+559,Civil and Environmental Engineering Dept, Brigham Young University, United States,
+560,Brigham Young University, United States,,
+561,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+562,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+563,N245 ESC, Brigham Young University, Provo, UT  84602
+564,Brigham Young University, United States,,
+565,Brigham Young University, United States,,
+566,Brigham Young University, United States,,
+567,Brigham Young University, Provo, UT, United States
+568,School of Technology, Brigham Young University, 265 CTB, Provo
+569,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+570,Dept. of Civil and Environmental Engineering, Brigham Young Univ., 376 Clyde Building, Provo
+571,Electrical and Computer Engineering Department, 459 Clyde Building, Brigham Young University, Provo
+572,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+572, Manufacturing Engineering Technology, Brigham Young University, Provo, UT  84602
+573,Manufacturing Engineering Technology, Brigham Young University, Provo, UT  84602
+573, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+574,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+575,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+576,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+577,Brigham Young University, United States,,
+578,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+578, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+579,Brigham Young University, Provo, UT  84604, United States
+580,Compliant Mechanisms Laboratory, Department of Mechanical Engineering, Brigham Young University, Provo
+580, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+581,Compliant Mechanisms Research, Department of Mechanical Engineering, Brigham Young University, Provo
+582,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+583,Compliant Mechanisms Research, Department of Mechanical Engineering, Brigham Young University, Provo
+584,Graduate Research Assistent, Department of Mechanical Engineering, Brigham Young University, Provo
+584, Research Assistent, Department Sociology, Brigham Young University, Provo
+584, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84604
+584, Department of Sociology, Brigham Young University, Provo, UT  84604
+585,Dept. of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+586,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+587,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+588,NSF Center for High-Performance Reconfigurable Computing, Brigham Young University, Provo, UT  84602
+589,Brigham Young University, Department of Mechanical Engineering, Provo, UT  84602
+590,Brigham Young University, 459 Clyde Building, Provo, UT
+591,Department of Physics and Astronomy, Brigham Young University, Provo, UT
+591, Department of Electrical Engineering, Brigham Young University, Provo, UT
+592,Brigham Young University, Provo, UT, United States
+593,Brigham Young University, Provo, UT, United States
+593, Wavetronix LLC, Provo, UT, United States
+594,Department of Civil and Environmental Engineering, Brigham Young University, 368 Clyde Bldg., Provo
+594, US Bureau of Reclamation, United States,,
+595,BYU Turbomachinery Research Laboratory, Department of Mechanical Engineering, Brigham Young University, Provo
+595, Compressor Aero Research Laboratory, Air Force Research Laboratory, Propulsion Directorate, Wright-Patterson AFB
+596,Aerion Technologies Corporation, Mechanical Engineering Department, Palo Alto, CA  94303
+596, Brigham Young University, Mechanical Engineering Department, Provo, UT  84602
+597,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+597, Siemens Product Lifecycle Management Software, Inc., Livonia, MI  48152
+598,Lang Origami, Alamo, CA  94507, United States
+598, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+599,Lang Origami, Alamo, CA  94507, United States
+599, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+600,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+600, New Product Development, Intuitive Surgical Inc., Sunnyvale, CA  94086
+601,Project Engineer I, WPD and Associates Consulting Engineers. Inc., 335 Greenbrier Drive, Charlottesville
+601, Department of Civil and Environmental Engineering, Brigham Young University, 368 Clyde Building, Provo
+602,WDP and Associates, 10621 Gateway Blvd., Suite 200, Manassas
+602, Brigham Young University, 368R Clyde Building, Provo, UT  84604
+603,School of Teacher Education and Leadership, Utah State University, Logan, UT
+603, Department of Psychology, Brigham Young University, Provo, UT
+603, Department of Engineering Education, Utah State University, Logan, UT
+604,Brigham Young University, 368-E CB, Provo, UT  84602
+604, TRC, Taylorsville, UT  84321, United States
+605,Brigham Young University, 435 CTB, Provo, UT  84602
+605, Boeing Company, P.O. Box 3707, Seattle, WA  98124
+606,METER Group, Inc., 2365 NE Hopkins Court, Pullman
+606, Dept. of Plant and Wildlife Sciences, Brigham Young Univ., Provo, UT  84602
+607,Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+607, School of Engineering, University of California, Santa Cruz, 1156 High Street
+608,Brigham Young University, Electrical and Computer Engineering, 459 Clyde Building, Provo
+608, University of California, Santa Cruz, School of Engineering, 1156 High Street
+609,GeoEngineers, Inc., 11955 Lakeland Park Blvd., Baton Rouge
+609, Dept. of Civil and Environmental Engineering, Brigham Young Univ., Provo, UT  84604
+610,Univ. of Arkansas, Fayetteville, AR  72701, United States
+610, Brigham Young Univ., Provo, UT  84602, United States
+611,Geoestudios, J. Assaf B. St., 704-3, Guayaquil
+611, Civil and Environmental Engineering Dept., 368 CB Brigham Young Univ., Provo, UT  84604
+612,Dept. of Civil and Environmental Engineering, Brigham Young Univ., Provo, UT  84602
+612, U.S. Bureau of Reclamation, 302 E. 1860 S., Provo, UT  84606-7137
+613,Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Building, Provo
+613, AECOM, 756 East Winchester St., Salt Lake City, UT  84107
+614,Department of Population and Quantitative Health Sciences, Case Western Reserve University, Cleveland, OH  44106
+614, Department of Health Science, Brigham Young University, Provo, UT  84602
+615,Brigham Young University, United States,,
+615, General Motors LLC, United States,,
+616,Department of Mechanical Engineering, Brigham Young University, 435 CTB, Provo
+616, National Renewable Energy Laboratory, Golden, CO  80401, United States
+616, National Wind Technology Center, 18200 CO-128, Boulder, CO  80303
+617,435P CTB, Brigham Young University, Provo, UT  84602
+617, Mail Code: 0U-23, Boeing Company, P.O. Box 3707, Seattle
+618,Department of Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS  66045
+618, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+619,The University of Texas at Dallas, United States,,
+619, Brigham Young University, United States,,
+620,Department of Physics and Astronomy, Brigham Young University, Provo, UT
+620, Geophysics Group (EES-17), Los Alamos National Laboratory, Los Alamos, NM
+620, Detonation Science and Technology Group (Q-6), Los Alamos National Laboratory, Los Alamos, NM
+621,Department of Chemical Engineering, Brigham Young University, Provo, UT
+621, Earth and Environmental Sciences Division, Los Alamos National Laboratory, Los Alamos, NM
+622,Brigham Young University, 350 Clyde Building, Provo, UT
+622, AFRL RYAT, Wright Patterson AFB, OH, United States
+623,Brigham Young University, Department of Physics and Astronomy, N233 ESC, Provo
+623, Brigham Young University, Dept. of Physics and Astronomy, N243 ESC, Provo
+623, Brigham Young University, Dept. of Physics and Astronomy, N251 ESC, Provo
+623, Battlespace Acoustics Branch, Air Force Research Laboratory, Wright-Patterson Air Force Base, 2610 Seventh St.
+623, Blue Ridge Research and Consulting, 29 N Market St, Suite 700, Asheville
+624,Brigham Young University, Dept. of Physics and Astronomy, N283 ESC, Provo
+624, Air Force Research Laboratory, Battlespace Acoustics Branch, Wright-Patterson AFB, 2610 Seventh St. Bldg. 441OH  45433
+624, Blue Ridge Research and Consulting, 29 N Market St., Suite 700, Asheville
+625,Brigham Young University, Provo, UT  84602, United States
+625, Air Force Research Laboratory, Wright-Patterson Air Force Base, 2610 Seventh St., Bldg. 441OH  45433
+625, Blue Ridge Research and Consulting, LLC, Asheville, NC  28801
+625, Dept. of Physics and AstronomyN283 ESC, Canada,,
+625, 29 N Market St, Suite 700, United States,
+626,Dept. of Physics and Astronomy, Brigham Young University, N283 ESC, Provo
+626, Battlespace Acoustics Branch, Air Force Research Laboratory, Wright-Patterson Air Force Base, 2610 Seventh St.
+626, Blue Ridge Research and Consulting, LLC, 29 N Market St, Suite 700
+627,NASA Glenn Research Center, 21000 Brookpark Rd, Cleveland, OH  44135
+627, Peerless Technologies Corporation, 2300 National Rd, Beavercreek, OH  45324
+627, Brigham Young University, Provo, UT  84602, United States
+628,Department of Engineering, Universita di Napoli Parthenope, Napoli, 80143
+628, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+628, Marine Geophysics Laboratory, James Cook University, Townsville, QLD  4811
+629,Department of Chemical Engineering, 350 Clyde Building, Brigham Young University, Provo
+629, Astro Technology, Inc., 712 Main Street, Houston
+629, Ocean Flow International, 2100 West Loop South Suite 500, Houston, TX  77027
+630,Department of Informatics, University of California, Irvine, Irvine
+630, Computer Science Department, Brigham Young University, Provo, UT  84602
+630, College of Information Engineering, China Jiliang University, Hangzhou, 310018
+631,University of Florida, Gainesville, FL, United States
+631, Kansas State University, Manhattan, KS, United States
+631, Brigham Young University, Provo, UT, United States
+632,Istituto Nazionale di Geofisica e Vulcanologia, L'Aquila, 67100, Italy
+632, Dept. Civil Env. Engineering, Brigham Young Univ., Provo, UT  84602
+632, Dept. Civil, Arch. Env. Engineering, Univ. of l'Aquila, L'Aquila
+632, Istituto Nazionale di Geofisica e Vulcanologia, Rome, 00143, Italy
+633,Magdalena 181, Las Condes, Santiago, 7550055
+633, Dept. of Geotechnical and Structural Engineering, Pontificia Univ. Católica de Chile, Vicuña Mackenna 4860, Macul
+633, Center for Integrated Natural Disaster Management CONICYT/FONDAP/15110017, Vicuña Mackenna 4860, Macul, Santiago
+633, Dept. of Civil and Environ. Engineering, Brigham Young Univ., Provo, UT  84602
+634,Brigham Young University, Crabtree Building, E Campus Dr., Provo
+634, Air Force Research Laboratory Space Vehicles Directorate, Kirtland AFB, 3550 Aberdeen Ave SENM  87117, United States
+635,Washington State University, Pullman, WA  99163, United States
+635, Missouri University of Science and Technology, Rolla, MO  65409, United States
+635, Brigham Young University, Provo, UT  84602, United States
+636,Department of Engineering Education, Utah State University, Logan, UT
+636, School of Teacher Education and Leadership, Utah State University, Logan, UT
+636, Educational Psychology and Higher Education, University of Nevada-Las Vegas, Las Vegas, NV
+636, Department of Psychology, Brigham Young University, Provo, UT
+637,School of Mechanical and Materials Engineering, Washington State University, Pullman, WA  99163
+637, Manufacturing Engineering Technology, Brigham Young University, Provo, UT  84602
+637, Pacific Northwest National Lab, Richland, WA  99352, United States
+638,School of Mechanical and Materials Engineering, Washington State University, Pullman, WA  99164
+638, Pacific Northwest National Laboratory, Richland, WA  99354, United States
+638, Brigham Young University, Provo, UT  84602, United States
+639,Brigham Young University, Provo, UT, United States
+639, West Virginia University, Morgantown, WV, United States
+639, Green Bank Observatory, Green Bank, WV, United States
+639, National Radio Astronomy Observatory CDL, Charlottesville, VA, United States
+640,Department of Advanced Energy, Graduate School of Frontier Sciences, AIAA, University of Tokyo
+640, Department of Physics and Astronomy, N283 ESC. Member, AIAA, Brigham Young University
+640, Department of Aeronautics and Astronautics, Graduate School of Engineering., Senior Member AIAA, University of Tokyo
+640, Aerospace Research and Development Directorate, Research Unit III, AIAA. Japan Aerospace Exploration Agency, Kanagawa
+641,MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA
+641, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+642,Brigham Young University, Provo, UT, United States
+642, Riverside Research, Beavercreek, OH, United States
+642, Washington State University, Pullman, WA, United States
+643,Brigham Young Univ., United States,,
+643, Oak Ridge National Lab., United States,,
+643, Univ. of Tennessee, United States,,
+644,Department of Structures and Civil Engineering, Federal University of Santa Maria, Brazil,
+644, Department of Civil and Environmental Engineering, Brigham Young University, 368 Clyde Building, Provo
+644, Civil Engineering, Federal University of Pampa, Brazil,
+644, Civil Engineering Department, Federal University of Santa Catarina, Brazil,
+645,Department of Mechanical and Aerospace Engineering, North Carolina State University, Raleigh, NC  27695
+645, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+645, Naval Undersea Warfare Center, Advanced Instrumentation System Technology, AIST Executing Agent, Code 709
+646,City, University of London, United Kingdom,
+646, Brigham Young University, United States,,
+646, Budapest University of Technology and Economics, Hungary,,
+646, Džemal Bijedić University of Mostar, Bosnia and Herzegovina,,
+647,Astro Technology, Inc., Houston, TX
+647, Brigham Young University, Provo, UT, United States
+647, Aerodyne Industries, LLC, Houston, TX
+647, NASA-Johnson Space Center, Houston, TX, United States
+648,Infrastructure Financial Consulting, 3507 North Univ. Ave., Provo, UT  84604
+648, Marriott School of Management, Brigham Young Univ., 730 TNRB, Provo
+648, Buried Asset Management Infrastructure-International, Louisiana Tech Univ., 1207 Agriculture Dr., Ruston
+649,Utah State University, United States,,
+649, North Dakota State University, United States,,
+649, Brigham Young University, United States,,
+649, ESIReims, France,,
+650,Los Alamos National Lab, Los Alamos, NM  87545, United States
+650, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+650, Sustainable Energy Solutions LLC, Orem, UT  84058, United States
+650, Pacific Northwest National Lab, Richland, WA  99352, United States
+650, National Energy Technology Lab, Pittsburgh, PA  10940, United States
+651,University of Florida, Shalimar, FL  32579, United States
+651, Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, MA  02421
+651, Monovo, Salt Lake City, UT  84047, United States
+651, Princeton University, Princeton, NJ  08544, United States
+651, Brigham Young University, Provo, UT  84602, United States
+652,Infrastructure Financial Consulting, 3507 North Univ. Ave., Provo, UT  84604
+652, Marriott School of Management, Brigham Young Univ., 730 TNRB, Provo
+652, Buried Asset Management Infrastructure-International, Louisiana Tech Univ., 1207 Agriculture Dr., Ruston
+652, Sustainable Solutions Corporation, 155 Railroad Plaza, Royersford, PA  19468
+652, International Society of Sustainability Professionals, 1936 Fifth Ave., Pittsburgh, PA  15219
+653,Infrastructure Financial Consulting, 3507 North Univ. Ave., Provo, UT  84604
+653, Marriott School of Management, Brigham Young Univ., 730 TNRB, Provo
+653, Buried Asset Management Infrastructure-International, Louisiana Tech Univ., 1207 Agriculture Dr., Ruston
+653, Sustainable Solutions Corporation, 155 Railroad Plaza, Royersford, PA  19468
+653, International Society of Sustainability Professionals, 1936 Fifth Ave., Pittsburgh, PA  15219
+654,Dept. of Civil and Environment Engineering, Brigham Young Univ., 368, Provo
+654, Caruso Turley Scott, Structural Engineers, 1215 W. Rio Salado Pkwy, Tempe
+654, U.S. Army Corps of Engineers, Kansas City District, 601 E. 12th -Rfsti, Kansas City
+654, GeoEngineers Inc, 523 E. 2nd Ave, Spokane, WA  99202
+654, Nicholson Construction Company, 2400 Ansys Dr Suite 303, Canonsburg, PA  15317
+654, Association for Mechanically Stabilized Earth, P.O. Bo. 9133, Reston, VA  20195-3033
+655,Infrastructure Financial Consulting, 3507 North University Ave., Provo, UT  84604
+655, Marriott School of Management, Brigham Young Univ., 730 TNRB, Provo
+655, Buried Asset Management Infrastructure-International, Louisiana Tech Univ., 1207 Agriculture Dr., Ruston
+655, Utah State Univ. (USU), Buried Structures Laboratory, 3000 Old Main Hill, Logan
+655, American Water Works Association, Transportation Research Board Committee on Culverts and Hydraulic Structures, United States,
+656,International Association for the Advancement of Space Safety (IAASS), Netherlands,,
+656, Paychex, Webster, NY, United States
+656, Department of Integrated Systems Engineering, Ohio State University, United States,
+656, College of Medicine, School of Health and Rehabilitation Sciences, Division of Health Information Management and Systems, United States
+656, Brigham Young University, United States,,
+656, University of Kansas, United States,,
+656, Centre National d'Etudes Spatiales, French Space Agency, France,
+656, Guiana Space Center, Flight Safety Department of CNES/CSG, French Guiana,
+656, Department at CNES, Guiana Space Center, Kourou, French Guiana
+657,Department of Radiology, BenQ Medical Center, Affiliated BenQ Hospital, Nanjing Medical University
+657, Department of Healthcare Administration, Central Taiwan University of Science and Technology, Taichung, 40601
+657, Department of Health Services Administration, China Medical University, Taichung, 40402
+657, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+657, Department of Industrial Education and Technology, National Changhua University of Education, Changhua County, 50007
+657, Department of Management Information Systems, Central Taiwan University of Science and Technology, Taichung, 40601
+657, Department of Internal Medicine, Taichung Hospital, Ministry of Health and Welfare, Taichung
+657, Department of Dental Technology and Materials Science, Central Taiwan University of Science and Technology, Taichung, 40601
+658,Infrastructure Financial Consulting, 3507 North University Ave., Provo, UT  84604
+658, Marriott School of Management, Brigham Young Univ., 730 TNRB, Provo
+658, Buried Asset Management Infrastructure-International, Louisiana Tech Univ., 1207 Agriculture Dr., Ruston
+658, Cityworks/Azteca Systems LLC, 11075 South State St., Sandy, UT  84070
+658, Public Service and Administration, Bush School of Government and Public Service, Texas AandM Univ., 1004 George Bush Dr. West
+658, Institute of Asset Management-USA, 13530 Dulles Technology Dr., Herndon, VA  20171
+658, Dept. of Civil and Environmental Engineering, Virginia Tech College, 200 Patton Hall, 750 Drillfield Dr.
+659,Brigham Young University, S-389 ESC, Provo, UT  84601
+659, Utrecht University, Utrecht, Netherlands,
+659, Johns Hopkins University Applied Physics Laboratory, Laurel, MD  20723, United States
+659, NASA Jet Propulsion Laboratory, Pasadena, CA  91109, United States
+659, US Geological Survey, Astrogeology Division, Flagstaff, AZ  86001
+659, Department of Astronomy, Cornell University, Ithaca, NY  14853
+659, School of Earth and Space Exploration, Arizona State University, Tempe, AZ  85287
+659, Department of Physics, University of Idaho, Moscow, ID  83844
+659, LATMOS Observatoire de Versailles Saint-Quentin-en-Yvelines (OVSQ), Paris, France,
+659, Proxemy Research, Greenbelt, MD  20770, United States
+659, Observatoire Aquitain des Sciences de l'Univers, Universite de Bordeaux, Floirac, France
+660,Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute Keck, School of Medicine, University of Southern California
+660, Department of Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human Behavior, University of California at Los Angeles, Los Angeles
+660, Department of Mental Health, Veterans Affairs Greater Los Angeles Healthcare System, Los Angeles, CA
+660, Department of Psychology, University of California at Los Angeles, Los Angeles, CA
+660, Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA
+660, Departments of Neurology, Psychiatry, Radiology, Engineering
+660, Department of Psychiatry and Neuropsychology, Maastricht University, Netherlands,
+660, Department of Psychiatry and Behavioral Sciences, State University of New York, Upstate Medical UniversityNY, United States
+660, Department of Psychology, Syracuse University, Syracuse, NY
+660, Priority Research Centre GrowUpWell, School of Psychology, University of Newcastle, Australia
+660, School of Psychology, University of Newcastle, Australia,
+660, Sackler Institute for Translational Neurodevelopment, Department of Forensic and Neurodevelopmental Sciences, King's College London, Institute of Psychiatry
+660, National Autism Unit, Bethlem Royal Hospital, United Kingdom,
+660, Division of Human Genetics, Children's Hospital of Philadelphia, Perelman School of Medicine, University of Pennsylvania
+660, Department of Psychiatry, University of Pennsylvania, Philadelphia, PA
+660, Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania and Children's Hospital of Philadelphia, Philadelphia
+660, Departments of Radiology and Psychiatry, University of Pennsylvania, Philadelphia, PA
+660, UC Davis MIND Institute and Department of Psychiatry and Behavioral SciencesCA, United States,,
+660, Brigham Young UniversityUT, United States,,
+660, MRC Centre for Neuropsychiatric Genetics and Genomics, Division of Psychological Medicine and Clinical Neurosciences, Cardiff University, Cardiff
+660, Cardiff University Brain Research Imaging Centre (CUBRIC), Cardiff University, Cardiff, United Kingdom
+661,Department of Computer Science, Brigham Young University, Provo, UT  84602
+662,Department of Mechanical Engineering, Brigham Young University, United States,
+662, Department of Computer Science, Brigham Young University, United States,
+663,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+664,Johns Hopkins University, Applied Physics Laboratory, Laurel, MD
+664, Department of Electrical Engineering, Brigham Young University, Provo, UT
+665,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+666,Department of Mechanical Engineering, Brigham Young University, Provo, United States
+666, Department of Statistics, Brigham Young University, Provo, United States
+666, Department of Exercise Science, Brigham Young University, Provo, United States
+667,Department of Communication Disorders, Brigham Young University, Provo, UT
+668,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+668, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+668, Engineering Laboratory, University of Cambridge, Trumpington Street, Cambridge
+669,Lafayette College, Easton, PA  18042, United States
+669, Wavetronix, LLC, Provo, UT  84606
+669, Brigham Young University, Provo, UT  84602, United States
+670,Department of Mathematics, Brigham Young University, Provo, UT  84602
+670, Department of Mathematics, University of Wyoming, Laramie, WY  82071
+670, Department of Mathematics, Indiana University, Bloomington, IN  47402
+671,Center for Infrastructure, Energy, and Space Testing, University of Colorado Boulder
+671, Department of Civil, Environmental, and Architectural Engineering, University of Colorado Boulder
+671, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT
+671, United States Geological Survey, Menlo Park, CA, United States
+671, Department of Civil and Environmental Engineering, University of California, Los Angeles, CA
+671, AECOM, San Jose, CA, United States
+672,Department of Technical Communication, University of North Texas, Denton, TX  76203
+672, Department of English, University of South Alabama, Mobile, AL  36688
+672, Department of English, Queens University, Charlotte, NC  28297
+672, Department of Linguistics and English Language, Brigham Young University, Provo, UT  84602
+672, Department of Management, University of Alabama, Tuscaloosa, AL  35487
+673,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+673, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+674,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+675,Manufacturing Engineering Technology, Brigham Young University, Provo, UT
+676,Brigham Young University, Provo, UT  84602, United States
+676, Georgia Institute of Technology, Atlanta, GA  30332, United States
+676, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+677,Departament d'Enginyeria Mecànica, Universitat Rovira i Virgili, Av. Països Catalans, 26
+677, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+678,Department of Mechanical and Aerospace Engineering, North Carolina State University, Raleigh, NC  27695
+678, Centre for Microsystems Technology, Elis Department, Ghent University-IMEC, Ghent
+678, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+679,MIT Lincoln Laboratory, United States,,
+679, Brigham Young University, United States,,
+680,Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+681,Department of Electrical Engineering, Brigham Young University ProvoUT, United States,
+682,Department of Computer and Information Sciences, Brigham Young University, Hawaii, United States
+682, Information and Decision Algorithms Laboratories, Brigham Young University, United States,
+683,Optisys LLC, West Jordan, UT, United States
+683, Brigham Young University, Provo, UT, United States
+684,Brigham Young University, Provo, UT, United States
+685,Brigham Young Univ., 4198 JFSB, Provo, UT  84602
+686,Department of Mechanical Engineering, Brigham Young University, 435 CTB BYU, Provo
+686, Department of Chemical Engineering, Brigham Young University, 350 CB BYU, Provo
+687,Hales Engineering LLC, Lehi, UT  84043, United States
+687, Department of Civil & Environmental Engineering, Brigham Young University, Provo, UT  84602
+687, Department of Statistics, Brigham Young University, Provo, UT  84602
+688,Instructional Psychology and Technology Department, Brigham Young University, 150 MCKB, Provo
+688, Human and Computer Interaction Group, Department of Computer Science, KU Leuven, Celestijnenlaan 200A
+689,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+689, Department of Mechanical and Aerospace Engineering, North Carolina State University, Raleigh, NC  27695
+690,Dipartimento di Fisica, Università degli Studi di Milano, via G. Celoria, 16
+690, INFN Milano, via G. Celoria, 16, Milano
+690, NSF Center for High Performance Reconfigurable Computing, Department of Electrical and Computer Engineering, Brigham Young University, Provo
+690, Brookhaven National Laboratory, UptonNY, United States,
+691,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+692,Brigham Young University, United States,,
+693,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+693, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+694,Department of Mechanical Engineering, Brigham Young University, 435B CTB, Provo
+694, Department of Statistics, Brigham Young University, Provo, UT  84602
+694, Department of Exercise Science, Brigham Young University, Provo, UT  84602
+695,Brigham Young University, United States,,
+696,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+697,Brigham Young University, Department of Economics, 135 FOB, Provo
+698,Department of Health Science, Brigham Young University, Provo, UT
+698, Microbiology & Molecular Biology, Brigham Young University, Provo, UT
+699,Compliant Mechanisms Research Group, Department of Mechanical Engineering, Brigham Young University, Provo
+699, New Product Development, Intuitive Surgical, Inc., Sunnyvale
+699, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+700,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+700, Learning, Training, and Development, Boeing
+701,Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, United Kingdom
+701, Electrical and Computer Engineering Department, Brigham Young University, United States,
+702,University of Maryland, College Park, MD, United States
+702, Brigham Young University, Provo, UT, United States
+702, University of Colorado Boulder, Boulder, CO, United States
+703,Department of Mechanical and Aerospace Engineering, Utah State University, Logan, UT  84322
+703, Vandelay Industries, Barrington, RI  02806, United States
+703, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+704,Brigham Young University, United States,,
+704, University of South Alabama, United States,,
+705,Brigham Young University, Provo, UT  84602, United States
+706,Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+706, Baskin School of Engineering, University of California, Santa Cruz, Santa Cruz
+707,Department of Mechanical Engineering, Neuroscience Center, Brigham Young University, Provo
+707, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+708,Department of Mechanical and Aerospace Engineering, Utah State University, Logan, UT  84322
+708, Naval Undersea Warfare Center Division Newport, Newport, RI  02841, United States
+708, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+708, School of Engineering, Brown University, Providence, RI  02912
+709,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+709, Department of Mathematics, Brigham Young University, Provo, UT  84602
+710,Communications Technology Laboratory, National Institute of Standards and Technology, Boulder, CO  80305
+710, Statistical Engineering Division, National Institute of Standards and Technology, Boulder, CO  80305
+710, Wireless Technology Development, Starkey Hearing Technologies, Eden Prairie, MN  55344
+710, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+711,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+711, Los Alamos National Laboratories, Los Alamos, NM  87545, United States
+711, Xilinx, San Jose, CA  95124, United States
+711, L-3 Communications, Communication Systems - West, Salt Lake City, UT  84118
+712,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+712, L-3 Communications, Communication Systems - West, Salt Lake City, UT  84118
+712, Los Alamos National Laboratories, Los Alamos, NM  87545, United States
+712, Xilinx, San Jose, CA  95124, United States
+712, 412 Test Wing, Edwards AFB, CA  93524, United States
+713,School of Mechanical Engineering, University of Ulsan, Ulsan, South Korea
+713, Automotive Parts Innovation Center, Ulsan Techno Park, Ulsan, South Korea
+713, Department of Manufacturing Engineering Technology, Brigham Young University, Provo, UT  84602-9601
+713, Environment Materials and Components Center, Korea Institute of Industrial Technology, Jeonju, South Korea
+713, Department of Materials Science & Engineering, RIAM, Seoul National University, Seoul
+713, Center for Iron & Steel Research, RIAM, Seoul National University, Seoul
+714,Center for Materials Physics and Technology, Code 6390, U.S. Naval Research Laboratory, Washington
+714, Center for Materials Genomics, Duke University, Durham, NC  27708
+714, Department of Mechanical Engineering and Materials Science, Duke University, Durham, NC  27708
+714, Department of Physics, NRCN, P.O. Box 9001, Beer-Sheva
+714, Department of Chemistry, St. Olaf College, Northfield, Minnesota  55057
+714, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+714, Materials Science, Electrical Engineering, Physics and Chemistry, Duke University
+715,Brigham Young University, United States,,
+716,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+717,Brigham Young University, Provo, UT  84602, United States
+718,Brigham Young University, Provo, UT  84602, United States
+718, Pneubotics, San Francisco, CA  94110, United States
+719,Brigham Young University, Provo, UT  84602, United States
+719, Pneubotics, San Francisco, CA  94110, United States
+720,Brigham Young University, United States,,
+721,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+721, LLC, San Jose, CA  95124, United States
+721, Cisco System Inc., San Jose, CA  95134, United States
+722,Swift Engineering and Radiation Services, San José, CA, United States
+722, Lockheed-Martin Space Systems, Denver, CO, United States
+722, Slabs Ciudad Autónoma de Buenos Aires, Argentina,,
+722, Boeing Satellite Systems, El Segundo, CA, United States
+722, Raytheon Space and Airborne Systems, El Segundo, CA, United States
+722, Brigham Young University, Provo, UT, United States
+723,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+724,Computer Science Department, Brigham Young University, Provo, UT  84604
+725,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+725, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+726,GH Phipps Construction Companies, 5995 Greenwood Plaza Blvd., Greenwood Village, CO  80111
+726, Construction Management, Brigham Young Univ., 230 SNLB, Provo
+727,Computer Science Department, Brigham Young University, Provo, UT  84602
+727, Department of Biology, Brigham Young University, Provo, UT  84602
+727, Computational Biology Institute, George Washington University, Washington, DC  20052
+728,Computer Science Department, Brigham Young University, Provo, UT
+728, Biology Department, Brigham Young University, Provo, UT
+728, Computational Biology Institute, George Washington University, Washington, DC
+729,Information and Decision Algorithms Laboratories, Department of Computer Science, Brigham Young University, Provo
+730,Brigham Young University, United States,,
+731,Brigham Young University, United States,,
+732,Brigham Young University, United States,,
+733,Brigham Young University, United States,,
+734,Brigham Young University, United States,,
+735,Brigham Young University, United States,,
+736,Dept. of Electrical and Computer Eng., Brigham Young University, United States,
+737,Brigham Young University, United States,,
+737, University of Utah, United States,,
+737, Southern Utah University, United States,,
+738,Purdue University, West Lafayette (College of Engineering), United States,
+738, Brigham Young University, United States,,
+738, Colorado School of Mines, United States,,
+739,Pontificia Universidad Católica de Chile, Chile,,
+739, Pontificia Universidad Católica de Chile and National Research Center for Integrated Natural Disaster Management CONICYT/FONDAP/15110017, Vicuña Mackenna 4860, Santiago, Chile
+739, Civil and Environmental Engineering Department, Brigham Young University, 368 CB, Provo
+740,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+741,Brigham Young University, United States,,
+742,Department of Electrical and Computer Engineering, Brigham Young University, Provo, United States
+743,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+743, WHOlives.org, South Jordan, UT  84095, United States
+744,Pacific Northwest National Laboratory, 902 Battelle Blvd, Richland, WA  99354
+744, Brigham Young University–Idaho, Rexburg, ID  83460, United States
+745,Departamento de Métodos Matemáticos e de Representación, Universidade da Coruña, Campus de Elviña s/n, 15071 A Coruña
+745, Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+745, Department of Information Technology, Brigham Young University, Provo, UT  84602
+745, Institute for Computational Engineering and Sciences, The University of Texas at Austin, 201 East 24th Street, C0200
+745, School of Mechanical Engineering, Purdue University, 585 Purdue Mall, West Lafayette
+746,Brigham Young University, Provo, UT, United States
+746, Pacific Northwest National Laboratory, Richland, WA, United States
+746, Vehicle Technologies, Department of Energy, Washington, DC
+746, General Motors, Warren, MI, United States
+746, Honda Research & Development Americas Inc., Raymond, OH, United States
+746, Fiat Chrysler Automobiles, Auburn Hills, MI, United States
+747,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+748,Department of Materials Science and Engineering, Ohio State University, 2041 College Road, Columbus
+748, Department of Computational Materials and Data Science, Sandia National Laboratories, Albuquerque, NM  87185
+748, Department of Materials Science and Engineering, Korea University, Seoul, 02841
+748, Department of Mechanical Engineering, Brigham Young University, 435 CTB, Provo
+749,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+749, School of Engineering, University of Californnia at Santa Cruz, Santa Cruz, CA  95064
+750,Department of Chemistry, University of California at Berkeley, Berkeley, CA  94720
+750, School of Engineering, University of California Santa Cruz, 1156 High Street, Santa Cruz
+750, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+750, Department of Virology and Immunology, Texas Biomedical Research Institute, 7620 NW Loop 410, San Antonio
+751,Chemical Engineering Department, Brigham Young University, Provo, UT  84602
+752,Department of Civil and Environmental Engineering, University of Connecticut, United States,
+752, Department of Natural Resources and the Environment, University of Connecticut, United States,
+752, Department of Statistics, Brigham Young University, United States,
+753,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+753, Department for Power, Electronic and Communication Engineering, Faculty of Technical Sciences, University of Novi Sad
+753, Department of Electrical Engineering and Computer Science, Tufts University, Medford, MA  02155
+754,Colorado School of Mines, Golden, CO, United States
+754, Brigham Young University, Provo, UT, United States
+754, Los Alamos National Laboratory, Los Alamos, NM, United States
+754, General Motors Company, Warren, MI, United States
+755,Department of Biomedical Engineering, School of Medicine, Tsinghua University, Beijing
+755, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Hangzhou, 310003, China
+755, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+755, Department of Basic Medical Sciences, School of Medicine, Tsinghua University, Beijing
+755, Department of Hepatobiliary Surgery, Beijing Tsinghua Changgung Hospital, Tsinghua University, Beijing
+755, Department of Plastic, Reconstructive and Aesthetic Surgery, Beijing Tsinghua Changgung Hospital, Tsinghua University
+756,Mechanical Engineering, Brigham Young University, Provo, UT  84602
+756, Manufacturing Engineering Technology, Brigham Young University, Provo, UT  84602
+756, General Motors R&D, Warren, MI  48090, United States
+756, Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM  87545
+756, Department of Mechanical Engineering, University of New Hampshire, Durham, NH  03824
+757,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+757, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+758,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+758, Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT  84602
+758, Department of Exercise Science, Brigham Young University, Provo, UT  84602
+759,Brigham Young University, United States,,
+760,Department of Mechanical & Aerospace Engineering, Utah State University, Logan, UT  84322
+760, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+760, Synthetic Bioproducts Center, Utah State University, North Logan, UT  84341
+761,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+761, Neuroscience Center, Brigham Young University, Provo, UT  84602
+762,Lang Origami, Alamo, CA  94507, United States
+762, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+763,Los Alamos National Laboratory, Los Alamos, NM, United States
+763, University of Waterloo, Waterloo, ON, Canada
+763, Brigham Young University, Provo, UT, United States
+764,Brigham Young University, United States,,
+764, Ford Motor Company, United States,,
+765,Brigham Young University, United States,,
+766,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+766, Department of Computer Science, Brigham Young University, Provo, UT  84602
+767,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+768,Brigham Young University, 350 CB, Provo, UT  84602
+769,Dept. of Civil and Environmental Engineering, Brigham Young Univ, 170 A Clyde Building, Provo
+769, Dept. of Agricultural and Biochemical Engineering, Univ. of Florida, 281 Frazier Rogers Hall, Gainesville
+770,Ira A Fulton College of Engineering and Technology, Brigham Young Univ., Provo, UT  84602
+770, School of Sustainable Engineering and the Built Environment, Prof. and Sunstate Department of Construction Management and Engineering, Arizona State Univ., P.O. Box 873005
+771,Brigham Young University, 350 CB, Provo, UT 84602
+771, Fire Science and Technology Department, Sandia National Laboratories, Albuquerque, NM
+772,School of Mechanical Engineering, University of Ulsan, 93, Daehak-ro
+772, Manufacturing Engineering Technology Program, Brigham Young University, Provo, UT  84602-9601
+772, Environment Materials and Components Center, Korea Institute of Industrial Technology, 222, Palbok-ro
+773,Department of Mathematics, University of Connecticut, Storrs, CT
+773, Department of Civil and Environmental Engineering, University of Connecticut, Storrs, CT
+773, Department of Statistics, Brigham Young University, Provo, UT
+773, National Center for Atmospheric Research (NCAR), Boulder, CO, United States
+774,Ball State University, United States,,
+774, University of Arkansas, United States,,
+774, Illinois State University, United States,,
+774, Brigham Young University, United States,,
+775,Building and Structure Department, Federal University of Santa Maria, Brazil,
+775, Department of Civil and Environmental Engineering, Brigham Young University, 368 Clyde Building, Provo
+775, Department of Architecture, Building and Planning, Eindhoven University, Netherlands
+775, ISISE, University of Minho, Department of Civil Engineering, Portugal
+776,Utah State University, ENGR 419J, Logan, UT  84322-4130
+776, Naval Undersea Warfare Center, Newport, RI, United States
+776, Pennsylvania State University, State College, PA, United States
+776, Brigham Young University, Provo, UT, United States
+777,Laboratory of Atomic and Solid State Physics, Clark Hall, Cornell University, Ithaca
+777, Fermi National Accelerator Laboratory, Batavia, IL  60510, United States
+777, Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+777, Forschungszentrum Jülich, Peter Grünberg Institut (PGI-2), Jülich, D-52425
+777, LEPP, Physics Department, Newman Laboratory, Cornell University
+778,Department of mechanical engineering, Brigham Young University, Provo, UT  84602
+779,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+780,Department of Civil and Environmental Engineering, Brigham Young University, Provo, UT  84602
+780, 1376 N 1350 W, Provo, UT  84604, United States
+781,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+781, Raytheon Missile Systems, Tucson, AZ  85756, United States
+781, Brigham Young University, Provo, UT  84602, United States
+782,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+782, AMS-TAOS USA Inc., 5556 Tennyson Pkwy., Plano, TX  75024
+783,Northwest Hydraulic Consultants, 835 S. 192nd St., Bldg. C, Suite 1300
+783, Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo
+784,Department of Electrical and Computer Engineering, Utah State University, Logan, UT  84322
+784, Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+785,Brigham Young University, Provo, UT  84602, United States
+785, University of Kansas, Lawrence, KS  66045, United States
+785, Institut de Mathématiques de Toulouse, Toulouse, France,
+785, Université de Rennes 1, IRMAR, Rennes, France
+785, Indiana University, Bloomington, IN  47405, United States
+786,School of Engineering, University of California, 1156 High Street, Santa Cruz
+786, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+787,School of Engineering, University of California, 1156 High Street, Santa Cruz
+787, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+788,Mechanical Engineering, Brigham Young University, Provo, UT  84606
+789,Chemical Engineering Department, Brigham Young University, Provo, UT
+790,Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+791,Brigham Young University, Department of Chemical Engineering, Brigham Young University, Provo
+792,School of Technology, Brigham Young University, 265 CTB, BYU
+793,Brigham Young University, United States,,
+794,Brigham Young University, United States,,
+795,Brigham Young University, United States,,
+796,Brigham Young University, United States,,
+797,Brigham Young University, United States,,
+798,Brigham Young University, United States,,
+799,Brigham Young University, Industrial Design, United States,
+800,Electrical and Computer Engineering Department, Brigham Young University, Provo, UT  84602
+801,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+802,Chemical Engineering Department, Brigham Young University, Provo, UT  84602
+803,Chemical Engineering, Brigham Young University, Provo, UT  84602
+804,Department of Chemical Engineering, Brigham Young University, Provo, UT
+805,Department of Chemical Engineering, Brigham Young University, Provo, UT
+805, Department of Genetics and Biotechnology, Brigham Young University, Provo, UT
+805, Department of Electrical Engineering, Brigham Young University, Provo, UT
+805, Department of Physiology and Developmental Biology, Brigham Young University, Provo, UT
+805, Department of Biology, Brigham Young University, Provo, UT
+806,Brigham Young University, 368 CB, Provo, UT  84664
+807,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+808,Brigham Young University, Department of Electrical and Computer Engineering, Provo, UT  84602
+809,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+810,Department of Chemical Engineering, Brigham Young University, Provo, UT  84602
+811,Dept of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+812,Chemical Engineering Department, Brigham Young University, Provo, UT  84602
+813,Mechanical Engineering, Brigham Young University, Provo, UT
+814,Mechanical Engineering, Brigham Young University, Provo, UT
+815,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+816,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+816, Honors Program, Brigham Young University, Provo, UT  84602
+817,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+818,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+819,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+819, Dept. of Sociology, Brigham Young University, Provo, UT  84602
+820,Department of Mechanical Engineering, Brigham Young University, United States,
+821,Department of Mechanical Engineering, Brigham Young University, 435 Crabtree Building, Provo
+822,Department of Mechanical Engineering, Brigham Young University, Provo, UT
+823,NSF Center for High-Performance Reconfigurable Computing (CHREC), Department of Electrical and Computer Engineering, Brigham Young University, Provo
+824,NSF, Center for High-Performance Reconfigurable Computing (CHREC), Brigham Young University, Provo
+825,Mechanical Engineering, BYU, Provo, UT  84602
+826,Department of Physics and Astronomy, Brigham Young University, Provo, UT  84602
+827,Brigham Young University, Provo, UT, United States
+828,Aerospace and Ocean Engineering, Virginia Tech, Blacksburg, VA  24061
+828, Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+829,Kimley-Horn and Associates, Inc, 1920 Wekiva Way, Suite 200
+829, Department of Civil and Environmental Engineering, Ira A. Fulton College of Engineering and Technology, Brigham Young University, 368 Clyde Building
+830,Google, Inc., Mountain View, CA  94043
+830, Computer Science Department, Brigham Young University, Provo, UT  84602
+831,School of Technology, Department of Construction and Facilities Management, Brigham Young University, Provo
+831, Department of Construction Science and Management, Clemson University, Clemson, SC
+832,Department of Construction Science, College of Architecture, Texas A and M University, College Station
+832, School of Technology, Department of Construction and Facilities Management, Brigham Young University, Provo
+833,BYU Turbomachinery Research Laboratory, Department of Mechanical Engineering, Brigham Young University, Provo
+833, Compressor Aero Research Laboratory, Air Force Research Laboratory, Propulsion Dirct., Wright-Patterson AFB
+834,Brigham Young University, United States,,
+834, Occidental Petroleum Corporation, United States,,
+835,Sustainable Energy Solutions, United States,,
+835, Brigham Young University, United States,,
+836,BYU Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+836, National Wind Technology Center, National Renewable Energy Laboratory, Golden, CO  80401
+837,Brigham Young University, Provo, UT  84602, United States
+837, University of Florida, Shalimar, FL  32579, United States
+837, Department of Mechanical Engineering, United States,,
+837, Department of Electrical and Computer Engineering, United States,,
+837, AFRL, University of Florida Research and Engineering Education Facility, United States,
+838,Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo
+838, SandME Inc., 620 Wando Park Blvd, Mt. Pleasant, SC  29464
+839,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602
+839, School of Engineering, University of California Santa Cruz, Santa Cruz, CA  95064
+840,School of Engineering, University of California, Santa Cruz, 1156 High Street
+840, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+841,School of Engineering, University of California Santa Cruz, 1156 High Street, Santa Cruz
+841, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+842,CubiScan, Farmington, UT  84025, United States
+842, Brigham Young University, Provo, UT  84602, United States
+842, Department of Electrical and Computer Engineering, United States,,
+843,AECOM, 756 E Winchester St. #400, Salt Lake City, UT  84107
+843, Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 CB, Provo
+843, Federal Highway Administration, 6300 Georgetown Pike, McLean, VA  22101-2296
+844,Department of Chemical Engineering, Brigham Young University, 350 CB, Provo
+844, Department of Chemical Engineering, University of Utah, 50 S. Central Campus Dr, Rm 3290 MEB
+845,Department of Plant and Wildlife Sciences, Brigham Young University, 4105 LSB, Provo
+845, General Mills, Inc., Crop Bioscience Wheat Innovation Center, 1990 Kimball Ave
+846,Department of Chemical Engineering, University of Utah, Salt Lake City, UT
+846, Departmentof Chemical Engineering, Brigham Young University, Provo, UT
+847,Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT
+847, Electrical Engineering and Computer Science Department, University of Kansas, Lawrence, KS
+848,The University of Texas, Dallas, United States,
+848, Brigham Young University, United States,,
+849,Department of Chemical Engineering, Brigham Young University, Provo, UT
+849, Earth and Environmental Sciences Division, Los Alamos National Laboratory, Los Alamos, NM
+850,Chemical Engineering Dept., Brigham Young University, Provo, UT  84602
+850, Los Alamos National Laboratory, Los Alamos, NM, United States
+851,Chemical Engineering Department, Brigham Young University, Provo, UT  84602
+851, RMRS Missoula Fire Sciences Laboratory, USDA Forest Service, Missoula, MT  59808
+852,Dept. of Engineering Technology, Utah Valley University, Orem, UT  84058
+852, Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+853,School of Mechatronics, Xidian University, Xi'an, Shaanxi
+853, Mechanical Engineering Department, Brigham Young University, Provo, UT  84602
+853, Brigham Young University, United States,,
+854,Lang Origami, Alamo, CA, United States
+854, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+855,Dept. of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+855, Lang Origami, Alamo, CA  94507, United States
+856,Lang Origami, Alamo, CA, United States
+856, Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+857,Department of Chemical Engineering, Brigham Young University, 350 CB, Provo
+857, Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge
+858,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+858, Department of Mechanical Engineering, Iowa State University, Ames, IA  50011
+859,SINTEF Petroleum Research, Norway,,
+859, Brigham Young University, United States,,
+860,School of Engineering, University of California, 1156 High Street, Santa Cruz
+860, ECEn Department, Brigham Young University, 459 Clyde Building, Provo
+861,Dept. of Physics and Astronomy, Brigham Young University, N283 ESC, Provo
+861, Air Force Research Laboratory, Wright-Patterson AFB, 2610 Seventh St., Bldg. 441OH  45433
+861, Blue Ridge Research and Consulting, 29 N Market St, Suite 700 LLC, Asheville
+862,Dept. of Physics and Astronomy, Brigham Young University, N283 ESC, Provo
+862, Dept. of Advanced Energy, Graduate School of Frontier Sciences, University of Tokyo, Kashiwa
+862, Dept. of Aeronautics and Astronautics, Graduate School of Engineering, University of Tokyo, Bunkyo-ku
+862, Research Unit III, Japan Aerospace Exploration Agency, Sagamihara, Kanagawa  252-5210
+863,Dept. of Physics and Astronomy, Brigham Young University, N283 ESC, Provo
+863, Air Force Research Laboratory, Wright-Patterson Air Force Base, Battlespace Acoustics Branch, AFRL 711 HPW/RHCBOH  45433
+863, Blue Ridge Research and Consulting, LLC, 29 N Market St, Suite 700
+864,Dept. of Physics and Astronomy, Brigham Young University, N283 ESC, Provo
+864, Dept. of Advanced Energy, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa
+864, Aerospace Research and Development Directorate, Japan Aerospace Exploration Agency, Sagamihara, Kanagawa  252-5210
+864, Dept. of Aeronautics and Astronautics, Graduate School of Engineering, The University of Tokyo, Bunkyo
+865,Air Force Research Laboratory, Research Physicist, Battlespace Acoustics Branch, 2610 Seventh St.
+865, Brigham Young University, Dept. of Physics and Astronomy, N283 ESC, Provo
+865, Blue Ridge Research and Consulting, 29 N Market St., Suite 700, Asheville
+866,Combustion Science & Engineering, Inc., Columbia, MD
+866, Chalmers University of Technology, Gothenburg, Sweden,
+866, Brigham Young University, Provo, UT, United States
+867,Merit Medical Systems, Inc., South Jordan, UT
+867, Ford Motor Company, Dearborn, MI, United States
+867, Department of Mechanical Engineering, Brigham Young University, Provo, UT
+868,IIIT-Delhi, New Delhi, India,
+868, Northern Illinois University, DeKalb, IL  60115, United States
+868, Brigham Young University, Provo, UT  84602, United States
+869,Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 CB, Provo
+869, CKR Engineers, 1295 N State St., Orem, UT  84057
+869, DOWL, 4041 B St., Anchorage, AK  99503
+870,Institute of Applied Geometry, Johannes Kepler University, Linz, Austria
+870, Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI
+870, Civil and Environmental Engineering, Brigham Young University, Provo, UT
+871,Chemical Engineering, Brigham Young University, Brigham Young University, 350 Clyde Building
+871, Theoretical Division, Los Alamos National Laboratory, TA-3, Los Alamos
+872,Pacific Northwest National Laboratory,,,
+872, 902 Battelle Boulevard, Richland, WA  99352, United States
+872, Manufacturing Engineering Technology, Brigham Young University,,
+872, 265P CTB, Provo, UT  84602, United States
+873,School of MME, Washington State University, Pullman, WA  99164
+873, Pacific Northwest National Laboratory, Richland, WA  99354, United States
+873, Washington State University, Sloan 201, Pullman, WA
+873, Brigham Young University, Provo, UT  84602, United States
+874,Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602
+874, Department of Mechanical Engineering, Iowa State University, Ames, IA  50011
+874, Dept. of Mechanical, Industrial and Manuf. Engineering, Oregon State University, Corvallis
+875,Department of Geological Sciences, Brigham Young University, Provo, UT  84602-4606
+875, Bureau of Economic Geology, The University of Texas at Austin, Austin, TX  78758
+876,Department of Mechanism Technology, Technische Universität Ilmenau, Ilmenau, Thüringen
+876, Institut für Getriebetechnik und Maschinendynamik, RWTH Aachen University, Aachen, Nordrhein-Westfalen
+876, Brigham Young University, Provo, UT  435 CTB, United States
+876, Faculty of Mechanical Engineering, Universitatea Politehnica Timişoara, Timişoara, Romania
+877,Brigham Young University, Dept. of Mechanical Engineering, CTB435, Provo
+877, Centre de Thermique et d’Energétique de Lyon, INSA de Lyon, 9 rue de la Physique, Villeurbanne
+877, ISAE-ENSMA, BP 40109, Futuroscope Chasseneuil Cedex, 86961
+878,MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA
+878, Department of Electrical and Computer Engineering, Brigham Young University, 459 Clyde Building, Provo
+879,Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo
+879, Hayward Baker, Incorporated, 1780 Lemonwood Dr., Santa Paula
+879, Fehr and Peers, 2180 South 1300 East, Ste 220, Salt Lake City
+879, Applied Geotechnical Engineering Consultants, 600 West Sandy Parkway, Sandy, UT  84070
+879, Dept. of Chemical Engineering, Brigham Young Univ., 350 Clyde Bldg., Provo
+879, Dept. of Electrical and Computer Engineering, Brigham Young Univ., 459 Clyde Bldg., Provo
+880,Electrical and Computer Engineering Department, Stevens Institute of Technology, Hoboken, NJ  07030
+880, Automatic Control and Systems Engineering Department, University politehnica Bucharest, Bucharest, 024074
+880, Information and Decision Algorithms Laboratories and the Computer Science Department, Brigham Young University, Provo, UT  84602
+880, Systems Engineering Department, University of Pennsylvania, Philadelphia, PA  19104
+881,Brigham Young University, Department of Mechanical Engineering, 435 CTB, Provo
+881, Brigham Young University, Department of Mechanical Engineering, 350C MSRB, Provo
+881, Brigham Young University, Department of Mechanical Engineering, 270 CB, Provo
+881, Department of Mechanical Engineering, Polytechnic of Turin, Via Cristoforo Colombo, 55
+881, NASA Jet Propulsion Laboratory, California Institute of Technology, Extreme Environment Robotics, 4800 Oak Grove Drive
+882,Institute of Plant Breeding, Genetics, and Genomics, University of Georgia
+882, Plant Genome Mapping Laboratory, University of Georgia, Athens, GA  30602
+882, Department of Plant and Wildlife Science, Brigham Young University, Provo, UT
+882, Department of Ecology, Evolution, and Organismal Biology, Iowa State University
+883,Department of Mechanical Engineering, Brigham Young University, 435 Crabtree Building, Provo
+883, Department of Mechanical and Aerospace Engineering, Utah State University, 4130 Old Main Hill, Logan
+883, Department of Physics and Astronomy, KU Leuven, Celestijnenlaan 200D, Heverlee
+884,Mechanical Engineering, Brigham Young University, 435 CTB, Provo
+884, Manufacturing Engineering Technology, Brigham Young University, 265 CTB, Provo
+884, General Motors R&D, Warren, MI  48090, United States
+884, Theoretical Division, MS B16, Los Alamos National Laboratory, Los Alamos
+884, Department of Mechanical Engineering, University of New Hampshire, Durham, NH  03824
+885,Yuri Hovanski, Brigham Young University, Provo, UT
+885, University of North Texas, Denton, TX, United States
+885, Tohoku University, Sendai, Japan,
+885, Pacific Northwest National Laboratory, Richland, WA, United States
+885, University of Wisconsin-Green Bay, Green Bay, WI, United States
+886,Brigham Young University, Provo, UT, United States
+886, University of Texas at Dallas, Richardson, TX, United States
+886, Morgan State University, Baltimore, MD, United States
+886, University of Kansas, Lawrence, KS, United States
+886, 412 Test Wing, Edwards AFB, CA, United States
+887,Pacific Northwest National Laboratory, 902 Battelle Boulevard, Richland, WA  99354
+887, Brigham Young University, Provo, UT  84602, United States
+887, General Motors Research and Development Laboratory, Warren, MI  48090, United States
+887, Honda R&D Americas, Raymond, OH  43067, United States
+887, FCA US LLC, Auburn Hills, MI  48321, United States
+887, Kuka Development Center, Sterling Heights, MI, United States
+888,Control Group, Department of Engineering, University of Cambridge, Cambridge
+888, Department of Electrical Engineering and Computer Sciences, University of California Berkeley, Berkeley, CA  94720-5800
+888, Laboratory for Information and Decision Systems, Massachusetts Institute of Technology, Cambridge, MA  02139-4307
+888, Department of Control and Dynamical Systems, California Institute of Technology, Pasadena, CA  91125
+888, Department of Bioengineering, Centre for Synthetic Biology and Innovation, Imperial College London, London
+888, Information and Decision Algorithms Laboratories, Department of Computer Science, Brigham Young University, Provo
+888, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg, L-4365
+889,Department of Plant and Wildlife Sciences, Brigham Young University, Provo, UT
+889, United States Department of Agriculture-Agricultural Research Service, Sidney, MT, United States
+889, United States Department of Agriculture-Agricultural Research Service, Stoneville, MS, United States
+889, Agriculture and Agri-Food Canada, Lethbridge, AB, Canada
+889, Department of Crop and Soil Sciences, Washington State University, Pullman, WA
+889, Columbia Basin Agricultural Research Center, Oregon State University, Pendleton, OR
