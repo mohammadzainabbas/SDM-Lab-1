@@ -36,8 +36,8 @@ class Neo4jConnection:
         session, response = None, None
         try:
             session = self.__driver.session(database=self.__database)
-            response = session.run(query)
-            # response = list(session.run(query))
+            # response = session.run(query)
+            response = list(session.run(query))
         except Exception as e:
             print("Query failed: {}".format(e))
         finally: 
