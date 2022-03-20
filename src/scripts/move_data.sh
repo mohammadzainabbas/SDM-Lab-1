@@ -55,8 +55,13 @@ while [[ "$#" -gt 0 ]]; do
     shift
 done
 
-log "Removing old data"
-rm $path/*.csv
+csv_files_count=`ls -1 $path/*.csv 2> /dev/null | wc -l`
+
+if [ $csv_files_count != 0 ]
+then
+    log "Removing old data"
+    rm $path/*.csv
+fi
 
 log "Copy new data"
 cp ../../data/*.csv $path

@@ -7,9 +7,6 @@ CREATE CONSTRAINT author_id_unqiue IF NOT EXISTS FOR (n: Author) REQUIRE (n.auth
 // Keyword's name should be unique
 CREATE CONSTRAINT keyword_unqiue IF NOT EXISTS FOR (n: Keyword) REQUIRE (n.name) IS UNIQUE;
 
-// Keyword's name should be unique
-CREATE CONSTRAINT keyword_unqiue IF NOT EXISTS FOR (n: Keyword) REQUIRE (n.name) IS UNIQUE;
-
 // For creating Nodes
 LOAD CSV WITH HEADERS FROM "file:///<>.csv" AS x
 CREATE (n: <>)
