@@ -103,3 +103,54 @@ order by citation_count desc
 return conference, citation_count
 
 ///
+
+MATCH (jo:Journal)
+with apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) as all_years
+with *, all_years[size(all_years) - 3] as last_year
+unwind all_years as year
+with year, all_years, apoc.coll.flatten([x in range(0, size(all_years)) where x <= size(all_years) - 3 | 
+case when all_years[x + 1]=year - 1 then [all_years[x + 1], all_years[x + 2]] else [] end]) as years
+where size(years) >= 1
+with *, years[0] as first, years[1] as second
+MATCH (d:Document)-[r:published_in]->(j:Journal)
+
+
+
+// MATCH (d:Document)-[p:published_in]->(j:Journal)
+// where j.year >= last_year
+// with *, j.year as year
+
+// MATCH (d:Document)-[r:published_in]->(j:Journal)
+// WHERE d.document_type='Conference Paper' AND toInteger(d.cited_count) > 0
+// WITH *, j.name AS conference, j.year as year, j.volume as volume, sum(toInteger(d.cited_count)) AS cited_count
+// foreach ( x in all_years |
+//         With all_years, apoc.coll.indexOf(all_years, x) as i
+//         with all_years[i + 1] as first, all_years[i + 2] as second
+// )
+// return first, second
+        // return first, second
+
+    // call apoc.when(x >= last_year, ""
+    //     With all_years, apoc.coll.indexOf(all_years, x) as i
+    //     with all_years[i + 1] as first, all_years[i + 2] as second
+    //     return first, second
+        // Match (n:Document)-[p:published_in]->(k:Journal)
+        // where x < k.year <= second
+        // with k.name as conference, count(p) as _count
+        // return conference, _count
+    // ""
+    // )
+    // yield value
+// ORDER BY conference DESC
+// RETURN result
+
+// RETURN conference, all_years, cited_count, year, j.volume
+
+// WITH *, j.name AS conference, apoc.any.properties({year: j.year, volume: j.volume}) as prop, d.document_id as doc, d.title as paper, toInteger(d.cited_count) as cited_count order by cited_count desc
+
+// return conference, prop, paper, sum(cited_count) as cited_count, doc, last_year
+
+// with a, d, count(p) AS total_cited
+// with a, d, total_cited ORDER BY total_cited DESC
+// return a.name as autho, total_cited
+
