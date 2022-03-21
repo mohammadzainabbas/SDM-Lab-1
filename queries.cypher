@@ -42,3 +42,53 @@ with a, total_papers, list_cited, [x in range(1, size(list_cited)) WHERE x <= li
 with *, h_index_list[-1][1] AS h_index
 ORDER BY h_index DESC
 RETURN a.name AS author, total_papers, list_cited, h_index
+
+
+///
+
+Match p=(:Author)<-[:written_by]-(:Document)-[:published_in]->(:Journal {name: 'Wind Energy Symposium, 2018'}) return p
+
+///
+
+MATCH (jo:Journal)
+with apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) as all_years
+with *, all_years[size(all_years) - 3] as last_year
+
+MATCH (d:Document)-[p:published_in]->(j:Journal)
+where j.year >= last_year
+with *, j.year as year
+
+MATCH (d:Document)-[r:published_in]->(j:Journal)
+WHERE d.document_type='Conference Paper' AND toInteger(d.cited_count) > 0
+WITH *, j.name AS conference, sum(toInteger(d.cited_count)) AS cited_count
+ORDER BY conference DESC
+RETURN conference, cited_count
+// RETURN conference, all_years, cited_count, year, j.volume
+
+// WITH *, j.name AS conference, apoc.any.properties({year: j.year, volume: j.volume}) as prop, d.document_id as doc, d.title as paper, toInteger(d.cited_count) as cited_count order by cited_count desc
+
+// return conference, prop, paper, sum(cited_count) as cited_count, doc, last_year
+
+// with a, d, count(p) AS total_cited
+// with a, d, total_cited ORDER BY total_cited DESC
+// return a.name as autho, total_cited
+
+///
+
+MATCH (a:Author)<-[r:written_by]-(d:Document)-[p:published_in]->(j:Journal)
+with a, d, count(p) as total_cited
+with a, d, total_cited order by total_cited desc
+with a, count(d) as total_papers, collect(total_cited) as list_cited
+with a, total_papers, list_cited, [x in range(1, size(list_cited)) where x <= list_cited[x - 1] | [list_cited[x - 1], x] ] as h_index_list
+with *, h_index_list[-1][1] as h_index
+order by h_index desc
+RETURN a.name as author, total_papers, list_cited, h_index
+
+///
+
+MATCH (d:Document)-[r:published_in]->(j:Journal)
+with j.name as conference, sum(toInteger(d.cited_count)) as citation_count
+order by citation_count desc
+return conference, citation_count
+
+///
