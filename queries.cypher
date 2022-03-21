@@ -33,6 +33,18 @@ ORDER BY author_name
 WHERE paper_count > 3
 RETURN conference, collect(author_name) AS authors, sum(paper_count) AS total_count
 
+// Query - 3 (Not correct right now)
+
+MATCH (jo:Journal)
+with apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) as all_years
+with *, all_years[size(all_years) - 3] as last_year
+unwind all_years as year
+with year, all_years, apoc.coll.flatten([x in range(0, size(all_years)) where x <= size(all_years) - 3 | 
+case when all_years[x + 1]=year - 1 then [all_years[x + 1], all_years[x + 2]] else [] end]) as years
+where size(years) >= 1
+with *, years[0] as first, years[1] as second
+return year, years, first, second
+
 // Query - 4
 MATCH (a:Author)<-[r:written_by]-(d:Document)-[p:published_in]->(j:Journal)
 with a, d, count(p) AS total_cited
@@ -42,7 +54,6 @@ with a, total_papers, list_cited, [x in range(1, size(list_cited)) WHERE x <= li
 with *, h_index_list[-1][1] AS h_index
 ORDER BY h_index DESC
 RETURN a.name AS author, total_papers, list_cited, h_index
-
 
 ///
 
