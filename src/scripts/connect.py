@@ -26,11 +26,6 @@ class Neo4jConnection:
     def query(self, query):
         """
         Method used to query Neo4j graph database
-
-        @todo: 
-        1. Lowercase query
-        2. Split by "return"
-        3. Show result for each by iterating over "response"
         """
         if not self.valid_driver():
             print("Driver not initialized!")
