@@ -154,3 +154,37 @@ MATCH (d:Document)-[r:published_in]->(j:Journal)
 // with a, d, total_cited ORDER BY total_cited DESC
 // return a.name as autho, total_cited
 
+//====================
+
+MATCH (jo:Journal)
+with apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) as all_years
+with *, all_years[size(all_years) - 3] as last_year
+unwind all_years as year
+with year, all_years, apoc.coll.flatten([x in range(0, size(all_years)) where x <= size(all_years) - 3 | 
+case when all_years[x + 1]=year - 1 then [all_years[x + 1], all_years[x + 2]] else [] end]) as years
+where size(years) >= 1
+with {year: year, years: years, first: years[0], second:years[1]} as prop
+
+MATCH (:Author)<-[:written_by]-(d:Document)-[:published_in]->(j:Journal)
+WHERE d.document_type='Conference Paper' AND toInteger(d.cited_count) > 0 and prop.year = j.year
+WITH prop, {conference: j.name, year:j.year, cited_count: sum(toInteger(d.cited_count))} as cited_prop
+// return prop, cited_prop
+
+MATCH (:Author)<-[:written_by]-(:Document)-[p:published_in]->(j:Journal)
+WHERE j.year=prop.first and j.name=cited_prop.conference
+WITH prop, cited_prop, { conference: j.name, p1: count(p) } as p1_prop
+
+// return prop, cited_prop, p1_prop
+
+MATCH (:Author)<-[:written_by]-(:Document)-[p:published_in]->(j:Journal)
+WHERE j.year=prop.second and j.name=cited_prop.conference
+WITH prop, cited_prop, p1_prop, { conference: j.name, p2: count(p) } as p2_prop
+
+return cited_prop, p1_prop, p2_prop, prop
+
+// with apoc.map.mergeList([cited_prop, p1_prop, p2_prop]) as _prop
+// return _prop
+// with prop, apoc.map.merge(cited_prop, p_prop) as pprop
+// return pprop
+
+
