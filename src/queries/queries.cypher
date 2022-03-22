@@ -1,6 +1,7 @@
 //=========================
 // Query No. 01
 //=========================
+
 MATCH (d:Document)-[r:published_in]->(j:Journal)
 WHERE d.document_type='Conference Paper' AND toInteger(d.cited_count) > 0
 WITH j.name AS conference, d.title AS paper, sum(toInteger(d.cited_count)) AS cited_count
@@ -10,6 +11,7 @@ RETURN conference, collect(paper)[..3] AS papers, collect(cited_count)[..3] AS t
 //=========================
 // Query No. 02
 //=========================
+
 MATCH (a:Author)<-[p:written_by]-(d:Document)-[r:published_in]->(j:Journal)
 WHERE d.document_type='Conference Paper'
 WITH j.name AS conference, a.author_id AS author_id, a.name AS author_name, count(p) AS paper_count
@@ -20,6 +22,7 @@ RETURN conference, collect(author_name) AS authors, sum(paper_count) AS total_co
 //=========================
 // Query No. 03
 //=========================
+
 MATCH (jo:Journal)
 WITH apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) AS all_years
 WITH *, all_years[size(all_years) - 3] AS last_year
