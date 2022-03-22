@@ -68,10 +68,8 @@ class Neo4jConnection:
             return values, columns
         with self.__driver.session(database=self.__database) as session:
             __method = session.read_transaction if read_query else session.write_transaction
-            __data = __method(__run_query, query)
-            columns=self._get_column_names(query=query)
-            return __data if raw else DataFrame(__data), columns
-            # return __data if raw else DataFrame(__data, columns=self._get_column_names(query=query))
+            __data, __columns = __method(__run_query, query)
+            return __data if raw else DataFrame(__data, columns=__columns)
     
     def _get_column_names(self, query):
         if not isinstance(query, str): return
