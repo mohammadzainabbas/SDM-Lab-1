@@ -36,29 +36,14 @@ RETURN conference, collect(author_name) AS authors, sum(paper_count) AS total_co
 // Query - 3 (Not correct right now)
 
 MATCH (jo:Journal)
-WITH apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) AS all_years
-WITH *, all_years[size(all_years) - 3] AS last_year
-UNWIND all_years AS year
-WITH year, all_years, apoc.coll.flatten([x in range(0, size(all_years)) WHERE x <= size(all_years) - 3 | 
-CASE WHEN all_years[x + 1]=year - 1 THEN [all_years[x + 1], all_years[x + 2]] ELSE [] END]) AS years
-WHERE size(years) >= 1
-WITH {year: year, years: years, first: years[0], second:years[1]} AS prop
-
-MATCH (:Author)<-[:written_by]-(d:Document)-[:published_in]->(j:Journal)
-WHERE d.document_type='Conference Paper' AND toInteger(d.cited_count) > 0 and prop.year = j.year
-WITH prop, {conference: j.name, year:j.year, cited_count: sum(toInteger(d.cited_count))} AS cited_prop
-
-MATCH (:Author)<-[:written_by]-(:Document)-[p:published_in]->(j:Journal)
-WHERE j.year=prop.first and j.name=cited_prop.conference
-WITH prop, cited_prop, { conference: j.name, p1: count(p) } AS p1_prop
-
-MATCH (:Author)<-[:written_by]-(:Document)-[p:published_in]->(j:Journal)
-WHERE j.year=prop.second and j.name=cited_prop.conference
-WITH prop, cited_prop, p1_prop, { conference: j.name, p2: count(p) } AS p2_prop
-WITH cited_prop.conference AS conference, (toFloat(cited_prop.cited_count)/toFloat(p1_prop.p1 + p2_prop.p2)) AS impact_factor
-ORDER BY impact_factor DESC
-RETURN conference, impact_factor
-
+with apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) as all_years
+with *, all_years[size(all_years) - 3] as last_year
+unwind all_years as year
+with year, all_years, apoc.coll.flatten([x in range(0, size(all_years)) where x <= size(all_years) - 3 | 
+case when all_years[x + 1]=year - 1 then [all_years[x + 1], all_years[x + 2]] else [] end]) as years
+where size(years) >= 1
+with *, years[0] as first, years[1] as second
+return year, years, first, second
 
 // Query - 4
 MATCH (a:Author)<-[r:written_by]-(d:Document)-[p:published_in]->(j:Journal)
