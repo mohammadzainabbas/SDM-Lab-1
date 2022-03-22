@@ -71,13 +71,3 @@ class Neo4jConnection:
             __data, __columns = __method(__run_query, query)
             return __data if raw else DataFrame(__data, columns=__columns)
     
-    def _get_column_names(self, query):
-        if not isinstance(query, str): return
-
-        __lines = query.split("\n")
-        if not len(__lines): return
-
-        for __i, __line in enumerate(__lines[::-1]):
-            if __line.lower().find("return") == -1: continue
-            __return_string = "".join(__line[len(__lines) - __i - 1: len(__lines) - 1]).replace("  ", "").replace(", ", ",").replace(" ,", ",")
-            return __return_string.lower().replace("return ", '').split(",")
