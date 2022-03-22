@@ -1,4 +1,6 @@
+from operator import imod
 from neo4j import GraphDatabase
+from pandas import DataFrame
 
 class Neo4jConnection:
     """
@@ -48,3 +50,21 @@ class Neo4jConnection:
         finally: 
             if session is not None: session.close()
         return response
+    
+    def query_with_result(self, query, read_query=True, raw=False):
+        """
+        Return query with results
+        """
+        def __run_query(tx, query):
+            values, result = list(), tx.run(query)
+            for _, record in enumerate(result):
+                value = record.values()
+                if not value: continue
+                values.append(value)
+            _ = result.consume()
+            return values
+        with self.__driver.session(database=self.__database) as session:
+            __method = session.read_transaction if read_query else session.write_transaction
+            __data = __method(__run_query, query)
+            return __data if raw else DataFrame(__data)
+            
