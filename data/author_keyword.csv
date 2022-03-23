@@ -808,14 +808,6 @@ Design for humans,57192943554
  Design for X,57192943554
  Product development,57192943554
  Sustainable design,57192943554
-Design for humans,7004300863
- Design for X,7004300863
- Product development,7004300863
- Sustainable design,7004300863
-Design for humans,8421746800
- Design for X,8421746800
- Product development,8421746800
- Sustainable design,8421746800
 Binder Jetting,7003772744
  Inkjet printing,7003772744
  Saturation,7003772744
@@ -900,19 +892,16 @@ complex dynamics,55100119300
  spectral properties,55100119300
 Biharmonic problem,57201257192
  C1 continuity,57201257192
- Dual basis,57201257192
  Dual mortar method,57201257192
  Enriched Bézier dual basis,57201257192
  Patch coupling,57201257192
 Biharmonic problem,56330168500
  C1 continuity,56330168500
- Dual basis,56330168500
  Dual mortar method,56330168500
  Enriched Bézier dual basis,56330168500
  Patch coupling,56330168500
 Biharmonic problem,9942259800
  C1 continuity,9942259800
- Dual basis,9942259800
  Dual mortar method,9942259800
  Enriched Bézier dual basis,9942259800
  Patch coupling,9942259800
@@ -1028,14 +1017,8 @@ Design for humans,57197765353
  Design for X,57197765353
  Product design,57197765353
  Sustainable design,57197765353
-Design for humans,7004300863
- Design for X,7004300863
  Product design,7004300863
- Sustainable design,7004300863
-Design for humans,8421746800
- Design for X,8421746800
  Product design,8421746800
- Sustainable design,8421746800
 control architectures and programming,57188681207
  deep learning in robotics and automation,57188681207
  model learning for control,57188681207
@@ -1058,7 +1041,6 @@ electronic design automation,7003292762
  fault detection,7003292762
  radiation effects,7003292762
  redundancy,7003292762
- reliability,7003292762
 electronic design automation,25639041400
  fault detection,25639041400
  radiation effects,25639041400
@@ -1532,12 +1514,10 @@ Auto tuning,57190228554
  Friction stir welding,57190228554
  Relay feedback test,57190228554
  System identification,57190228554
- Temperature control,57190228554
 Auto tuning,7102879142
  Friction stir welding,7102879142
  Relay feedback test,7102879142
  System identification,7102879142
- Temperature control,7102879142
 Aged parameter estimation,57203017789
  Battery management systems,57203017789
  BCJR Algorithm,57203017789
@@ -1556,19 +1536,16 @@ Aged parameter estimation,6701609778
  Interacting multiple model Kalman filter,6701609778
  Lithium ion battery,6701609778
  Viterbi algorithm,6701609778
-Aeronautical telemetry,36987999600
  compressed sensing,36987999600
  frequency-selective multi-path,36987999600
  sparse channel,36987999600
  sparse equalizers,36987999600
  transmit diversity,36987999600
-Aeronautical telemetry,7003868048
  compressed sensing,7003868048
  frequency-selective multi-path,7003868048
  sparse channel,7003868048
  sparse equalizers,7003868048
  transmit diversity,7003868048
-Aeronautical telemetry,7202083837
  compressed sensing,7202083837
  frequency-selective multi-path,7202083837
  sparse channel,7202083837
@@ -1773,7 +1750,6 @@ Computational modeling,57218481091
  Integrated circuit modeling,57218481091
  Integrated Optics,57218481091
  Photonics,57218481091
- Photonics,57218481091
  Scattering,57218481091
  Scattering parameters,57218481091
  Simulation,57218481091
@@ -1783,7 +1759,6 @@ Computational modeling,57217024741
  Integrated circuit modeling,57217024741
  Integrated Optics,57217024741
  Photonics,57217024741
- Photonics,57217024741
  Scattering,57217024741
  Scattering parameters,57217024741
  Simulation,57217024741
@@ -1792,7 +1767,6 @@ Computational modeling,57217024741
 Computational modeling,57218482479
  Integrated circuit modeling,57218482479
  Integrated Optics,57218482479
- Photonics,57218482479
  Photonics,57218482479
  Scattering,57218482479
  Scattering parameters,57218482479
@@ -1875,16 +1849,10 @@ Acoustic response,57193715705
  Delamination,57193715705
  Impact-echo testing,57193715705
 Acoustic response,7202282831
- Concrete bridge deck,7202282831
- Delamination,7202282831
  Impact-echo testing,7202282831
 Acoustic response,7003302831
- Concrete bridge deck,7003302831
- Delamination,7003302831
  Impact-echo testing,7003302831
 Acoustic response,16066928300
- Concrete bridge deck,16066928300
- Delamination,16066928300
  Impact-echo testing,16066928300
 Detection,57218270296
  Information security,57218270296
@@ -2055,13 +2023,9 @@ Configuration scrubbing,7003292762
 Field-programmable gate arrays (FPGAs),57204469757
  multiple-bit upset (MBU),57204469757
  multiple-cell upset (MCU),57204469757
- radiation testing,57204469757
- single-event effects (SEEs),57204469757
 Field-programmable gate arrays (FPGAs),7003292762
  multiple-bit upset (MBU),7003292762
  multiple-cell upset (MCU),7003292762
- radiation testing,7003292762
- single-event effects (SEEs),7003292762
 Electromagnetic excitation,57211518929
  Nondestructive evaluation,57211518929
  Nondestructive testing,57211518929
@@ -2193,7 +2157,6 @@ Silent data corruption (SDC),12544690900
  soft errors,12544690900
  software fault tolerance,12544690900
 Silent data corruption (SDC),7003292762
- single-event upset (SEU),7003292762
  soft errors,7003292762
  software fault tolerance,7003292762
 Silent data corruption (SDC),54978625300
@@ -2440,11 +2403,9 @@ Cylindrical developable mechanism,57210289242
  Developable surface,57210289242
  Morphing mechanism,57210289242
 Cylindrical developable mechanism,6701720294
- Developable mechanism,6701720294
  Developable surface,6701720294
  Morphing mechanism,6701720294
 Cylindrical developable mechanism,57211516485
- Developable mechanism,57211516485
  Developable surface,57211516485
  Morphing mechanism,57211516485
 Clustering,57202910211
@@ -2504,7 +2465,6 @@ Boundary element methods,55911870000
  T-splines,55911870000
 Boundary element methods,9942259800
  Collocation,9942259800
- Isogeometric analysis,9942259800
  Linear elasticity,9942259800
  Patch tests,9942259800
  T-splines,9942259800
@@ -2620,22 +2580,16 @@ air conditioning,7402658393
  β-(1 → 3)-d-glucans,7402658393
 Egg quality inspection,57211891331
  Embedded vision sensor,57211891331
- Evolutionary learning,57211891331
  Pavement quality evaluation,57211891331
  Road condition detection,57211891331
- Visual inspection,57211891331
 Egg quality inspection,57199244740
  Embedded vision sensor,57199244740
- Evolutionary learning,57199244740
  Pavement quality evaluation,57199244740
  Road condition detection,57199244740
- Visual inspection,57199244740
 Egg quality inspection,7406665619
  Embedded vision sensor,7406665619
- Evolutionary learning,7406665619
  Pavement quality evaluation,7406665619
  Road condition detection,7406665619
- Visual inspection,7406665619
 Approximation algorithms,56102505100
  linear systems,56102505100
  model reduction,56102505100
@@ -2725,8 +2679,6 @@ artificial neural networks (ANNs),18535712500
 Continuous phase modulation (CPM),7202083837
  equalization,7202083837
  frequency selective multipath,7202083837
- shaped offset QPSK (SOQPSK),7202083837
- sparse channel estimation,7202083837
 Continuous phase modulation (CPM),57126129700
  equalization,57126129700
  frequency selective multipath,57126129700
@@ -2735,29 +2687,19 @@ Continuous phase modulation (CPM),57126129700
 Continuous phase modulation (CPM),36987999600
  equalization,36987999600
  frequency selective multipath,36987999600
- shaped offset QPSK (SOQPSK),36987999600
- sparse channel estimation,36987999600
 Continuous phase modulation (CPM),7003868048
  equalization,7003868048
  frequency selective multipath,7003868048
- shaped offset QPSK (SOQPSK),7003868048
- sparse channel estimation,7003868048
-Co-simulation,57192247939
  Communication irregularities,57192247939
  Network observability,57192247939
- State estimation,57192247939
 Co-simulation,57218886153
  Communication irregularities,57218886153
  Network observability,57218886153
  State estimation,57218886153
-Co-simulation,6701777223
  Communication irregularities,6701777223
  Network observability,6701777223
- State estimation,6701777223
-Co-simulation,8448666000
  Communication irregularities,8448666000
  Network observability,8448666000
- State estimation,8448666000
 Parameter Estimation,57205617484
  Reduced Order Systems,57205617484
  System Identification,57205617484
@@ -2782,7 +2724,6 @@ Applied origami,57208598187
  Folding,57208598187
  Sacrificial joints,57208598187
 Applied origami,57211516485
- Compliant mechanisms,57211516485
  Folding,57211516485
  Sacrificial joints,57211516485
 Applied origami,7004307869
@@ -2920,21 +2861,12 @@ Exercise response,7005976828
 Convective heat transfer,57193749678
  Isoflux wall,57193749678
  Jet impingement,57193749678
- Slip length,57193749678
- Superhydrophobic surface,57193749678
- Temperature jump length,57193749678
 Convective heat transfer,55457444300
  Isoflux wall,55457444300
  Jet impingement,55457444300
- Slip length,55457444300
- Superhydrophobic surface,55457444300
- Temperature jump length,55457444300
 Convective heat transfer,6701863708
  Isoflux wall,6701863708
  Jet impingement,6701863708
- Slip length,6701863708
- Superhydrophobic surface,6701863708
- Temperature jump length,6701863708
 image quality assessment,35729129900
  image structure,35729129900
  just-noticeable difference,35729129900
@@ -3022,37 +2954,16 @@ Arduino,6508306234
 Arduino,9277159100
  Control Engineering Education,9277159100
  PID Control,9277159100
-Bootstrapped switch,57003496300
- DAC,57003496300
- SAR ADC,57003496300
  time interleaved,57003496300
-Bootstrapped switch,57212110613
- DAC,57212110613
- SAR ADC,57212110613
  time interleaved,57212110613
-Bootstrapped switch,57212107391
- DAC,57212107391
- SAR ADC,57212107391
  time interleaved,57212107391
-Bootstrapped switch,57200117690
- DAC,57200117690
- SAR ADC,57200117690
  time interleaved,57200117690
-Bootstrapped switch,7004688501
- DAC,7004688501
- SAR ADC,7004688501
  time interleaved,7004688501
 Bootstrapped switch,7404504014
  DAC,7404504014
  SAR ADC,7404504014
  time interleaved,7404504014
-Bootstrapped switch,7409253428
- DAC,7409253428
- SAR ADC,7409253428
  time interleaved,7409253428
-Bootstrapped switch,35209941000
- DAC,35209941000
- SAR ADC,35209941000
  time interleaved,35209941000
 clinical decision support system (CDSS),57144864700
  Erectile dysfunction (ED),57144864700
@@ -3155,7 +3066,6 @@ Binder jetting,7003772744
  Post-processing,7003772744
  Powder deposition,7003772744
  Sintering,7003772744
- Wetting,7003772744
 Feature descriptor,14059209700
  Feature detection,14059209700
  Feature matching,14059209700
@@ -3166,7 +3076,6 @@ Feature descriptor,57201589125
  Feature matching,57201589125
  Image correspondence,57201589125
  Synthetic basis functions,57201589125
-Feature descriptor,7406665619
  Feature detection,7406665619
  Feature matching,7406665619
  Image correspondence,7406665619
@@ -3181,18 +3090,6 @@ Feature descriptor,7201793184
  Feature matching,7201793184
  Image correspondence,7201793184
  Synthetic basis functions,7201793184
-Building damage mapping,16481299700
- Seismic foundation performance,16481299700
- Site response,16481299700
- Structural resonance,16481299700
-Building damage mapping,55315026400
- Seismic foundation performance,55315026400
- Site response,55315026400
- Structural resonance,55315026400
-Building damage mapping,7101640734
- Seismic foundation performance,7101640734
- Site response,7101640734
- Structural resonance,7101640734
 Gaussian wiretap channel,35147940600
  Physical-layer security,35147940600
  practical secrecy coding,35147940600
@@ -3235,9 +3132,7 @@ Dissimilar,57203221999
  Intermetallic,57203221999
  Kinetic,57203221999
  Thermodynamic,57203221999
-Back face deformation,57191155872
  Ballistic fabric,57191155872
- Body armor,57191155872
  Impact behavior,57191155872
 Back face deformation,6603570606
  Ballistic fabric,6603570606
@@ -3247,13 +3142,9 @@ Back face deformation,57203028829
  Ballistic fabric,57203028829
  Body armor,57203028829
  Impact behavior,57203028829
-Back face deformation,7402786794
  Ballistic fabric,7402786794
- Body armor,7402786794
  Impact behavior,7402786794
-Back face deformation,35088650000
  Ballistic fabric,35088650000
- Body armor,35088650000
  Impact behavior,35088650000
 ARL,7402258065
  Cusum,7402258065
@@ -3284,8 +3175,6 @@ fault injection,57211493546
 fault injection,7003292762
  Fault tolerance,7003292762
  FPGA,7003292762
- radiation testing,7003292762
- redundancy,7003292762
  RISC-V,7003292762
  Single Event Upset (SEU),7003292762
  soft processor,7003292762
@@ -3356,7 +3245,6 @@ Curved folding,7006533953
 Curved folding,57211516485
  developable,57211516485
  energy,57211516485
- origami,57211516485
 Contact time,57199980412
  Droplet impact,57199980412
  Heat transfer,57199980412
@@ -3431,7 +3319,6 @@ Dislocations,7006583274
  Grain boundaries,7006583274
  Molecular dynamics,7006583274
 Dislocations,8705255200
- Grain boundaries,8705255200
  Molecular dynamics,8705255200
 Automated inspection,56976354400
  Dam inspection,56976354400
@@ -3492,7 +3379,6 @@ Binarized Neural Networks,7406665619
  Deep neural network compression,7406665619
  Deep Neural Networks,7406665619
  Digital design,7406665619
- FPGA,7406665619
 Radar scattering,57205198823
  RapidScat,57205198823
  scatterometer,57205198823
@@ -3503,9 +3389,7 @@ Radar scattering,35508257500
  wind,35508257500
 Backscatter,35508257500
  Backus-Gilbert (BG),35508257500
- reconstruction,35508257500
  sampling,35508257500
- scatterometer,35508257500
  scatterometer image reconstruction (SIR),35508257500
  variable aperture,35508257500
 Security,57210927548
@@ -3579,36 +3463,22 @@ Big data classification,57218886193
  Manifold learning,57218886193
  Parameter identification,57218886193
  WECC load model,57218886193
-Additive manufacturing,57191873151
- Demineralized bone matrix,57191873151
  LAPS,57191873151
- Polycaprolactone,57191873151
- Tensile strength,57191873151
 Additive manufacturing,57216491948
  Demineralized bone matrix,57216491948
  LAPS,57216491948
  Polycaprolactone,57216491948
  Tensile strength,57216491948
-Additive manufacturing,57216430816
- Demineralized bone matrix,57216430816
  LAPS,57216430816
- Polycaprolactone,57216430816
- Tensile strength,57216430816
-Additive manufacturing,7003772744
- Demineralized bone matrix,7003772744
  LAPS,7003772744
- Polycaprolactone,7003772744
- Tensile strength,7003772744
 Electron microscopy,57191587072
  Grain boundaries,57191587072
  Twinning,57191587072
  VPSC,57191587072
 Electron microscopy,57207334294
- Grain boundaries,57207334294
  Twinning,57207334294
  VPSC,57207334294
 Electron microscopy,12142543700
- Grain boundaries,12142543700
  Twinning,12142543700
  VPSC,12142543700
 Electron microscopy,24295291100
@@ -3630,7 +3500,6 @@ Electron microscopy,12778890800
 Earthquakes,16481299700
  Infrastructure,16481299700
  Seismic risk,16481299700
- Site response,16481299700
  Soil-structure-interaction,16481299700
 Earthquakes,57194703295
  Infrastructure,57194703295
@@ -3645,7 +3514,6 @@ Earthquakes,57144565100
 Earthquakes,56331558100
  Infrastructure,56331558100
  Seismic risk,56331558100
- Site response,56331558100
  Soil-structure-interaction,56331558100
 Earthquakes,57189458176
  Infrastructure,57189458176
@@ -3655,12 +3523,10 @@ Earthquakes,57189458176
 Earthquakes,7101640734
  Infrastructure,7101640734
  Seismic risk,7101640734
- Site response,7101640734
  Soil-structure-interaction,7101640734
 Earthquakes,55315026400
  Infrastructure,55315026400
  Seismic risk,55315026400
- Site response,55315026400
  Soil-structure-interaction,55315026400
 Earthquakes,24080990600
  Infrastructure,24080990600
@@ -3668,9 +3534,7 @@ Earthquakes,24080990600
  Site response,24080990600
  Soil-structure-interaction,24080990600
 Additive manufacturing (AM),57200529047
- conductive ink,57200529047
  coplanar waveguide (CPW),57200529047
- printed electronics,57200529047
  surface roughness,57200529047
  thermal smoothing (TS),57200529047
  vapor smoothing (VS),57200529047
@@ -3682,9 +3546,7 @@ Additive manufacturing (AM),56323465700
  thermal smoothing (TS),56323465700
  vapor smoothing (VS),56323465700
 Additive manufacturing (AM),56112492400
- conductive ink,56112492400
  coplanar waveguide (CPW),56112492400
- printed electronics,56112492400
  surface roughness,56112492400
  thermal smoothing (TS),56112492400
  vapor smoothing (VS),56112492400
@@ -3703,9 +3565,7 @@ Additive manufacturing (AM),7102483892
  thermal smoothing (TS),7102483892
  vapor smoothing (VS),7102483892
 Additive manufacturing (AM),7003772744
- conductive ink,7003772744
  coplanar waveguide (CPW),7003772744
- printed electronics,7003772744
  surface roughness,7003772744
  thermal smoothing (TS),7003772744
  vapor smoothing (VS),7003772744
@@ -4018,12 +3878,10 @@ Evolutionary constructed features,57204433875
  Hardware implementation,57204433875
  Jet features,57204433875
  Object classification,57204433875
- Visual inspection,57204433875
 Evolutionary constructed features,7406665619
  Hardware implementation,7406665619
  Jet features,7406665619
  Object classification,7406665619
- Visual inspection,7406665619
 design critique,24759275600
  design education,24759275600
  ethics,24759275600
@@ -4073,7 +3931,6 @@ Bag-of-features model,7406665619
  Recognition,7406665619
 Bag-of-features model,55367023500
  Chinese food,55367023500
- Convolutional neural network,55367023500
  Recognition,55367023500
 Compliant mechanisms,57201759181
  Dynamic stiffness matrix,57201759181
@@ -4285,7 +4142,6 @@ Grassroots adoption,6601908155
  PGP,6601908155
  Secure email,6601908155
 Equalization,7202083837
- frequency selective multipath,7202083837
  maximum likelihood sequence estimation,7202083837
  SOQPSK,7202083837
 Equalization,57126390100
@@ -4388,15 +4244,12 @@ Physical layer security,57209887692
  Wiretap channel,57209887692
 Physical layer security,17434035200
  Polar codes,17434035200
- Security gap,17434035200
  Wiretap channel,17434035200
 Physical layer security,24726409500
  Polar codes,24726409500
- Security gap,24726409500
  Wiretap channel,24726409500
 Physical layer security,35147940600
  Polar codes,35147940600
- Security gap,35147940600
  Wiretap channel,35147940600
 mapping,57206968876
  multi-robot systems,57206968876
@@ -4453,20 +4306,12 @@ Additive manufacturing,24295291100
 Additive manufacturing,57195217444
 Air-coupled impact-echo testing,7003302831
  Chain dragging,7003302831
- Concrete bridge deck,7003302831
- Delamination,7003302831
 Air-coupled impact-echo testing,57193706327
  Chain dragging,57193706327
- Concrete bridge deck,57193706327
- Delamination,57193706327
 Air-coupled impact-echo testing,7202282831
  Chain dragging,7202282831
- Concrete bridge deck,7202282831
- Delamination,7202282831
 Air-coupled impact-echo testing,16066928300
  Chain dragging,16066928300
- Concrete bridge deck,16066928300
- Delamination,16066928300
 Beam steering,57200690449
  multiple-input multiple-output (MIMO) systems,57200690449
  mutual coupling,57200690449
@@ -4544,16 +4389,12 @@ Nondestructive evaluation,57205263313
  Nonlinear resonant ultrasound spectroscopy,57205263313
  Stress corrosion cracking,57205263313
 Nondestructive evaluation,56036628100
- Nondestructive testing,56036628100
- Nonlinear resonant ultrasound spectroscopy,56036628100
  Stress corrosion cracking,56036628100
 Nondestructive evaluation,36953700600
  Nondestructive testing,36953700600
  Nonlinear resonant ultrasound spectroscopy,36953700600
  Stress corrosion cracking,36953700600
 Nondestructive evaluation,16033650300
- Nondestructive testing,16033650300
- Nonlinear resonant ultrasound spectroscopy,16033650300
  Stress corrosion cracking,16033650300
 Biofabrication,23970286000
  DNA,23970286000
@@ -4635,7 +4476,6 @@ Calibration,57195343816
  state estimation,57195343816
  visual servoing,57195343816
 Calibration,57188173800
- motion control,57188173800
  pneumatic actuators,57188173800
  pose estimation,57188173800
  robot kinematics,57188173800
@@ -4651,7 +4491,6 @@ Calibration,57201722090
  state estimation,57201722090
  visual servoing,57201722090
 Calibration,36349287300
- motion control,36349287300
  pneumatic actuators,36349287300
  pose estimation,36349287300
  robot kinematics,36349287300
@@ -4712,17 +4551,14 @@ Array antennas,48361087900
  element-gain paradox,48361087900
  mutual coupling,48361087900
  Poynting streamlines,48361087900
- receiving antennas,48361087900
 Array antennas,57189218211
  element-gain paradox,57189218211
  mutual coupling,57189218211
  Poynting streamlines,57189218211
- receiving antennas,57189218211
 Array antennas,7003381644
  element-gain paradox,7003381644
  mutual coupling,7003381644
  Poynting streamlines,7003381644
- receiving antennas,7003381644
 DAC layout,57197733358
  DAC settling,57197733358
  SAR ADC,57197733358
@@ -4733,7 +4569,6 @@ DAC layout,57200390842
  timing scheme,57200390842
 DAC layout,57003496300
  DAC settling,57003496300
- SAR ADC,57003496300
  timing scheme,57003496300
 DAC layout,8342785400
  DAC settling,8342785400
@@ -4741,7 +4576,6 @@ DAC layout,8342785400
  timing scheme,8342785400
 DAC layout,35209941000
  DAC settling,35209941000
- SAR ADC,35209941000
  timing scheme,35209941000
 Brittle crack,8392459500
  Crack interaction,8392459500
@@ -5002,7 +4836,6 @@ Frequency response,57204802622
 Frequency response,14033673100
  Leap motion controller,14033673100
  Markerless motion capture,14033673100
- Tremor,14033673100
 Best Practices,57212343330
  Impact Assessment,57212343330
  Service Learning,57212343330
@@ -5035,17 +4868,13 @@ Clean water,35409277700
  Village Drill,35409277700
 Clean water,7004300863
  Cup seal,7004300863
- Design for the developing world,7004300863
- Engineering for global development,7004300863
  Hand pump,7004300863
  India Mark,7004300863
  Village Drill,7004300863
 Friction stir welding,57190228554
  Signal processing,57190228554
- Temperature control,57190228554
 Friction stir welding,7102879142
  Signal processing,7102879142
- Temperature control,7102879142
 Design intent,57197737083
  Neutral format,57197737083
  Parametric design,57197737083
@@ -5138,7 +4967,6 @@ Aluminum mirror coatings,7004234161
  Quality assurance,7004234161
  Spectroscopic ellipsometry,7004234161
  XPS,7004234161
-3D printing,7005636820
  Lab on a chip,7005636820
  Microfluidics,7005636820
  Stereolithography,7005636820
@@ -5210,7 +5038,6 @@ Multi-robot systems,35338971800
 Multi-robot systems,35562442700
  nonlinear filters,35562442700
  nonlinear observability,35562442700
- pose estimation,35562442700
  unmanned aerial vehicles,35562442700
 Ethical climate,57195960835
  Ethics,57195960835
@@ -5227,8 +5054,6 @@ Biophotonics,55698505100
  soft photolithography,55698505100
  waveguides,55698505100
 Biophotonics,56709287700
- hydrodynamic focusing,56709287700
- optofluidics,56709287700
  soft photolithography,56709287700
  waveguides,56709287700
 Biophotonics,57203308821
@@ -5242,13 +5067,9 @@ Biophotonics,55326143600
  soft photolithography,55326143600
  waveguides,55326143600
 Biophotonics,7102975249
- hydrodynamic focusing,7102975249
- optofluidics,7102975249
  soft photolithography,7102975249
  waveguides,7102975249
 Biophotonics,16422844400
- hydrodynamic focusing,16422844400
- optofluidics,16422844400
  soft photolithography,16422844400
  waveguides,16422844400
 Capstone,57212351859
@@ -5382,36 +5203,16 @@ Assembly simplification,57205762391
  Computer-aided design,57205762391
  External geometry,57205762391
  Ray casting,57205762391
-Configuration scrubbing,56957771800
  field programmable gate arrays (FPGAs),56957771800
- single-event effects (SEEs),56957771800
- single-event upset (SEU),56957771800
- triple modular redundancy (TMR),56957771800
-Configuration scrubbing,57189235340
  field programmable gate arrays (FPGAs),57189235340
- single-event effects (SEEs),57189235340
- single-event upset (SEU),57189235340
- triple modular redundancy (TMR),57189235340
 Configuration scrubbing,57204472177
  field programmable gate arrays (FPGAs),57204472177
  single-event effects (SEEs),57204472177
  single-event upset (SEU),57204472177
  triple modular redundancy (TMR),57204472177
-Configuration scrubbing,57204470823
  field programmable gate arrays (FPGAs),57204470823
- single-event effects (SEEs),57204470823
- single-event upset (SEU),57204470823
- triple modular redundancy (TMR),57204470823
-Configuration scrubbing,57204469757
  field programmable gate arrays (FPGAs),57204469757
- single-event effects (SEEs),57204469757
- single-event upset (SEU),57204469757
- triple modular redundancy (TMR),57204469757
-Configuration scrubbing,7003292762
  field programmable gate arrays (FPGAs),7003292762
- single-event effects (SEEs),7003292762
- single-event upset (SEU),7003292762
- triple modular redundancy (TMR),7003292762
 Femtosecond laser micromachining,26427694400
  Guided-wave acousto-optics,26427694400
  Holographic display,26427694400
@@ -5430,7 +5231,6 @@ Femtosecond laser micromachining,57191107247
 Femtosecond laser micromachining,16313800700
  Guided-wave acousto-optics,16313800700
  Holographic display,16313800700
- Lithium niobate,16313800700
  Surface acoustic waves,16313800700
 Femtosecond laser micromachining,55664291100
  Guided-wave acousto-optics,55664291100
@@ -5566,17 +5366,14 @@ Ensemble feature selection,7403558004
  Support vector machine,7403558004
 Dynamic equivalent,6701777223
  Online measurement,6701777223
- Parameter identification,6701777223
  REI equivalent,6701777223
  WLS nonlinear optimization,6701777223
 Dynamic equivalent,8448666000
  Online measurement,8448666000
- Parameter identification,8448666000
  REI equivalent,8448666000
  WLS nonlinear optimization,8448666000
 Dynamic equivalent,57218886193
  Online measurement,57218886193
- Parameter identification,57218886193
  REI equivalent,57218886193
  WLS nonlinear optimization,57218886193
 compositional MRI,57193911152
@@ -5638,38 +5435,13 @@ Silent data corruption (SDC),57204968964
  single-event upset (SEU),57204968964
  soft errors,57204968964
  software fault tolerance,57204968964
-Silent data corruption (SDC),57204964732
- single-event upset (SEU),57204964732
- soft errors,57204964732
- software fault tolerance,57204964732
-Silent data corruption (SDC),7003292762
- single-event upset (SEU),7003292762
- soft errors,7003292762
- software fault tolerance,7003292762
-Silent data corruption (SDC),12544690900
- single-event upset (SEU),12544690900
- soft errors,12544690900
- software fault tolerance,12544690900
-Silent data corruption (SDC),54978625300
- single-event upset (SEU),54978625300
- soft errors,54978625300
- software fault tolerance,54978625300
-Field-programmable gate array (FPGA),57208246750
  hardening,57208246750
- neural networks,57208246750
- reliability,57208246750
-Field-programmable gate array (FPGA),57206834042
  hardening,57206834042
- neural networks,57206834042
- reliability,57206834042
 Field-programmable gate array (FPGA),57205645397
  hardening,57205645397
  neural networks,57205645397
  reliability,57205645397
-Field-programmable gate array (FPGA),7003292762
  hardening,7003292762
- neural networks,7003292762
- reliability,7003292762
 Field-programmable gate array (FPGA),55353164900
  hardening,55353164900
  neural networks,55353164900
@@ -5678,14 +5450,10 @@ Field-programmable gate array (FPGA),7101816954
  hardening,7101816954
  neural networks,7101816954
  reliability,7101816954
-Field-programmable gate array (FPGA),19638969800
  hardening,19638969800
- neural networks,19638969800
- reliability,19638969800
 Additive manufacturing,57200529047
  adhesion,57200529047
  conductive inks,57200529047
- printed electronics,57200529047
  single lap shear testing,57200529047
  surface treatments,57200529047
 Additive manufacturing,57200527971
@@ -5700,10 +5468,8 @@ Additive manufacturing,11440678000
  printed electronics,11440678000
  single lap shear testing,11440678000
  surface treatments,11440678000
-Additive manufacturing,7003772744
  adhesion,7003772744
  conductive inks,7003772744
- printed electronics,7003772744
  single lap shear testing,7003772744
  surface treatments,7003772744
 Compressive strength,54782837300
@@ -5772,7 +5538,6 @@ Crisis informatics,57214608701
 Crisis informatics,16425686200
  Delphi method,16425686200
  Emergency management,16425686200
- Social media,16425686200
  Software requirements,16425686200
 Crisis informatics,55598006500
  Delphi method,55598006500
@@ -5905,38 +5670,25 @@ Design reference mission,56979909000
  South Pole-Aitken basin,56979909000
 Global Optimization,8448666000
  Parameter Estimation,8448666000
- System Identification,8448666000
 Global Optimization,57205617484
  Parameter Estimation,57205617484
- System Identification,57205617484
 Global Optimization,6701777223
  Parameter Estimation,6701777223
- System Identification,6701777223
 Global Optimization,57218886193
  Parameter Estimation,57218886193
- System Identification,57218886193
-Co-simulation,57192247939
  Communication delay,57192247939
  Packet drop,57192247939
- State estimation,57192247939
-Co-simulation,57218886153
  Communication delay,57218886153
  Packet drop,57218886153
- State estimation,57218886153
-Co-simulation,6701777223
  Communication delay,6701777223
  Packet drop,6701777223
- State estimation,6701777223
-Co-simulation,8448666000
  Communication delay,8448666000
  Packet drop,8448666000
- State estimation,8448666000
 Film boiling,57193749678
  Microstructure,57193749678
  Pool boiling,57193749678
  Post patterned,57193749678
  Rib patterned,57193749678
- Superhydrophobic surface,57193749678
 Film boiling,57203142381
  Microstructure,57203142381
  Pool boiling,57203142381
@@ -5948,13 +5700,11 @@ Film boiling,55457444300
  Pool boiling,55457444300
  Post patterned,55457444300
  Rib patterned,55457444300
- Superhydrophobic surface,55457444300
 Film boiling,6701863708
  Microstructure,6701863708
  Pool boiling,6701863708
  Post patterned,6701863708
  Rib patterned,6701863708
- Superhydrophobic surface,6701863708
 diabetes,57204916397
  encapsulation,57204916397
  stem cells,57204916397
@@ -6097,10 +5847,7 @@ Bearing,55369699900
 Bearing,7003772744
  Capillary,7003772744
  Surface tension,7003772744
- Wetting,7003772744
 Biosensor,57203181568
- Cell-free protein synthesis,57203181568
- CFPS,57203181568
  in vitro protein synthesis,57203181568
  Protein biosensor,57203181568
  TX-TL,57203181568
@@ -6117,14 +5864,10 @@ Biosensor,57203188827
  Protein biosensor,57203188827
  TX-TL,57203188827
 Biosensor,55458271500
- Cell-free protein synthesis,55458271500
- CFPS,55458271500
  in vitro protein synthesis,55458271500
  Protein biosensor,55458271500
  TX-TL,55458271500
 Biosensor,56266132600
- Cell-free protein synthesis,56266132600
- CFPS,56266132600
  in vitro protein synthesis,56266132600
  Protein biosensor,56266132600
  TX-TL,56266132600
@@ -6137,13 +5880,11 @@ Carbon capture,55619678900
 Carbon capture,9277159100
  Chemical absorption,9277159100
  Dynamic inputs,9277159100
- Dynamic optimization,9277159100
  Low temperature carbon capture,9277159100
  Power generation,9277159100
 Carbon capture,51461952600
  Chemical absorption,51461952600
  Dynamic inputs,51461952600
- Dynamic optimization,51461952600
  Low temperature carbon capture,51461952600
  Power generation,51461952600
 Cancer,56701619800
@@ -6308,9 +6049,7 @@ Ferritin,35587077000
  Photovoltaics,35587077000
  Quantum dots,35587077000
  Solar cells,35587077000
-Compliant mechanisms,57201759181
 Compliant mechanisms,57211516485
-Compliant mechanisms,16548784600
 Compliant mechanisms,57190849274
 Forming limit,57203184524
  Q&P steel,57203184524
@@ -6355,7 +6094,6 @@ Compliant stiffener,57211516485
  large deflection,57211516485
  lenticular stiffener,57211516485
  non-linear elasticity,57211516485
- origami,57211516485
 Attitude,34874038200
  Engineering,34874038200
  Interest,34874038200
@@ -6415,7 +6153,6 @@ Alumina nanoparticles,35791260000
  Ferrocene,35791260000
 Alumina nanoparticles,13406135400
  Carbon nanotubes,13406135400
- Catalysis,13406135400
  Chemical vapor deposition,13406135400
  Ferrocene,13406135400
 Earthquakes,57198333909
@@ -6517,14 +6254,12 @@ Biophotonics,57194155925
  integrated optics,57194155925
  multimode interference waveguides,57194155925
  multiplexing,57194155925
-Biophotonics,16422844400
  biosensors,16422844400
  dielectric waveguides,16422844400
  fluorescence spectroscopy,16422844400
  integrated optics,16422844400
  multimode interference waveguides,16422844400
  multiplexing,16422844400
-Biophotonics,7102975249
  biosensors,7102975249
  dielectric waveguides,7102975249
  fluorescence spectroscopy,7102975249
@@ -6670,8 +6405,6 @@ Antenna arrays,7402967162
  security,7402967162
 Antenna arrays,35597296700
  antenna radiation pattern synthesis,35597296700
- cryptography,35597296700
- security,35597296700
 affective theories,56740595400
  design projects,56740595400
  electrodermal activity,56740595400
@@ -6697,15 +6430,10 @@ affective theories,6603615600
  electrodermal activity,6603615600
  learning environment,6603615600
  multimodal methods,6603615600
-Compliant mechanisms,57201759181
  Flexible manipulator,57201759181
- Flexure hinge,57201759181
  Transfer matrix method,57201759181
-Compliant mechanisms,16548784600
  Flexible manipulator,16548784600
- Flexure hinge,16548784600
  Transfer matrix method,16548784600
-Compliant mechanisms,57211516485
  Flexible manipulator,57211516485
  Flexure hinge,57211516485
  Transfer matrix method,57211516485
@@ -6915,18 +6643,9 @@ infrared imaging,7402396019
  Microfluidics,57031532300
  Particle traps,57031532300
  Stereolithography,57031532300
-3D printing,57031187500
- Microfluidics,57031187500
  Particle traps,57031187500
- Stereolithography,57031187500
-3D printing,7006111578
- Microfluidics,7006111578
  Particle traps,7006111578
- Stereolithography,7006111578
-3D printing,7005636820
- Microfluidics,7005636820
  Particle traps,7005636820
- Stereolithography,7005636820
 Flipped classroom,57203310052
  Illusion of learning,57203310052
  Student-centered learning,57203310052
@@ -6950,8 +6669,6 @@ Bézier dual basis,57201257192
  Bézier extraction,57201257192
  Bézier projection,57201257192
  B̄-projection,57201257192
- Isogeometric analysis,57201257192
- Locking,57201257192
 Bézier dual basis,39861044100
  Bézier extraction,39861044100
  Bézier projection,39861044100
@@ -6962,8 +6679,6 @@ Bézier dual basis,9942259800
  Bézier extraction,9942259800
  Bézier projection,9942259800
  B̄-projection,9942259800
- Isogeometric analysis,9942259800
- Locking,9942259800
 Bézier dual basis,36708895400
  Bézier extraction,36708895400
  Bézier projection,36708895400
@@ -6997,76 +6712,41 @@ Annealing twins,7401431037
  Superalloy,7401431037
 Convection,56237421600
  Heat transfer,56237421600
- Mass transfer,56237421600
  Microchannel,56237421600
- Nucleation,56237421600
- Superhydrophobic,56237421600
 Convection,6701863708
- Heat transfer,6701863708
- Mass transfer,6701863708
  Microchannel,6701863708
- Nucleation,6701863708
- Superhydrophobic,6701863708
 Convection,55457444300
- Heat transfer,55457444300
- Mass transfer,55457444300
  Microchannel,55457444300
- Nucleation,55457444300
- Superhydrophobic,55457444300
 Convection,8608718200
  Heat transfer,8608718200
- Mass transfer,8608718200
  Microchannel,8608718200
- Nucleation,8608718200
- Superhydrophobic,8608718200
 Dielectric waveguides,56709364700
  fluorescence,56709364700
- fluorescence spectroscopy,56709364700
- integrated optics,56709364700
  multimode waveguides,56709364700
- multiplexing,56709364700
  rib waveguides,56709364700
 Dielectric waveguides,56387524600
  fluorescence,56387524600
- fluorescence spectroscopy,56387524600
- integrated optics,56387524600
  multimode waveguides,56387524600
- multiplexing,56387524600
  rib waveguides,56387524600
 Dielectric waveguides,57201484423
  fluorescence,57201484423
- fluorescence spectroscopy,57201484423
- integrated optics,57201484423
  multimode waveguides,57201484423
- multiplexing,57201484423
  rib waveguides,57201484423
 Dielectric waveguides,57194155925
  fluorescence,57194155925
- fluorescence spectroscopy,57194155925
- integrated optics,57194155925
  multimode waveguides,57194155925
- multiplexing,57194155925
  rib waveguides,57194155925
 Dielectric waveguides,57195398251
  fluorescence,57195398251
- fluorescence spectroscopy,57195398251
- integrated optics,57195398251
  multimode waveguides,57195398251
- multiplexing,57195398251
  rib waveguides,57195398251
 Dielectric waveguides,16422844400
  fluorescence,16422844400
- fluorescence spectroscopy,16422844400
- integrated optics,16422844400
  multimode waveguides,16422844400
- multiplexing,16422844400
  rib waveguides,16422844400
 Dielectric waveguides,7102975249
  fluorescence,7102975249
- fluorescence spectroscopy,7102975249
- integrated optics,7102975249
  multimode waveguides,7102975249
- multiplexing,7102975249
  rib waveguides,7102975249
 Concentric and eccentric loading,56781290700
  High-strength concrete masonry block,56781290700
@@ -7344,7 +7024,6 @@ CAD,57188654880
 CAD,56830076500
  Computer-aided engineering model interaction,56830076500
  Data translation,56830076500
- Virtual reality,56830076500
 CAD,57191822951
  Computer-aided engineering model interaction,57191822951
  Data translation,57191822951
@@ -7364,28 +7043,16 @@ Buckingham's Pi theorem,7401431037
 Buckingham's Pi theorem,7102879142
  Critical weld parameters,7102879142
  Dimensional analysis,7102879142
- Friction stir welding,7102879142
  Rosenthal equation,7102879142
  Thermal modeling,7102879142
-Bézier extraction,56330168500
  Bézier projection,56330168500
- Isogeometric analysis,56330168500
  Mortar methods,56330168500
-Bézier extraction,9942259800
- Bézier projection,9942259800
- Isogeometric analysis,9942259800
  Mortar methods,9942259800
 Bézier extraction,39861044100
- Bézier projection,39861044100
- Isogeometric analysis,39861044100
  Mortar methods,39861044100
 Bézier extraction,36708895400
- Bézier projection,36708895400
- Isogeometric analysis,36708895400
  Mortar methods,36708895400
-Bézier extraction,55487415500
  Bézier projection,55487415500
- Isogeometric analysis,55487415500
  Mortar methods,55487415500
 Bézier extraction,56386056100
  Bézier projection,56386056100
@@ -7487,13 +7154,10 @@ cross-talk,36349287300
  soft robot,36349287300
 antireflective,57202116348
  light blocking,57202116348
- optics,57202116348
 antireflective,57202112010
  light blocking,57202112010
- optics,57202112010
 antireflective,57202120923
  light blocking,57202120923
- optics,57202120923
 antireflective,56709287700
  light blocking,56709287700
  optics,56709287700
@@ -7502,7 +7166,6 @@ antireflective,57203246058
  optics,57203246058
 antireflective,7102975249
  light blocking,7102975249
- optics,7102975249
 atrium,57201645135
  cavoatrial junction,57201645135
  laser,57201645135
@@ -7754,15 +7417,12 @@ Delay,57218886189
 Delay,57192247939
  Extended Kalman filter,57192247939
  Phasor measurement unit,57192247939
- State estimation,57192247939
 Delay,6701777223
  Extended Kalman filter,6701777223
  Phasor measurement unit,6701777223
- State estimation,6701777223
 Delay,8448666000
  Extended Kalman filter,8448666000
  Phasor measurement unit,8448666000
- State estimation,8448666000
 Collaborative design,57193356353
  Group dynamics,57193356353
  Multi-user CAD,57193356353
@@ -7796,17 +7456,9 @@ Ashby methods,12142543700
  Football helmet,12142543700
  Materials selection,12142543700
 Axial force,57118455800
- EBSD,57118455800
- Friction welding,57118455800
  Power,57118455800
- Recrystallization,57118455800
- Superalloy,57118455800
 Axial force,7401431037
- EBSD,7401431037
- Friction welding,7401431037
  Power,7401431037
- Recrystallization,7401431037
- Superalloy,7401431037
 CAD Database,56331127200
  Interoperability,56331127200
  Multi-User,56331127200
@@ -7821,11 +7473,9 @@ CAD Database,56830076500
  PLM,56830076500
 Effective area shape,48361087900
  horn antennas,48361087900
- Poynting streamlines,48361087900
  superdirectivity,48361087900
 Effective area shape,7003381644
  horn antennas,7003381644
- Poynting streamlines,7003381644
  superdirectivity,7003381644
 Dam,26642910500
  Dam operation,26642910500
@@ -7849,10 +7499,8 @@ Applied learning,57204902069
  Industrial Design,57204902069
  Pedagogy,57204902069
 Applied learning,55161739600
- Design Education,55161739600
  Experiential Learning,55161739600
  Field Trip,55161739600
- Industrial Design,55161739600
  Pedagogy,55161739600
 Chunking,23093686000
  Frameworks,23093686000
@@ -7860,9 +7508,7 @@ Chunking,23093686000
  Insight,23093686000
  Segmentation,23093686000
 Grammatical evolution,57195066838
- Swarms,57195066838
 Grammatical evolution,7005513246
- Swarms,7005513246
 Grammatical evolution,7005411524
  Swarms,7005411524
 Aesthetics,23093686000
@@ -7902,19 +7548,15 @@ Advanced high strength steels (AHSS),7401431037
 Corrosion resistance,57193720916
  Crack healing,57193720916
  Friction stir processing,57193720916
- Stainless steel,57193720916
 Corrosion resistance,24295291100
  Crack healing,24295291100
  Friction stir processing,24295291100
- Stainless steel,24295291100
 Corrosion resistance,57118455800
  Crack healing,57118455800
  Friction stir processing,57118455800
- Stainless steel,57118455800
 Corrosion resistance,7401431037
  Crack healing,7401431037
  Friction stir processing,7401431037
- Stainless steel,7401431037
 Origami,8608718200
  Radiation,8608718200
  Thermal Management,8608718200
@@ -7933,28 +7575,23 @@ Origami,56714263700
  Variable Emissivity,56714263700
 Capabilities,56353116200
  Excess,56353116200
- Over-design,56353116200
  Redesign,56353116200
  Requirements,56353116200
 Capabilities,7004300863
  Excess,7004300863
- Over-design,7004300863
  Redesign,7004300863
  Requirements,7004300863
 Capabilities,57197765353
  Excess,57197765353
- Over-design,57197765353
  Redesign,57197765353
  Requirements,57197765353
 Capabilities,6603717022
  Excess,6603717022
- Over-design,6603717022
  Redesign,6603717022
  Requirements,6603717022
 Fault tolerace,57189235340
  field programmable gate arrays,57189235340
  neutron radiation effects,57189235340
- redundancy,57189235340
  static random access memory (SRAM) cells,57189235340
 Fault tolerace,57197733505
  field programmable gate arrays,57197733505
@@ -7969,7 +7606,6 @@ Fault tolerace,57197728435
 Fault tolerace,7003292762
  field programmable gate arrays,7003292762
  neutron radiation effects,7003292762
- redundancy,7003292762
  static random access memory (SRAM) cells,7003292762
 CubeSat,57190858572
  Earth observation,57190858572
@@ -7984,7 +7620,6 @@ CubeSat,35508257500
  engineering design,35508257500
  microwave remote sensing,35508257500
  ocean winds,35508257500
- scatterometer,35508257500
  small satellites,35508257500
  system engineering,35508257500
 Optical trapping,6701646284
@@ -8084,7 +7719,6 @@ Limit analysis,57207228951
 Limit analysis,7004435321
  Masonry shear-wall,7004435321
  Masonry structures,7004435321
- Numerical modelling,7004435321
  Strut-and-tie model,7004435321
 Dry-stack,57193727615
  Finite element model,57193727615
@@ -8093,7 +7727,6 @@ Dry-stack,57193727615
 Dry-stack,7004435321
  Finite element model,7004435321
  In-plane shear capacity,7004435321
- Masonry,7004435321
 Engineering design,56149906900
  Self-efficacy,56149906900
  Topic emotions,56149906900
@@ -8122,15 +7755,12 @@ Collaborative learning,18042274300
 Distance learning,56300864300
  Multi-university capstone,56300864300
  Team performance,56300864300
- Virtual teams,56300864300
 Distance learning,6602649851
  Multi-university capstone,6602649851
  Team performance,6602649851
- Virtual teams,6602649851
 Distance learning,18042274300
  Multi-university capstone,18042274300
  Team performance,18042274300
- Virtual teams,18042274300
 Emissions,57188755995
  Fire,57188755995
  Soot formation,57188755995
@@ -8157,7 +7787,6 @@ ATR,9277159100
  SfM,9277159100
  Structure-from-Motion,9277159100
  UAV,9277159100
- View-planning,9277159100
 finite element modeling,57202577089
  Plaxis2D®,57202577089
  quay wall,57202577089
@@ -8340,30 +7969,10 @@ face recognition,16043812000
  image processing,16043812000
  machine learning,16043812000
  object detection,16043812000
-Compressive strength,54782837300
- Confinement,54782837300
- Mortar,54782837300
- Numerical model,54782837300
  Stress-strain behavior,54782837300
-Compressive strength,8048702500
- Confinement,8048702500
- Mortar,8048702500
- Numerical model,8048702500
  Stress-strain behavior,8048702500
-Compressive strength,7004435321
- Confinement,7004435321
- Mortar,7004435321
- Numerical model,7004435321
  Stress-strain behavior,7004435321
-Compressive strength,57207228809
- Confinement,57207228809
- Mortar,57207228809
- Numerical model,57207228809
  Stress-strain behavior,57207228809
-Compressive strength,7005521036
- Confinement,7005521036
- Mortar,7005521036
- Numerical model,7005521036
  Stress-strain behavior,7005521036
 Ballistic armor,36149254500
  Dynamic testing,36149254500
@@ -8757,7 +8366,6 @@ Anomaly Response,12799657800
  white matter,6701387944
 22q11.2 deletion syndrome,7403220237
  diffusion anisotropy,7403220237
- Diffusion MRI,7403220237
  dMRI,7403220237
  white matter,7403220237
 Hyperparameter optimization,57201212051
@@ -8793,7 +8401,6 @@ Acceleration,7006001488
  Self-sensing foam,7006001488
  Severity index,7006001488
 Acceleration,24333330300
- Football helmet,24333330300
  Impact detection,24333330300
  Impact energy,24333330300
  Impact velocity,24333330300
@@ -8801,7 +8408,6 @@ Acceleration,24333330300
  Self-sensing foam,24333330300
  Severity index,24333330300
 Acceleration,7006441571
- Football helmet,7006441571
  Impact detection,7006441571
  Impact energy,7006441571
  Impact velocity,7006441571
@@ -8809,7 +8415,6 @@ Acceleration,7006441571
  Self-sensing foam,7006441571
  Severity index,7006441571
 Acceleration,12142543700
- Football helmet,12142543700
  Impact detection,12142543700
  Impact energy,12142543700
  Impact velocity,12142543700
@@ -8839,7 +8444,6 @@ Multipath channels,55649569259
  multiple-input multiple-output (MIMO) systems,55649569259
  radio propagation,55649569259
 Multipath channels,35597296700
- multiple-input multiple-output (MIMO) systems,35597296700
  radio propagation,35597296700
 Kumamoto Earthquake,56244956300
  Kumamoto water supply,56244956300
@@ -8904,13 +8508,11 @@ Acoustic basis functions,6603077820
  Cylindrical shell,6603077820
  Radiation mode shapes,6603077820
 Array effective resistance,48361087900
- mutual coupling,48361087900
  phased array antennas,48361087900
  phased array feeds,48361087900
  receiving efficiency,48361087900
  scanned beams,48361087900
 Array effective resistance,7003381644
- mutual coupling,7003381644
  phased array antennas,7003381644
  phased array feeds,7003381644
  receiving efficiency,7003381644
@@ -8946,25 +8548,20 @@ BEM,57190384916
  Dynamic refinement,57190384916
  FEM,57190384916
  Isogeometric analysis,57190384916
- T-spline,57190384916
 BEM,7005253700
  Deformable capsule,7005253700
  Dynamic refinement,7005253700
  FEM,7005253700
  Isogeometric analysis,7005253700
- T-spline,7005253700
 BEM,7004060735
  Deformable capsule,7004060735
  Dynamic refinement,7004060735
  FEM,7004060735
  Isogeometric analysis,7004060735
- T-spline,7004060735
 BEM,9942259800
  Deformable capsule,9942259800
  Dynamic refinement,9942259800
  FEM,9942259800
- Isogeometric analysis,9942259800
- T-spline,9942259800
 Bragg gratings,36011148100
  delamination,36011148100
  nondestructive testing,36011148100
@@ -9053,18 +8650,14 @@ employee turnover,6603945025
  human resources,6603945025
  Personality profile assessment,6603945025
 Friction stir processing,57190228554
- Friction stir welding,57190228554
  Heat source method,57190228554
  Model predictive control,57190228554
  PID,57190228554
- Temperature control,57190228554
  Temperature models,57190228554
 Friction stir processing,7102879142
- Friction stir welding,7102879142
  Heat source method,7102879142
  Model predictive control,7102879142
  PID,7102879142
- Temperature control,7102879142
  Temperature models,7102879142
 Friction stir processing,9277159100
  Friction stir welding,9277159100
@@ -9112,7 +8705,6 @@ Adaptive and intelligent educational systems,13605498800
 Adaptability,56353116200
  Developing world,56353116200
  Evolvability,56353116200
- Excess,56353116200
  Improved cookstove,56353116200
  Reconfigurability,56353116200
  Reconfigure,56353116200
@@ -9120,7 +8712,6 @@ Adaptability,56353116200
 Adaptability,7004300863
  Developing world,7004300863
  Evolvability,7004300863
- Excess,7004300863
  Improved cookstove,7004300863
  Reconfigurability,7004300863
  Reconfigure,7004300863
@@ -9236,7 +8827,6 @@ Foam sensor,12142543700
  Functional data analysis,12142543700
  Gait analysis,12142543700
  Ground reaction force,12142543700
- Nanocomposite,12142543700
  Wearable sensor,12142543700
 Foam sensor,7006001488
  Functional data analysis,7006001488
@@ -9248,7 +8838,6 @@ Foam sensor,7006441571
  Functional data analysis,7006441571
  Gait analysis,7006441571
  Ground reaction force,7006441571
- Nanocomposite,7006441571
  Wearable sensor,7006441571
 Assessment,55859152500
  Creativity,55859152500
@@ -9269,11 +8858,7 @@ Assessment,34873482400
 Ascending auctions,24081319400
  Estimation of number of bidders,24081319400
  Unobserved auction participation,24081319400
-air conditioning,57202064143
  asthma,57202064143
- endotoxin,57202064143
- evaporative cooling,57202064143
- hygiene hypothesis,57202064143
  indoor environmental quality,57202064143
 air conditioning,57193435113
  asthma,57193435113
@@ -9293,11 +8878,7 @@ air conditioning,7102985794
  evaporative cooling,7102985794
  hygiene hypothesis,7102985794
  indoor environmental quality,7102985794
-air conditioning,57192662939
  asthma,57192662939
- endotoxin,57192662939
- evaporative cooling,57192662939
- hygiene hypothesis,57192662939
  indoor environmental quality,57192662939
 air conditioning,57193433048
  asthma,57193433048
@@ -9323,31 +8904,16 @@ air conditioning,57193431261
  evaporative cooling,57193431261
  hygiene hypothesis,57193431261
  indoor environmental quality,57193431261
-air conditioning,7402658393
  asthma,7402658393
- endotoxin,7402658393
- evaporative cooling,7402658393
- hygiene hypothesis,7402658393
  indoor environmental quality,7402658393
 Compliant mechanism,57194636792
- Minimally invasive surgery,57194636792
- Nitinol,57194636792
  Surgical instrument,57194636792
 Compliant mechanism,55916540700
- Minimally invasive surgery,55916540700
- Nitinol,55916540700
  Surgical instrument,55916540700
 Compliant mechanism,7403218372
- Minimally invasive surgery,7403218372
- Nitinol,7403218372
  Surgical instrument,7403218372
 Compliant mechanism,6701720294
- Minimally invasive surgery,6701720294
- Nitinol,6701720294
  Surgical instrument,6701720294
-Compliant mechanism,57211516485
- Minimally invasive surgery,57211516485
- Nitinol,57211516485
  Surgical instrument,57211516485
 dGEMRIC,55780846900
  Femoroacetabular impingement,55780846900
@@ -9439,19 +9005,16 @@ Fluorescence sensing,56709476900
  SiO2,56709476900
  Water absorption,56709476900
 Fluorescence sensing,56387524600
- Lab-on-a-chip,56387524600
  Optofluidics,56387524600
  Pecvd,56387524600
  SiO2,56387524600
  Water absorption,56387524600
 Fluorescence sensing,16422844400
- Lab-on-a-chip,16422844400
  Optofluidics,16422844400
  Pecvd,16422844400
  SiO2,16422844400
  Water absorption,16422844400
 Fluorescence sensing,7102975249
- Lab-on-a-chip,7102975249
  Optofluidics,7102975249
  Pecvd,7102975249
  SiO2,7102975249
@@ -9564,54 +9127,11 @@ Aluminum alloys,7401969039
  Friction stir welding,7401969039
  Joint properties,7401969039
  Process responses,7401969039
-Basis Vectors,7006214218
- Crystal Structure,7006214218
- Database,7006214218
- Lattice Vectors,7006214218
- Space Groups,7006214218
- Wyckoff Positions,7006214218
-Basis Vectors,57194392244
- Crystal Structure,57194392244
- Database,57194392244
- Lattice Vectors,57194392244
- Space Groups,57194392244
- Wyckoff Positions,57194392244
-Basis Vectors,9845705900
- Crystal Structure,9845705900
- Database,9845705900
- Lattice Vectors,9845705900
- Space Groups,9845705900
- Wyckoff Positions,9845705900
-Basis Vectors,7004929818
- Crystal Structure,7004929818
- Database,7004929818
- Lattice Vectors,7004929818
- Space Groups,7004929818
- Wyckoff Positions,7004929818
-Basis Vectors,57194379165
- Crystal Structure,57194379165
- Database,57194379165
- Lattice Vectors,57194379165
- Space Groups,57194379165
- Wyckoff Positions,57194379165
-Basis Vectors,57207901363
- Crystal Structure,57207901363
- Database,57207901363
- Lattice Vectors,57207901363
- Space Groups,57207901363
- Wyckoff Positions,57207901363
-Basis Vectors,6603325558
- Crystal Structure,6603325558
- Database,6603325558
- Lattice Vectors,6603325558
- Space Groups,6603325558
- Wyckoff Positions,6603325558
 collaborative design,56300864300
  concurrent engineering,56300864300
  Multi-user CAD,56300864300
 collaborative design,56830076500
  concurrent engineering,56830076500
- Multi-user CAD,56830076500
 collaborative design,35269204800
  concurrent engineering,35269204800
  Multi-user CAD,35269204800
@@ -9787,7 +9307,6 @@ avionics,7003292762
  beam testing,7003292762
  BRAM,7003292762
  EDAC,7003292762
- FPGA,7003292762
  IOB,7003292762
  MMCM,7003292762
  PLL,7003292762
@@ -9869,42 +9388,34 @@ Algorithm,7102523474
 De Bruijn graph,56371366400
  Graph,56371366400
  GWAS,56371366400
- Phylogenetics,56371366400
  Polymorphism,56371366400
 De Bruijn graph,57202818911
  Graph,57202818911
  GWAS,57202818911
- Phylogenetics,57202818911
  Polymorphism,57202818911
 De Bruijn graph,55376424100
  Graph,55376424100
  GWAS,55376424100
- Phylogenetics,55376424100
  Polymorphism,55376424100
 De Bruijn graph,55078951500
  Graph,55078951500
  GWAS,55078951500
- Phylogenetics,55078951500
  Polymorphism,55078951500
 De Bruijn graph,6602958570
  Graph,6602958570
  GWAS,6602958570
- Phylogenetics,6602958570
  Polymorphism,6602958570
 De Bruijn graph,7006440923
  Graph,7006440923
  GWAS,7006440923
- Phylogenetics,7006440923
  Polymorphism,7006440923
 De Bruijn graph,14057706900
  Graph,14057706900
  GWAS,14057706900
- Phylogenetics,14057706900
  Polymorphism,14057706900
 De Bruijn graph,7102523474
  Graph,7102523474
  GWAS,7102523474
- Phylogenetics,7102523474
  Polymorphism,7102523474
 cooperation,57195317234
  game theory,57195317234
@@ -9944,7 +9455,6 @@ collaboration,56672834700
 collaboration,56830076500
  design intent,56830076500
  heterogeneous CAD,56830076500
- Interoperability,56830076500
 collaboration,6603625990
  design intent,6603625990
  heterogeneous CAD,6603625990
@@ -10004,7 +9514,6 @@ Bézier projection,57192156100
  Tumor growth,57192156100
 Bézier projection,9942259800
  Hierarchical spline spaces,9942259800
- Isogeometric analysis,9942259800
  Local refinement and coarsening,9942259800
  Phase field,9942259800
  Tumor growth,9942259800
@@ -10016,7 +9525,6 @@ Bézier projection,36675881600
  Tumor growth,36675881600
 Bézier projection,55911870000
  Hierarchical spline spaces,55911870000
- Isogeometric analysis,55911870000
  Local refinement and coarsening,55911870000
  Phase field,55911870000
  Tumor growth,55911870000
@@ -10098,13 +9606,11 @@ integrated optics,57194155925
  water absorption,57194155925
 integrated optics,16422844400
  intrinsic film stress,16422844400
- microfabrication,16422844400
  optical waveguides,16422844400
  Silica,16422844400
  water absorption,16422844400
 integrated optics,7102975249
  intrinsic film stress,7102975249
- microfabrication,7102975249
  optical waveguides,7102975249
  Silica,7102975249
  water absorption,7102975249
@@ -10189,12 +9695,10 @@ Electric distribution network,57031532600
  Resilience,57031532600
  Severe weather,57031532600
  Vegetation management,57031532600
-Computational differential geometry,8448666000
  dynamic equivalent,8448666000
  information,8448666000
  manifold boundary approximation method,8448666000
  system identification,8448666000
-Computational differential geometry,6701777223
  dynamic equivalent,6701777223
  information,6701777223
  manifold boundary approximation method,6701777223
@@ -10299,41 +9803,21 @@ band gaps,57212277009
  metal oxides,57212277009
  nanoparticles,57212277009
  synthesis,57212277009
-band gaps,57194047397
- ferritin,57194047397
  manganese oxide,57194047397
- nanoparticles,57194047397
- synthesis,57194047397
 band gaps,55938156500
  ferritin,55938156500
  manganese oxide,55938156500
  nanoparticles,55938156500
  synthesis,55938156500
-band gaps,57193099661
- ferritin,57193099661
  manganese oxide,57193099661
- nanoparticles,57193099661
- synthesis,57193099661
 band gaps,57194061052
  ferritin,57194061052
  manganese oxide,57194061052
  nanoparticles,57194061052
  synthesis,57194061052
-band gaps,57208823236
- ferritin,57208823236
  manganese oxide,57208823236
- nanoparticles,57208823236
- synthesis,57208823236
-band gaps,57213462935
- ferritin,57213462935
  manganese oxide,57213462935
- nanoparticles,57213462935
- synthesis,57213462935
-band gaps,57194047820
- ferritin,57194047820
  manganese oxide,57194047820
- nanoparticles,57194047820
- synthesis,57194047820
 band gaps,56080900100
  ferritin,56080900100
  manganese oxide,56080900100
@@ -10344,16 +9828,8 @@ band gaps,57196655805
  manganese oxide,57196655805
  nanoparticles,57196655805
  synthesis,57196655805
-band gaps,35587077000
- ferritin,35587077000
  manganese oxide,35587077000
- nanoparticles,35587077000
- synthesis,35587077000
-band gaps,57212277009
- ferritin,57212277009
  manganese oxide,57212277009
- nanoparticles,57212277009
- synthesis,57212277009
 Heterogeneous CAD,15831070600
  MESH CAD,15831070600
  Neutral Format,15831070600
@@ -10455,7 +9931,6 @@ human-robot interaction,35175200200
  multi-objective decision making,35175200200
  robot path-planning,35175200200
  user interface design,35175200200
-human-robot interaction,7005513246
  multi-objective decision making,7005513246
  robot path-planning,7005513246
  user interface design,7005513246
@@ -10510,7 +9985,6 @@ Jet,7004834766
  One dimensional turbulence,7004834766
  Particle dispersion,7004834766
 Jet,8660143800
- ODT,8660143800
  One dimensional turbulence,8660143800
  Particle dispersion,8660143800
 Aluminum alloys,57192106462
@@ -10519,13 +9993,11 @@ Aluminum alloys,57192106462
  Material flow,57192106462
  Process response,57192106462
  Tool geometry,57192106462
-Aluminum alloys,57193564939
  Friction stir spot welding,57193564939
  Joint strength,57193564939
  Material flow,57193564939
  Process response,57193564939
  Tool geometry,57193564939
-Aluminum alloys,54399816500
  Friction stir spot welding,54399816500
  Joint strength,54399816500
  Material flow,54399816500
@@ -10537,19 +10009,16 @@ Aluminum alloys,56012868500
  Material flow,56012868500
  Process response,56012868500
  Tool geometry,56012868500
-Aluminum alloys,55726346900
  Friction stir spot welding,55726346900
  Joint strength,55726346900
  Material flow,55726346900
  Process response,55726346900
  Tool geometry,55726346900
-Aluminum alloys,24295291100
  Friction stir spot welding,24295291100
  Joint strength,24295291100
  Material flow,24295291100
  Process response,24295291100
  Tool geometry,24295291100
-Aluminum alloys,8935514400
  Friction stir spot welding,8935514400
  Joint strength,8935514400
  Material flow,8935514400
@@ -10647,23 +10116,14 @@ disordered nucleation,7004441442
  superconducting radio frequency cavities,7004441442
  superheating field,7004441442
 Electron backscattering diffraction (EBSD),57118455800
- Friction stir processing,57118455800
  Friction stir welding,57118455800
  In-situ,57118455800
- Recrystallization,57118455800
  Texture,57118455800
 Electron backscattering diffraction (EBSD),7401431037
- Friction stir processing,7401431037
- Friction stir welding,7401431037
  In-situ,7401431037
- Recrystallization,7401431037
  Texture,7401431037
-Effective area shape,48361087900
- Poynting streamlines,48361087900
  receiving antenna,48361087900
  superdirective antenna,48361087900
-Effective area shape,7003381644
- Poynting streamlines,7003381644
  receiving antenna,7003381644
  superdirective antenna,7003381644
 Algorithms,57190000029
@@ -10743,7 +10203,6 @@ Face-to-face selling,57187178400
  Public assessment,57187178400
 Copyright,55161739600
  Design patent,55161739600
- Industrial design,55161739600
  IP trends,55161739600
  Live projects,55161739600
  Sponsored projects,55161739600
@@ -10814,13 +10273,10 @@ Coal,7102857304
  Pyrolysis,7102857304
 Coal,57188755995
  Method of moments,57188755995
- Soot formation,57188755995
-Coal,7102857304
  Method of moments,7102857304
  Soot formation,7102857304
 Coal,8660143800
  Method of moments,8660143800
- Soot formation,8660143800
 epithelial cells,55235047300
  kidney,55235047300
  magnetic resonance imaging,55235047300
@@ -10876,42 +10332,21 @@ Biomass,57200206301
 Biomass,7102857304
  Flat-Flame Burner,7102857304
  Live fuel,7102857304
- Pyrolysis,7102857304
 Fires,57195419580
  Flame - merging,57195419580
 Fires,57200201106
  Flame - merging,57200201106
 Fires,57200819002
  Flame - merging,57200819002
-Fires,57192643299
  Flame - merging,57192643299
-Fires,57200206301
  Flame - merging,57200206301
-Fires,7102857304
  Flame - merging,7102857304
-Convective heat transfer,57193749678
- Jet impingement,57193749678
- Slip length,57193749678
- Superhydrophobic surface,57193749678
- Temperature jump length,57193749678
-Convective heat transfer,6701863708
- Jet impingement,6701863708
- Slip length,6701863708
- Superhydrophobic surface,6701863708
- Temperature jump length,6701863708
-Convective heat transfer,55457444300
- Jet impingement,55457444300
- Slip length,55457444300
- Superhydrophobic surface,55457444300
- Temperature jump length,55457444300
 Drag reduction,55764401200
  Superhydrophobic surfaces,55764401200
  Two-phase flow,55764401200
 Drag reduction,55457444300
- Superhydrophobic surfaces,55457444300
  Two-phase flow,55457444300
 Drag reduction,6701863708
- Superhydrophobic surfaces,6701863708
  Two-phase flow,6701863708
 Drag reduction,8608718200
  Superhydrophobic surfaces,8608718200
@@ -10925,26 +10360,20 @@ Configuration scrubbing,57191921086
 Configuration scrubbing,57191923986
  field programmable gate arrays,57191923986
  single-event upset (SEU),57191923986
-Configuration scrubbing,7003292762
- field programmable gate arrays,7003292762
- single-event upset (SEU),7003292762
 BRAM scrubbing,57189235340
  configuration scrubbing,57189235340
  Feedback TMR,57189235340
  FPGA,57189235340
  LEON3,57189235340
  neutron beam test,57189235340
- reliability,57189235340
  SEU mitigation,57189235340
  soft processors,57189235340
  TMR,57189235340
 BRAM scrubbing,7003292762
  configuration scrubbing,7003292762
  Feedback TMR,7003292762
- FPGA,7003292762
  LEON3,7003292762
  neutron beam test,7003292762
- reliability,7003292762
  SEU mitigation,7003292762
  soft processors,7003292762
  TMR,7003292762
@@ -10953,10 +10382,8 @@ Boiling,56463982900
  Superhydrophobic,56463982900
 Boiling,55457444300
  Droplet impingement,55457444300
- Superhydrophobic,55457444300
 Boiling,6701863708
  Droplet impingement,6701863708
- Superhydrophobic,6701863708
 Barrier layer,7006120837
  Ellipsometry,7006120837
  Extreme ultraviolet,7006120837
@@ -11033,12 +10460,10 @@ Combined heat and power,57192573362
  Optimal design,57192573362
 Combined heat and power,51461952600
  Combined scheduling and control,51461952600
- Dynamic optimization,51461952600
  Optimal control,51461952600
  Optimal design,51461952600
 Combined heat and power,9277159100
  Combined scheduling and control,9277159100
- Dynamic optimization,9277159100
  Optimal control,9277159100
  Optimal design,9277159100
 Ash aerosol,57201704300
@@ -11054,13 +10479,10 @@ Ash aerosol,7101671848
  Minimum recycled flue gas,7101671848
  Oxy-fuel combustion,7101671848
 Method of moments,57188755995
- Soot formation,57188755995
 Method of moments,57200204063
  Soot formation,57200204063
 Method of moments,7005044056
- Soot formation,7005044056
 Method of moments,8660143800
- Soot formation,8660143800
 Char oxidation,56559548600
  Coal,56559548600
  Kinetics,56559548600
@@ -11129,15 +10551,9 @@ Biosensing,37052385600
  optofluidics,37052385600
  photonics,37052385600
 Biosensing,7102975249
- integrated optics,7102975249
  lab-on-chip,7102975249
- optofluidics,7102975249
- photonics,7102975249
 Biosensing,16422844400
- integrated optics,16422844400
  lab-on-chip,16422844400
- optofluidics,16422844400
- photonics,16422844400
 Carbon nanotubes,56913378600
  Microfabrication,56913378600
  Vascular stent,56913378600
@@ -11181,47 +10597,24 @@ Comprehensive modeling,7102857304
  Single-particle combustion,7102857304
 AA7075,57191616632
  Corrosion,57191616632
- EBSD,57191616632
  EXCO,57191616632
- FSW,57191616632
  Microstructure,57191616632
  SEM,57191616632
 AA7075,57200884469
  Corrosion,57200884469
- EBSD,57200884469
  EXCO,57200884469
- FSW,57200884469
  Microstructure,57200884469
  SEM,57200884469
 AA7075,18535712500
  Corrosion,18535712500
- EBSD,18535712500
  EXCO,18535712500
- FSW,18535712500
  Microstructure,18535712500
  SEM,18535712500
 AA7075,7202713087
  Corrosion,7202713087
- EBSD,7202713087
  EXCO,7202713087
- FSW,7202713087
  Microstructure,7202713087
  SEM,7202713087
-holography,26427694400
- near-to-eye display,26427694400
- waveguide optics,26427694400
-holography,37113017300
- near-to-eye display,37113017300
- waveguide optics,37113017300
-holography,57190256209
- near-to-eye display,57190256209
- waveguide optics,57190256209
-holography,16313800700
- near-to-eye display,16313800700
- waveguide optics,16313800700
-holography,55919211300
- near-to-eye display,55919211300
- waveguide optics,55919211300
 Cruise control,26538762200
  decentralized control,26538762200
  linear feedback control systems,26538762200
