@@ -50,6 +50,7 @@ RETURN conference, impact_factor
 //=========================
 // Query No. 04
 //=========================
+
 MATCH (a:Author)<-[r:written_by]-(d:Document)-[p:published_in]->(j:Journal)
 WITH a, d, count(p) AS total_cited
 WITH a, d, total_cited ORDER BY total_cited DESC
