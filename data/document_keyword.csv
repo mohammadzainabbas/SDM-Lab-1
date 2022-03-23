@@ -273,7 +273,6 @@ Catalysis,20
  Carbon footprint,20
  Carbon monoxide,20
  Catalysts,20
- Coal,20
  Global warming,20
  Iron research,20
  Methane,20
@@ -336,7 +335,6 @@ Atomistic simulations,23
  Grain-boundary energy,23
  Low angle boundaries,23
  Misorientations,23
- Grain boundaries,23
 analog-to-digital converter (ADC),24
  delta sigma (?S),24
  incremental data converters,24
@@ -361,7 +359,6 @@ Cooperative navigation,25
  relative attitude estimation,25
  unmanned aerial vehiclesAntennas,25
  Degrees of freedom (mechanics),25
- MIMO systems,25
  Unmanned aerial vehicles (UAV),25
  Ambiguity resolution,25
  Attitude estimation,25
@@ -502,9 +499,6 @@ aliased effects,37
  effect sparsity,37
  hierarchical orderingSeparation,37
  Aliased,37
- CME analysis,37
- confounding,37
- effect heredity,37
  Effect sparsity,37
  Hierarchical order,37
  Factor analysis,37
@@ -542,7 +536,6 @@ Additive manufacturing,41
  Sintering,41
  Complex microstructures,41
  Cross correlations,41
- Dislocation structures,41
  Dislocation substructures,41
  Geometrically necessary dislocations,41
  High resolution electron backscatter diffractions,41
@@ -572,7 +565,6 @@ Design for humans,46
  Product development,46
  Sustainable designDeveloping countries,46
  Engineers,46
- Product development,46
  Developing product,46
  Developing world,46
  Engineered products,46
@@ -661,7 +653,6 @@ Biharmonic problem,52
  Patch couplingPolynomial approximation,52
  Biharmonic problem,52
  Continuity constraints,52
- Dual basis,52
  Dual mortars,52
  Fourth order problems,52
  Higher-order polynomials,52
@@ -683,7 +674,6 @@ Discrete-ordinates method,54
  Discrete ordinates method,54
  Particle distributions,54
  Radiative heat fluxes,54
- Radiative heat transfer,54
  Radiative transfer equations,54
  3D modeling,54
 3D printing,57
@@ -715,9 +705,7 @@ Design for humans,59
  Engineers,59
  Forecasting,59
  Isomers,59
- Product design,59
  Sustainable development,59
- Design for X,59
  Engineered products,59
  Engineering community,59
  Engineering parameters,59
@@ -803,7 +791,6 @@ Co-Sn alloy,66
  Metals,66
  Thin films,66
  Tin alloys,66
- combinatorial,66
  High through-put characterization,66
  Li metal,66
  Protection layers,66
@@ -825,8 +812,6 @@ Carbohydrate fuel cell,68
  Electrochemical reaction rates,68
  Fuel cell application,68
  Glucose fuel cells,68
- Glucose oxidation,68
- Oxidation efficiency,68
  Viologens,68
  Electrochemical oxidation,68
  anoxic conditions,68
@@ -862,21 +847,17 @@ Cooling rate,70
  Rotary friction welding,70
  Temperature control,70
  TransformationFriction,70
- Friction welding,70
  Martensite,70
  Martensitic transformations,70
  Microstructure,70
  Pearlite,70
  Pearlitic transformations,70
  Scanning electron microscopy,70
- Temperature control,70
  Welds,70
  Cooling rates,70
  Geometric properties,70
  Interface temperatures,70
- Microstructure control,70
  Pearlitic microstructure,70
- Rotary friction welding,70
  Transformation,70
  Weld microstructures,70
  Cooling,70
@@ -899,7 +880,6 @@ Finite element analysis (FEA),73
  Effective medium theories,73
  Orientation distributions,73
  Percolation behavior,73
- Percolation theory,73
  Piezo-resistive behavior,73
  Piezo-resistive sensors,73
  Random resistor networks,73
@@ -912,7 +892,6 @@ Chained pseudo-rigid-body model,75
  Mechanisms,75
  Potential energy functions,75
  Rigid structures,75
- Contact analysis,75
  Contact-aided compliant mechanisms,75
  Geometric constraint,75
  Geometric information,75
@@ -925,9 +904,7 @@ Ash,76
  Biomass,76
  Gasification,76
  Non-catalyticAshes,76
- Biomass,76
  Fuels,76
- Gasification,76
  Particle size,76
  Reaction rates,76
  Char gasification,76
@@ -953,7 +930,6 @@ Density functional theory,77
  k-point sampling,77
  Monkhorst-Pack,77
  Regular gridsBrute force search,77
- Generalized grids,77
  K points,77
  K-point sampling,77
  On the flies,77
@@ -989,7 +965,6 @@ Gas chromatography,79
  silicon DRIE,79
  thermal gradientDisturbance rejection,79
  Gases,79
- MEMS,79
  Silicon,79
  Temperature control,79
  Thermal gradients,79
@@ -1020,7 +995,6 @@ Natural convection,81
  Analytical investigations,81
  Boundary layer thickness,81
  Increased temperature,81
- Slip length,81
  Super-hydrophobic surfaces,81
  System of differential equations,81
  Temperature jump,81
@@ -1033,12 +1007,10 @@ Alumina,82
  SilicaAlumina,82
  Aluminum oxide,82
  Calcination,82
- Catalysis,82
  Catalysts,82
  Energy efficiency,82
  Ethane,82
  Ethylene,82
- Nickel,82
  Nickel oxide,82
  Productivity,82
  Silica,82
@@ -1068,9 +1040,7 @@ Auto tuning,83
  Autotuning,83
  Friction stir welding(FSW),83
  Non-oscillations,83
- Relay feedback test,83
  Relay test,83
- Friction stir welding,83
  article,83
  simulation,83
  welding,83
@@ -1125,7 +1095,6 @@ Discrete ordinates method,86
  Atmospheric temperature,86
  Brickmaking,86
  Heat radiation,86
- Heat transfer,86
  Iron ores,86
  Oil field equipment,86
  Radiative transfer,86
@@ -1147,9 +1116,7 @@ back stress,88
  tantalumGrain boundaries,88
  Tantalum,88
  Back stress,88
- cpfem,88
  Crystal plasticity finite element methods (CP FEM),88
- ebsd,88
  Electron back scatter diffraction,88
  Geometrically necessary dislocations,88
  Individual components,88
@@ -1166,7 +1133,6 @@ Environmental dynamic capability,89
  Sustainable development,89
  Turbulence,89
  Environmental dynamics,89
- Green human resource management bundles,89
  Green products,89
  Team creativity,89
  Technological turbulences,89
@@ -1185,7 +1151,6 @@ drug delivery,91
  Artificial tears,91
  Conventional lens,91
  Hansen solubility parameters,91
- latanoprost,91
  Poly hydroxy ethyl methacrylates,91
  Silicone hydrogels,91
  Solubility parameters,91
@@ -1193,7 +1158,6 @@ drug delivery,91
  Controlled drug delivery,91
  alpha tocopherol,91
  galyfilcon A,91
- latanoprost,91
  propanol,91
  trichloroethylene,91
  Article,91
@@ -1223,8 +1187,6 @@ Ceragenins,92
  Cathelicidin,92
  Ceragenins,92
  Magnetic nano-particles,92
- Membrane active compounds,92
- Nanoantibiotics,92
  Therapeutic potentials,92
  Controlled drug delivery,92
  antiinfective agent,92
@@ -1282,7 +1244,6 @@ Computational modeling,96
  Integrated circuit modeling,96
  Integrated Optics,96
  Photonics,96
- Photonics,96
  Scattering,96
  Scattering parameters,96
  Simulation,96
@@ -1313,7 +1274,6 @@ Adaptive thinking,97
  Textiles,97
  Adaptive thinking,97
  Cognitive modes,97
- Creative thinking,97
  Industrial designers,97
  Most likely,97
  Visual thinking,97
@@ -1411,7 +1371,6 @@ Acoustic response,103
  Delamination,103
  Impact-echo testingBridge decks,103
  Concrete bridges,103
- Delamination,103
  Signal processing,103
  Acoustic energy,103
  Acoustic response,103
@@ -1431,13 +1390,11 @@ Detection,108
  Forestry,108
  Information dissemination,108
  Intelligent computing,108
- Machine learning,108
  Network security,108
  Trees (mathematics),108
  Massive data,108
  Offensive operations,108
  Phishing,108
- Neural networks,108
 Bragg diffraction,109
  Lattice deformation,109
  Machine learning,109
@@ -1538,7 +1495,6 @@ Chained-beam-constraint model,115
  Stiffness,115
  Constraint model,115
  Contact-aided compliant mechanisms,115
- Cross-Axis Flexural Pivot,115
  Geometrical aspects,115
  Numerical results,115
  Preliminary design,115
@@ -1645,13 +1601,11 @@ Augmented reality,126
  Man machine systems,126
  Manipulators,126
  Manual control,126
- Motion planning,126
  Process control,126
  Robotic arms,126
  Robotics,126
  Structural dynamics,126
  Complex operations,126
- Force feedback,126
  Human supervision,126
  Interactive robot,126
  Joy-stick interfaces,126
@@ -1680,7 +1634,6 @@ Signal aliasing,127
  Spatial resolution,127
  Structural health,127
  Vibrational information,127
- Structural health monitoring,127
 Batteries,128
  Battery charger,128
  Battery chargers,128
@@ -1696,7 +1649,6 @@ Batteries,128
  Efficiency,128
  System buses,128
  Voltage regulators,128
- Battery chargers,128
  Constant current,128
  Constant current and constant voltages,128
  Hardware implementations,128
@@ -1786,7 +1738,6 @@ Clustering,139
  Clustering evaluation,139
  Clustering problems,139
  Explicit treatments,139
- External metrics,139
  Gold standards,139
  Noise,139
  Noisy observations,139
@@ -1828,10 +1779,6 @@ Boundary element methods,141
  Number theory,141
  Numerical methods,141
  Sailing vessels,141
- Collocation,141
- Isogeometric analysis,141
- Linear elasticity,141
- Patch tests,141
  T-splines,141
  Boundary element method,141
 Coset coding,142
@@ -1847,15 +1794,12 @@ Coset coding,142
  Quadrature-amplitude modulations (QAM),142
  Security gap,142
  Wireless transmission scheme,142
- Quadrature amplitude modulation,142
 Annotating,144
  Camera,144
  IMU,144
  Labeling,144
  Synchronization,144
  VideoCameras,144
- Labeling,144
- Synchronization,144
  Activity recognition,144
  Annotating,144
  Labor intensive,144
@@ -1890,7 +1834,6 @@ air conditioning,146
  hygiene hypothesis,146
  β-(1 → 3)-d-glucansbeta glucan,146
 " beta-1,3-D-glucan",146
- endotoxin,146
  air conditioning,146
  animal,146
  climate,146
@@ -1915,8 +1858,6 @@ air conditioning,146
  Housing,146
  Humans,146
  Poverty,146
- Pyroglyphidae,146
- Utah,146
  Volatilization,146
 Approximation algorithms,151
  linear systems,151
@@ -1945,7 +1886,6 @@ Image gradient,152
  Regression analysis,152
  Scales (weighing instruments),152
  Image gradients,152
- Image quality assessment,152
  Local binary patterns,152
  No references,152
  Phase congruency,152
@@ -1964,7 +1904,6 @@ compliant mechanisms,153
  Annealing time,153
  Engineering design,153
  Force response,153
- origami,153
  Polyethylene terephthalates (PET),153
  Processing method,153
  Traditional engineerings,153
@@ -1996,7 +1935,6 @@ Continuous phase modulation (CPM),159
  Telemetering,159
  Telemetering equipment,159
  Continuous phase modulation,159
- equalization,159
  Frequency selective multipath,159
  Matching pursuit algorithms,159
  SOQPSK,159
@@ -2012,7 +1950,6 @@ Co-simulation,160
  Cosimulation,160
  Empirical cumulative distribution functions,160
  Hybrid power systems,160
- Network observability,160
  Power system networks,160
  Probabilistic network,160
  Realistic communication,160
@@ -2039,10 +1976,8 @@ Applied origami,162
  Applied origami,162
  Complex 3D geometry,162
  Cost-sensitive,162
- Folding,162
  Folding technique,162
  Manufacturing methods,162
- Compliant mechanisms,162
 Building damage mapping,163
  Seismic foundation performance,163
  Site response,163
@@ -2057,7 +1992,6 @@ Building damage mapping,163
  Engineering reconnaissance,163
  Foundation deformation,163
  Foundation performance,163
- Site response,163
  Strong ground motion,163
  Structural resonance,163
  Seismic response,163
@@ -2125,7 +2059,6 @@ Exercise response,166
  Oscillatory behaviorBioinformatics,166
  Diseases,166
  Dynamics,166
- Feedback control,166
  Medical informatics,166
  Proportional control systems,166
  Transfer functions,166
@@ -2140,8 +2073,6 @@ Exercise response,166
  Response parameters,166
  Feedback,166
  Control Systems,166
- Diseases,166
- Dynamics,166
  Feedback Control,166
  Patterns,166
  Persian Gulf,166
@@ -2162,8 +2093,6 @@ Convective heat transfer,169
  Surface properties,169
  Convective heat transfer,169
  Isoflux,169
- Jet impingement,169
- Slip length,169
  Super-hydrophobic surfaces,169
  Temperature jump,169
  Hydrophobicity,169
@@ -2214,7 +2143,6 @@ human robot interaction,174
  human,174
  machine,174
  monitoring,174
- robotics,174
 Bootstrapped switch,175
  DAC,175
  SAR ADC,175
@@ -2255,7 +2183,6 @@ Bootstrapped switch,177
  Comb structure,177
  Nonlinear capacitance,177
  Parasitic capacitance,177
- SAR ADC,177
  State of the art,177
  Time-interleaved,177
  Capacitance,177
@@ -2320,7 +2247,6 @@ clinical decision support system (CDSS),178
  support vector machine,178
  training,178
  algorithm,178
- erectile dysfunction,178
  factual database,178
  young adult,178
  Adult,178
@@ -2369,7 +2295,6 @@ Phase transformation,181
  Mesoporous alumina,181
  Structural feature,181
  Structure evolution,181
- Thermal and hydrothermal stability,181
  Thermal calcination,181
  Aluminum oxide,181
 Binder jetting,182
@@ -2379,17 +2304,14 @@ Binder jetting,182
  Sintering,182
  WettingDeposition,182
  Electromagnetic wave emission,182
- Materials,182
  Powder metals,182
  Processing,182
- Sintering,182
  Wetting,182
  Binding agent,182
  High production rate,182
  Manufacturing techniques,182
  Post processing,182
  Postprocessing methods,182
- Powder deposition,182
  Review of technologies,182
  Two-dimensional patterns,182
  Binders,182
@@ -2408,7 +2330,6 @@ Building damage mapping,185
  Engineering reconnaissance,185
  Foundation deformation,185
  Foundation performance,185
- Site response,185
  Soil-Structure Interaction effects,185
  Structural resonance,185
  Surrounding regions,185
@@ -2479,7 +2400,6 @@ Back face deformation,188
  High speed cameras,188
  Projectiles,188
  Areal densities,188
- Ballistic fabric,188
  Ballistic impact,188
  Body armors,188
  Face deformations,188
@@ -2497,9 +2417,6 @@ ARL,189
  Statistics,189
  Average run lengths,189
  Average time to signal,189
- Cusum,189
- EWMA,189
- Phase II monitoring,189
  Process Variability,189
  Shewhart control charts,189
  variability,189
@@ -2513,8 +2430,6 @@ Design ethnography,194
  Design ethnographies,194
  Developing world,194
  Global development,194
- Low resource,194
- Poverty alleviation,194
  Resource-poor,194
  Product design,194
 fault injection,196
@@ -2527,7 +2442,6 @@ fault injection,196
  soft processor,196
  Triple Modular Redundancy (TMR)Computer control systems,196
  Error correction,196
- Fault tolerance,196
  Fault tolerant computer systems,196
  Field programmable gate arrays (FPGA),196
  Neutron scattering,196
@@ -2562,11 +2476,9 @@ Coining,199
  Electron diffraction,199
  Forming,199
  Geometry,199
- Metals,199
  Microfabrication,199
  Coining,199
  Dislocation densities,199
- EBSD,199
  Micro forming,199
  Microstructure formation,199
  Tantalum,199
@@ -2599,8 +2511,6 @@ Brightness temperature,200
  brightness temperature,200
  detection method,200
  image resolution,200
- radiometer,200
- reconstruction,200
  satellite sensor,200
  simulation,200
  spatial resolution,200
@@ -2610,8 +2520,6 @@ Curved folding,201
  origamiMechanical properties,201
  Coordinate equations,201
  Curved folding,201
- developable,201
- energy,201
  Energy configurations,201
  Natural configurations,201
  origami,201
@@ -2622,14 +2530,12 @@ Contact time,202
  Heat transfer,202
  Superhydrophobic surfacesCooling,202
  Heat flux,202
- Heat transfer,202
  High speed cameras,202
  Hydrophobicity,202
  Surface properties,202
  Boiling temperature,202
  Contact time,202
  Cooling effectiveness,202
- Droplet impact,202
  Hydrophilic substrate,202
  Similarity solution,202
  Super-hydrophobic surfaces,202
@@ -2642,8 +2548,6 @@ Isogeometric analysis,207
  Blending function,207
  Control point,207
  Isogeometric analysis,207
- Linear independence,207
- Local refinement,207
  Refinement algorithms,207
  Spline surfaces,207
  T-splines,207
@@ -2664,7 +2568,6 @@ Dislocations,208
  Loading condition,208
  Residual burgers vectors,208
  Slip system,208
- Grain boundaries,208
 Automated inspection,210
  Dam inspection,210
  Multi-Scale,210
@@ -2682,9 +2585,7 @@ Automated inspection,210
  Automated inspection,210
  Industrial inspections,210
  Infrastructure modeling,210
- Multi-Scale,210
  Multi-scale approaches,210
- Structure from motion,210
  Unmanned aircraft system,210
  View planning,210
  Three dimensional computer graphics,210
@@ -2696,10 +2597,6 @@ gyroscope,212
  wristDegrees of freedom (mechanics),212
  Frequency response,212
  Technology transfer,212
- gyrostabilizer,212
- hand,212
- suppression,212
- Tremor,212
  wrist,212
  Gyroscopes,212
 Radar scattering,218
@@ -2715,7 +2612,6 @@ Radar scattering,218
  Azimuth,218
  Oceans,218
  Radar scattering,218
- RapidScat,218
  Scatterometers,218
  Sea measurements,218
  Radar measurement,218
@@ -2724,9 +2620,7 @@ Radar scattering,218
  estimation method,218
  model validation,218
  radar,218
- RapidScat,218
  scattering,218
- scatterometer,218
  wind direction,218
 Backscatter,219
  Backus-Gilbert (BG),219
@@ -2758,8 +2652,6 @@ Backscatter,219
  imaging method,219
  noise,219
  radiometer,219
- sampling,219
- scatterometer,219
 Security,220
  Two-factor authentication,220
  Usability,220
@@ -2767,7 +2659,6 @@ Security,220
  Surveys,220
  Security,220
  Two factor authentication,220
- Usability,220
  Usable security,220
  User attitudes,220
  Authentication,220
@@ -2781,7 +2672,6 @@ Audience awareness,222
  Technical writing,222
  Audience awareness,222
  Case method,222
- pedagogy,222
  Proposal writing,222
  Proposals,222
  Students,222
@@ -2819,7 +2709,6 @@ Chiller,224
  Water cooling systems,224
  Chiller,224
  District energy systems,224
- Dynamic optimization,224
  Intermittent renewables,224
  Mixed integer quadratic programming,224
  Near-optimal solutions,224
@@ -2839,9 +2728,7 @@ Big data classification,225
  Real time systems,225
  Trees (mathematics),225
  Data classification,225
- Diffusion maps,225
  Load modeling,225
- Manifold learning,225
  Manifold learning algorithm,225
  Point of interest,225
  Power-flow solution,225
@@ -2851,12 +2738,10 @@ Electron microscopy,227
  Grain boundaries,227
  Twinning,227
  VPSCElectron microscopy,227
- Grain boundaries,227
  Magnesium alloys,227
  Magnesium printing plates,227
  Nucleation,227
  Stochastic systems,227
- Twinning,227
  Dislocation densities,227
  Electron back scatter diffraction,227
  Number of transmissions,227
@@ -2879,11 +2764,8 @@ Earthquakes,228
  3d finite differences,228
  Epicentral distances,228
  Hydraulic conditions,228
- Infrastructure,228
  Maintenance structures,228
- Seismic risk,228
  Seismic vulnerability,228
- Site response,228
  Earthquakes,228
  aftershock,228
  earthquake damage,228
@@ -2922,7 +2804,6 @@ Additive manufacturing (AM),229
  Radio frequency devices,229
  Smoothing process,229
  Solvent absorption,229
- thermal smoothing (TS),229
  Surface roughness,229
 A. Fabrics/textiles,230
  B. Permeability,230
@@ -2976,7 +2857,6 @@ design critique,234
  Engineering,234
  Design critiques,234
  Design Education,234
- ethics,234
  In-depth interviews,234
  reasoning,234
  Self cultivations,234
@@ -3011,12 +2891,10 @@ Functional data analysis,236
  vertical ground reaction force,236
  walking,236
  walking speed,236
- biomechanics,236
  disability,236
  gait,236
  joint characteristics and functions,236
  knee,236
- knee osteoarthritis,236
  middle aged,236
  pain measurement,236
  pathophysiology,236
@@ -3053,7 +2931,6 @@ Bag-of-features model,237
  Nutrition,237
  Bag of features,237
  Computer vision technology,237
- Convolutional neural network,237
  Deep convolutional neural networks,237
  Proposed architectures,237
  Real time performance,237
@@ -3073,8 +2950,6 @@ Compliant mechanisms,238
  D' Alembert's principle,238
  Degrees of freedom (DoFs),238
  Displacement amplification,238
- Dynamic stiffness matrix,238
- Flexure hinge,238
  Frequency dependent,238
  Micro/nano positioning,238
  Static and dynamic performance,238
@@ -3101,8 +2976,6 @@ Adaptive physical-layer security,241
  Adaptive characteristic,241
  Channel conditions,241
  Channel quality,241
- coding for secrecy,241
- interleaving,241
  Physical layer security,241
  scrambling,241
  Network layers,241
@@ -3125,12 +2998,10 @@ DTPA-BIGA,242
  zinc,242
  chelating agent,242
  contrast medium,242
- gadodiamide,242
  gadolinium pentetate,242
  gadolinium-DTPA bis-glucosamide,242
  organometallic compound,242
  pentetic acid,242
- zinc,242
  animal experiment,242
  animal tissue,242
  Article,242
@@ -3182,7 +3053,6 @@ Grain boundaries,243
  High throughput,243
  Inferential statistics,243
  Large datasets,243
- Materials informatics,243
  Microstructural phenomenon,243
  Structure property relationships,243
  Throughput,243
@@ -3198,7 +3068,6 @@ Basis Vectors,244
  Basis vector,244
  High-throughput method,244
  Lattice vectors,244
- Space Groups,244
  Structural prototype,244
  Two dimensional plane,244
  Wyckoff positions,244
@@ -3210,7 +3079,6 @@ Grassroots adoption,247
  Grassroots adoption,247
  Integrated solutions,247
  Key management,247
- Paired participants,247
  Pretty good privacy,247
  Secure messages,247
  Usability studies,247
@@ -3250,7 +3118,6 @@ Equalization,249
  transforming growth factor beta1,250
  angiotensin 1 receptor antagonist,250
  losartan,250
- transforming growth factor beta1,250
  animal cell,250
  animal experiment,250
  animal model,250
@@ -3285,10 +3152,8 @@ Equalization,249
  knee,250
  metabolism,250
  mutant mouse strain,250
- osteoarthritis,250
  pathology,250
  synovium,250
- temporomandibular joint,250
  Western blotting,250
  Angiotensin II Type 1 Receptor Blockers,250
  Animals,250
@@ -3300,7 +3165,6 @@ Equalization,249
  Disease Progression,250
  Immunohistochemistry,250
  Knee Joint,250
- Losartan,250
  Mice,250
 " Mice, Inbred C57BL",250
 " Mice, Mutant Strains",250
@@ -3341,8 +3205,6 @@ Physical layer security,253
  Decoding strategy,253
  Decoding techniques,253
  Physical layer security,253
- Polar codes,253
- Security gap,253
  System security,253
  Wire-tap channels,253
  Decoding,253
@@ -3370,7 +3232,6 @@ Compatibility,255
  Masonry grout,255
  Shrinkage compensating admixturesCompressive strength,255
  Concrete construction,255
- Deformation,255
  Efficiency,255
  Grouting,255
  High performance concrete,255
@@ -3436,8 +3297,6 @@ Crystallographic orientation,261
  Hydrogen embrittlement,261
  Recovery,261
  SteelDecay (organic),261
- Hydrogen embrittlement,261
- Recovery,261
  Steel,261
  Tensile testing,261
  Advanced high strength steel,261
@@ -3460,10 +3319,8 @@ capabilities,262
  capabilities,262
  Defense contractor,262
  Development costs,262
- excess,262
  Net present value,262
  Product development strategy,262
- redesign,262
  requirements,262
  Product design,262
 Biocompatible,264
@@ -3484,9 +3341,7 @@ Biocompatible,264
  Thin films,264
  Wearable technology,264
  Biocompatible,264
- Flexible,264
  III-Nitride,264
- Piezoelectric generators,264
  Self-powered systems,264
  Thin film circuits,264
 Nondestructive evaluation,265
@@ -3519,7 +3374,6 @@ Biofabrication,266
  Roadmap,266
  SemiconductorsAgricultural robots,266
  Biological systems,266
- DNA,266
  Nanotechnology,266
  Semiconductor device manufacture,266
  Semiconductor materials,266
@@ -3528,7 +3382,6 @@ Biofabrication,266
  Information processing architecture,266
  Microchip fabrication,266
  Nanometer scale structure,266
- Roadmap,266
  Semiconductor industry,266
  Semiconductor technology,266
  Energy utilization,266
@@ -3539,7 +3392,6 @@ Finite element modeling,269
  Young's modulusComputerized tomography,269
  Elastic moduli,269
  Histology,269
- Stiffness,269
  Stress analysis,269
  Testing,269
  Tissue,269
@@ -3548,8 +3400,6 @@ Finite element modeling,269
  Specific finite element,269
  Structural response,269
  Testing configurations,269
- Tissue properties,269
- Transverse compression,269
  Transverse Young's modulus,269
  X-ray computed tomography,269
  Finite element method,269
@@ -3604,10 +3454,7 @@ Heat transfer,271
  Heat flux,271
  Heat transfer,271
  Lakes,271
- Mass transfer,271
  Microstructure,271
- Natural convection,271
- Nucleation,271
  Surface properties,271
  Surface structure,271
  Thermocouples,271
@@ -3639,7 +3486,6 @@ Deformable capsule,274
  Pulsatile flow,274
  T-splineBoundary element method,274
  Deformation,274
- Pulsatile flow,274
  Sailing vessels,274
  Splines,274
  Deformable capsule,274
@@ -3665,7 +3511,6 @@ Deformable capsule,274
  velocity,274
  hydrodynamics,274
  mechanics,274
- microcapsule,274
  Capsules,274
  Hydrodynamics,274
  Mechanical Phenomena,274
@@ -3677,7 +3522,6 @@ complex systems,275
  Complex repairable systems,275
  Component distributions,275
  Component failures,275
- Drenick's theorem,275
  Exponential distributions,275
  Failure-time distribution,275
  Mutually independents,275
@@ -3693,10 +3537,8 @@ Array antennas,276
  Magnetic resonance imaging,276
  Receiving antennas,276
  Array antennas,276
- element-gain paradox,276
  Loaded antennas,276
  Mutual coupling,276
- Poynting streamlines,276
  Shape,276
  Antenna arrays,276
 DAC layout,277
@@ -3711,10 +3553,8 @@ DAC layout,277
  Logic gates,277
  Switches,277
  DAC layout,277
- DAC settling,277
  Delays,277
  Power demands,277
- SAR ADC,277
  timing scheme,277
  Analog to digital conversion,277
 Brittle crack,278
@@ -3725,11 +3565,9 @@ Brittle crack,278
  Brittle fracture,278
  Computation theory,278
  Crack propagation,278
- Graph theory,278
  Learning systems,278
  Brittle cracks,278
  Computational challenges,278
- Crack interaction,278
  Crack propagation simulations,278
  Graph theoretic algorithm,278
  Graph theoretic approach,278
@@ -3760,8 +3598,6 @@ Computational differential geometry,284
  Mapping,284
  Boundary approximation methods,284
  Computational differential geometry,284
- Model reduction,284
- Parameter identifiability,284
  Power system model,284
  Parameter estimation,284
 Computer vision,291
@@ -3771,7 +3607,6 @@ Computer vision,291
  PCAAutomation,291
  Classification (of information),291
  Computer vision,291
- Image processing,291
  Learning systems,291
  Machinery,291
  Structural analysis,291
@@ -3795,8 +3630,6 @@ Alassroom archive,292
  Product design,292
  Alassroom archive,292
  Design knowledge,292
- Instagram search,292
- Instagram student presentations,292
  Personal growth,292
  Presentation tools,292
  Search process,292
@@ -3811,11 +3644,9 @@ Class room design,293
  Surveys,293
  Class rooms,293
  Classroom environment,293
- Creativity pedagogy,293
  Emotional wellbeing,293
  Learning experiences,293
  Psychological well-being,293
- Student learning,293
  Student perceptions,293
  Students,293
 Communication,294
@@ -3827,8 +3658,6 @@ Communication,294
  Students,294
  Surveys,294
  Design Education,294
- Interdisciplinary education,294
- Interdisciplinary teams,294
  Pilot studies,294
  Team members,294
  Product design,294
@@ -3844,8 +3673,6 @@ Big data,297
  Design method,297
  Microdata,297
  National level,297
- Persona,297
- Persona Generator,297
  Product designers,297
  Population statistics,297
 Learning in games,298
@@ -3870,7 +3697,6 @@ Dense phase,299
  Coal,299
  Coal deposits,299
  Flow rate,299
- Fluidization,299
  Fluidized beds,299
  Hoppers,299
  Models,299
@@ -3894,7 +3720,6 @@ Behavior trees,302
  Bootstrapping method,302
  Credit assignment problems,302
  Fitness functions,302
- Grammatical evolution,302
  Swarm behavior,302
  Swarms,302
  Autonomous agents,302
@@ -3909,7 +3734,6 @@ Frequency response,307
  High resolution,307
  Leap motions,307
  Limited bandwidth,307
- Markerless motion capture,307
  Movement disorders,307
  Tremor,307
  Frequency response,307
@@ -3924,10 +3748,8 @@ Frequency response,307
  biomechanics,307
  movement (physiology),307
  pathophysiology,307
- tremor,307
  Biomechanical Phenomena,307
  Movement,307
- Tremor,307
 Best Practices,317
  Impact Assessment,317
  Service LearningProduct design,317
@@ -3960,7 +3782,6 @@ Clean water,325
  Developing world,325
  Geometric variations,325
  Global development,325
- India Mark,325
  Material degradation,325
  Material variation,325
  Seals,325
@@ -3969,7 +3790,6 @@ Friction stir welding,326
  Temperature controlDelay control systems,326
  Friction,326
  Research laboratories,326
- Signal processing,326
  Temperature control,326
  Time delay,326
  Accurate measurement,326
@@ -3993,8 +3813,6 @@ Design intent,328
  Engineering companies,328
  Multiple CAD systems,328
  Multiple systems,328
- Neutral format,328
- Parametric design,328
  Computer aided design,328
 FTIR,329
  Particle combustion,329
@@ -4038,11 +3856,8 @@ Aluminum mirror coatings,331
  Magnesium compounds,331
  Mirrors,331
  Optical constants,331
- Oxidation,331
  Photoelectrons,331
  Photons,331
- Quality assurance,331
- Spectroscopic ellipsometry,331
  Ultrathin films,331
  X ray photoelectron spectroscopy,331
  Aluminum mirrors,331
@@ -4050,8 +3865,6 @@ Aluminum mirror coatings,331
  Deposition chambers,331
  Deposition conditions,331
  Empirical formulas,331
- Lifetime,331
- Magnesium fluoride,331
  Real time monitoring,331
  Fluorine compounds,331
 3D printing,332
@@ -4061,7 +3874,6 @@ Aluminum mirror coatings,331
  Fluidic devices,332
  Integrated circuit interconnects,332
  Lab-on-a-chip,332
- Microfluidics,332
  Stereolithography,332
  3-D printing,332
  Active elements,332
@@ -4082,7 +3894,6 @@ Laser ablation,336
  Laser ablation,336
  Laser beam effects,336
  Laser beams,336
- Magnesium,336
  Magnesium alloys,336
  Magnesium printing plates,336
  Metal implants,336
@@ -4138,7 +3949,6 @@ Ethical climate,343
  Students,343
  Engineering educators,343
  Ethical climate,343
- Ethics,343
  Mixed method,343
  Qualitative interviews,343
  Social responsibilities,343
@@ -4176,7 +3986,6 @@ Capstone,353
  Capstone,353
  Customer need,353
  Industry representatives,353
- Project descriptions,353
  Project outcomes,353
  Project sponsors,353
  Sponsor expectations,353
@@ -4189,7 +3998,6 @@ Bi-objective,354
  Bi objectives,354
  Design process,354
  Design researchers,354
- Design space exploration,354
  Divergent thinkings,354
  Explicit representation,354
  Initial phasis,354
@@ -4308,7 +4116,6 @@ Femtosecond laser micromachining,364
  Experimental characterization,364
  Femtosecond laser micromachining,364
  Femtosecond laser writing,364
- Lithium niobate,364
  Spatial light modulators,364
  Surface acoustic waves,364
  Light modulators,364
@@ -4326,11 +4133,9 @@ Chirped fiber Bragg grating,365
  Signal to noise ratio,365
  Time measurement,365
  Chirped fiber Bragg grating,365
- Pump-probe spectroscopy,365
  Single shots,365
  Time stretching,365
  Time-encoding,365
- Phase change materials,365
 Active learning,366
  Alloy phase prediction,366
  Cluster expansion,366
@@ -4355,7 +4160,6 @@ Active learning,366
  Titanium alloys,366
  Active Learning,366
  Alloy phase,366
- Cluster expansion,366
  Interatomic potential,366
  Moment tensors,366
  Learning algorithms,366
@@ -4366,13 +4170,10 @@ Architectural programming,368
  Target value design,368
  ValueDecision making,368
  Lean production,368
- Serious games,368
  Construction stakeholders,368
  Design decision-making,368
- Design science,368
  Development and testing,368
  International construction projects,368
- Simulations,368
  Target value designs,368
  Value,368
  Architectural design,368
@@ -4390,11 +4191,9 @@ Ensemble feature selection,377
  Students,377
  Ensemble feature selections,377
  General regression neural network,377
- Maximal oxygen uptake,377
  Minimum redundancy-maximum relevances,377
  Multiple correlation coefficients,377
  Predictor variables,377
- Rank aggregation,377
  Root mean square errors,377
  Support vector machines,377
 Dynamic equivalent,379
@@ -4542,15 +4341,12 @@ Data,391
  Framework,391
  Hurricanes,391
  Social mediaDisasters,391
- Hurricanes,391
  Information management,391
  Information systems,391
  Information use,391
  Social networking (online),391
  Characterization tools,391
  Data,391
- Emergency response,391
- Framework,391
  Hurricane evacuation,391
  Large scale disasters,391
  Public safety answering points,391
@@ -4569,9 +4365,6 @@ Crisis informatics,395
  Risk management,395
  Social networking (online),395
  Crisis informatics,395
- Delphi method,395
- Emergency management,395
- Social media,395
  Software requirements,395
  Information management,395
 Design reference mission,402
@@ -4582,7 +4375,6 @@ Design reference mission,402
  South Pole-Aitken basinLanding,402
  Lunar landing,402
  Manned space flight,402
- Moon,402
  Poles,402
  Space research,402
  Design reference missions,402
@@ -4590,7 +4382,6 @@ Design reference mission,402
  Extravehicular activity,402
  Landing site,402
  National Research Council,402
- Sample return,402
  South polar region,402
  South Pole-Aitken basins,402
  Lunar missions,402
@@ -4633,13 +4424,9 @@ Film boiling,410
  Geometry,410
  Heat transfer,410
  Hydrophobicity,410
- Microstructure,410
  Nucleate boiling,410
  Surface properties,410
  Film boiling,410
- Pool boiling,410
- Post patterned,410
- Rib patterned,410
  Super-hydrophobic surfaces,410
  Heat flux,410
 diabetes,411
@@ -4682,10 +4469,7 @@ diabetes,411
  skin fibroblast,411
  stem cell transplantation,411
  teratoma,411
- cell differentiation,411
  cytology,411
- induced pluripotent stem cell,411
- insulin dependent diabetes mellitus,411
  procedures,411
  Cell Differentiation,411
 " Diabetes Mellitus, Type 1",411
@@ -4751,7 +4535,6 @@ Anti-carbon deposition,419
  Oxygen,419
  Waste incineration,419
  Carbon deposition,419
- Chemical looping combustion,419
  Cost-effective approach,419
  Environmental-friendly,419
  Fossil fuel combustion,419
@@ -4833,7 +4616,6 @@ HPC,427
  Distribution strategies,427
  Los Alamos National Laboratory,427
  Multiphysics problems,427
- Simulation,427
  Smoothed particle hydrodynamics,427
  Tree construction,427
  Tree data structures,427
@@ -4844,9 +4626,7 @@ Bearing,428
  WettingBearings (structural),428
  Drops,428
  Stiffness,428
- Surface tension,428
  Analytical approximation,428
- Capillary,428
  Design strategies,428
  Load carrying capability,428
  Positioning accuracy,428
@@ -4866,7 +4646,6 @@ Biosensor,430
  Transcription,430
  Biosensing,430
  Cell free protein synthesis,430
- CFPS,430
  In-vitro,430
  Lab equipments,430
  Protein biosensors,430
@@ -4913,9 +4692,7 @@ Carbon capture,431
  Wind power,431
  Carbon capture process,431
  Carbon dioxide emissions,431
- Chemical absorption,431
  Coal-fired power plant,431
- Dynamic optimization,431
  International policies,431
  Low temperatures,431
  Modeling and optimization,431
@@ -4946,21 +4723,18 @@ Cancer,433
  Immunosensor,433
  Point-of-care diagnosticsAspect ratio,433
  Chemical sensors,433
- Chemical vapor deposition,433
  Diseases,433
  Electrodes,433
  Immunosensors,433
  Light absorption,433
  Yarn,433
  Cancer,433
- CIP2A,433
  Electrical conductivity,433
  Enzyme linked immunosorbent assay,433
  Inter-digitated electrodes,433
  Label-free immunosensor,433
  Point of care diagnostic,433
  Vertically aligned carbon nanotube,433
- Carbon nanotubes,433
  cancerous inhibitor PP2A,433
  carbon nanotube,433
  oncoprotein,433
@@ -4996,7 +4770,6 @@ Cancer,433
  Autoantigens,433
  Biosensing Techniques,433
  Early Detection of Cancer,433
- Electrodes,433
  Humans,433
  Limit of Detection,433
  Membrane Proteins,433
@@ -5011,11 +4784,9 @@ Network coding,434
  Wireless telecommunication systems,434
  Destination nodes,434
  Maximum flows,434
- Routing,434
  Single probe,434
  Single source,434
  Store and forward,434
- Store code and forward,434
  Topology inference,434
  Network coding,434
 logistics,441
@@ -5031,7 +4802,6 @@ logistics,441
  Coastal environments,441
  Environmental variables,441
  Military logistics,441
- Operation planning,441
  Route planning,441
  Two-dimensional hydrodynamics,441
  Logistics,441
@@ -5064,7 +4834,6 @@ Forming limit,445
  Electron back scatter diffraction,445
  Forming limits,445
  Plane strain tension,445
- Retained austenite,445
  Strain paths,445
  Uniaxial tensions,445
  Strain rate,445
@@ -5077,7 +4846,6 @@ Compliant stiffener,446
  Machine design,446
  Compliant stiffener,446
  Large deflection,446
- lenticular stiffener,446
  Nonlinear elasticity,446
  origami,446
  Finite element method,446
@@ -5093,9 +4861,6 @@ Attitude,447
  Attitude,447
  Engineering and technology,447
  English literature,447
- Interest,447
- Literacy,447
- Reading,447
  STEM careers,447
  Student attitudes,447
  Students,447
@@ -5109,7 +4874,6 @@ Angular surfaces,448
  Irradiation,448
  Isotherms,448
  Radiation,448
- Cavity effect,448
  Collimated irradiation,448
  Monte-Carlo ray tracing,448
  Multiple reflections,448
@@ -5123,9 +4887,6 @@ Alumina nanoparticles,449
  Catalysis,449
  Chemical vapor deposition,449
  FerroceneAlumina,449
- Carbon nanotubes,449
- Catalysis,449
- Chemical vapor deposition,449
  Ethylene,449
  Gas adsorption,449
  Gases,449
@@ -5151,15 +4912,12 @@ Earthquakes,450
  SuperstructureConsolidation,450
  Earthquakes,450
  Foundations,450
- Stiffness,450
  Tall buildings,450
  Analytical methodology,450
  Dynamic characteristics,450
  Dynamics characteristic,450
  Exact analytical solutions,450
  Geotechnical parameters,450
- Natural radial frequency,450
- Raft,450
  Superstructure,450
  Piles,450
  analytical framework,450
@@ -5232,7 +4990,6 @@ Collaborative filtering,464
  Movie recommendations,464
  Root mean squared errors,464
  Streaming service,464
- Deep learning,464
 Graduate school,465
  Machine learning,465
  RecommenderData integration,465
@@ -5290,8 +5047,6 @@ Compliant,468
  Kinematics,468
  Rollers (machine components),468
  Compliant,468
- Curvature,468
- Developable,468
  Rolling contacts,468
  Ruled surfaces,468
  Compliant mechanisms,468
@@ -5305,7 +5060,6 @@ hardware tokens,471
  Hardware tokens,471
  Longitudinal study,471
  Two factor authentication,471
- usability,471
  YubiKey,471
  Authentication,471
 Future of innovation,473
@@ -5399,7 +5153,6 @@ Compliant mechanisms,479
  Mechanisms,479
  Stiffness matrix,479
  Distributed compliances,479
- Flexure hinge,479
  Force-displacement relations,479
  Kinetostatic analysis,479
  Matrix displacement method,479
@@ -5445,11 +5198,9 @@ infrared imaging,480
  Exposure conditions,481
  Micro-fluidic devices,481
  Microfluidic channel,481
- Particle traps,481
  Rapid feedback,481
  Surface feature,481
  Three-dimensional (3D) printing,481
- Microfluidics,481
 Bézier dual basis,496
  Bézier extraction,496
  Bézier projection,496
@@ -5462,7 +5213,6 @@ Bézier dual basis,496
  Stiffness matrix,496
  Displacement-based method,496
  Dual basis,496
- Isogeometric analysis,496
  Locking,496
  Nearly incompressible,496
  Optimal approximation,496
@@ -5492,7 +5242,6 @@ Annealing twins,499
  Recrystallization,499
  SuperalloyCrystallization,499
  Friction,499
- Friction welding,499
  Grain boundaries,499
  Grain growth,499
  Grain refinement,499
@@ -5504,7 +5253,6 @@ Annealing twins,499
  Boundary migration,499
  Boundary misorientations,499
  Discontinuous dynamic recrystallization,499
- EBSD,499
  Formation mechanism,499
  Grain refinement mechanism,499
  Dynamic recrystallization,499
@@ -5518,11 +5266,8 @@ Convection,500
  Flow rate,500
  Glass,500
  Heat convection,500
- Heat transfer,500
  Laminar flow,500
- Mass transfer,500
  Microchannels,500
- Nucleation,500
  Surface properties,500
  Thermocouples,500
  Boiling temperature,500
@@ -5592,7 +5337,6 @@ BP neural network,505
  Nanocomposite sensors,505
  Physiological parameters,505
  Simple structures,505
- Sitting posture,505
  Three layer BP neural network,505
  Nanocomposites,505
  nanocomposite,505
@@ -5618,7 +5362,6 @@ BP neural network,505
  Middle Aged,505
 " Monitoring, Physiologic",505
  Movement,505
- Nanocomposites,505
  Neural Networks (Computer),505
  Posture,505
  Young Adult,505
@@ -5633,9 +5376,7 @@ Blast,509
  Neuroimaging,509
  Diffusion magnetic resonance imaging,509
  Diffusion mris,509
- ENIGMA,509
  Individual Differences,509
- Military,509
  Neuroimaging genetics,509
  Posttraumatic stress disorder,509
  Traumatic Brain Injuries,509
@@ -5653,7 +5394,6 @@ Forefoot strike,510
  Forefoot strike,510
  Metatarsophalangeal joints,510
  Mid-foot,510
- Multi-segment foot,510
  Rearfoot,510
  Locks (fasteners),510
  adult,510
@@ -5683,7 +5423,6 @@ Forefoot strike,510
  Female,510
  Foot Joints,510
  Humans,510
- Kinetics,510
  Running,510
  Young Adult,510
 Fiber optic sensors,511
@@ -5765,16 +5504,13 @@ Buckingham's Pi theorem,514
  Rosenthal equation,514
  Thermal modelingAluminum alloys,514
  Friction,514
- Friction stir welding,514
  Heat affected zone,514
  Research laboratories,514
  Stainless steel,514
  Tribology,514
  Welding,514
  Welds,514
- Dimensional analysis,514
  Pi theorem,514
- Rosenthal equation,514
  Thermal model,514
  Weld parameters,514
  Cooling,514
@@ -5787,7 +5523,6 @@ Bézier extraction,515
  Mortar,515
  Bench-mark problems,515
  Convergence rates,515
- Isogeometric analysis,515
  Mortar methods,515
  Patch models,515
  Solution strategy,515
@@ -5803,10 +5538,8 @@ foam,517
  Testing,517
  Correction algorithms,517
  Humidity and temperatures,517
- impact,517
  Material degradation,517
  Multi-functional materials,517
- multifunctional,517
  Self-sensing,517
  Signal drift,517
  Foams,517
@@ -5825,7 +5558,6 @@ Evans function,519
  Loss of stability,519
  Spectral stability,519
  Travelling waves,519
- Stability,519
 cross-talk,520
  flexible tactile sensor array,520
  scalable,520
@@ -5835,7 +5567,6 @@ cross-talk,520
  Flexible tactile sensors,520
  Manufacturability,520
  Rigid substrates,520
- scalable,520
  Soft robot,520
  Soft-bodies,520
  Tactile sensor array,520
@@ -5863,9 +5594,6 @@ atrium,526
  Lasers,526
  Optical fibers,526
  atrium,526
- cavoatrial junction,526
- PICC,526
- stylet,526
  Superior vena cava,526
  Catheters,526
  animal,526
@@ -5893,7 +5621,6 @@ Access density,527
  Conditional autoregressive,527
  Road network,527
  Safety modeling,527
- Signal density,527
  Suburban arterials,527
  Transportation,527
  Bayes theorem,527
@@ -5908,7 +5635,6 @@ Access density,527
  traffic accident,527
 " Accidents, Traffic",527
  Bayes Theorem,527
- China,527
  Cities,527
  Environment Design,527
  Humans,527
@@ -5942,8 +5668,6 @@ Crystallographic Texture,532
  Microstructure,532
  Polycrystalline materials,532
  Crystallographic textures,532
- Grain boundary engineering,532
- Grain boundary network,532
  Microstructure design,532
  Triple junction,532
  Materials properties,532
@@ -5958,7 +5682,6 @@ Coanda effect,533
  Ambient fluids,533
  Coanda effects,533
  Dimensional analysis,533
- Flame attachment on slopes,533
  Quiescent fluid,533
  Rugged terrain,533
  Separation distances,533
@@ -5983,13 +5706,11 @@ Earthquake,535
  Faulting,535
  Landslides,535
  Levees,535
- Liquefaction,535
  Optical radar,535
  Rivers,535
  Soil liquefaction,535
  Soils,535
  Cultural heritages,535
- Infrastructure,535
  Japan earthquakes,535
  Liquefaction-induced damage,535
  National Science Foundations,535
@@ -6026,7 +5747,6 @@ cell-free protein synthesis,537
  comparative study,537
  conjugation,537
  controlled study,537
- PEGylation,537
  priority journal,537
  protein expression,537
  protein stability,537
@@ -6037,7 +5757,6 @@ cell-free protein synthesis,537
  biological model,537
  biosynthesis,537
  blood,537
- cell free system,537
  chemistry,537
  Enterobacteria phage T4,537
  enzymology,537
@@ -6046,7 +5765,6 @@ cell-free protein synthesis,537
  genetics,537
  Bacteriophage T4,537
  Cell-Free System,537
- Escherichia coli,537
  Gene Expression,537
 " Models, Biological",537
  Muramidase,537
@@ -6102,11 +5820,8 @@ Finite element model (FEM),539
  suture technique,539
  wound,539
  biological model,539
- computer simulation,539
  education,539
- finite element analysis,539
  robotic surgical procedure,539
- suture technique,539
  Computer Simulation,539
  Finite Element Analysis,539
  Humans,539
@@ -6156,7 +5871,6 @@ Collaborative design,545
  Computer aided designs (CAD),545
  Engineering process,545
  Future research directions,545
- Group dynamics,545
  Multi-user,545
  Computer aided design,545
 Ashby methods,546
@@ -6169,12 +5883,10 @@ Ashby methods,546
  Ashby methods,546
  Energy absorption materials,546
  Experimental approaches,546
- Football helmet,546
  Impact scenarios,546
  Materials selection,546
  Specific energy absorption,546
  Stress-strain response,546
- Energy absorption,546
 Axial force,547
  EBSD,547
  Friction welding,547
@@ -6185,7 +5897,6 @@ Axial force,547
  Crystallization,547
  Dynamic recrystallization,547
  Friction,547
- Friction welding,547
  Grain boundaries,547
  Grain size and shape,547
  Recrystallization (metallurgy),547
@@ -6195,9 +5906,7 @@ Axial force,547
  Welds,547
  Axial forces,547
  Distribution of grains,547
- EBSD,547
  Low angle grain boundaries,547
- Power,547
  Process fundamentals,547
  Recrystallization and grain boundaries,547
  Rotary friction welding,547
@@ -6207,7 +5916,6 @@ CAD Database,548
  Multi-User,548
  PLMComputer aided design,548
  Database systems,548
- Interoperability,548
  Product design,548
  Canonical form,548
  Computer aided design systems,548
@@ -6229,7 +5937,6 @@ Effective area shape,556
  Receiving antennas,556
  Aperture antennas,556
  Effective area,556
- Poynting streamlines,556
  Shape,556
  Superdirectivity,556
  Horn antennas,556
@@ -6248,7 +5955,6 @@ Dam,559
  Sedimentation,559
  Advisory committee,559
  Deposited sediments,559
- Reservoir capacity,559
  Reservoir sediments,559
  Sediment management,559
  Sediment management plans,559
@@ -6265,7 +5971,6 @@ Bloom’s Taxonomy,564
  Course structure,564
  Cultural awareness,564
  Cultural impacts,564
- Design Education,564
  Higher order thinking skills,564
  Participatory learning,564
  Student assignments,564
@@ -6279,7 +5984,6 @@ Applied learning,565
  PedagogyProduct design,565
  Surveys,565
  Applied learning,565
- Design Education,565
  Experiential learning,565
  Field trips,565
  Pedagogy,565
@@ -6298,10 +6002,8 @@ Chunking,566
  Complex problem solving,566
  Conceptual understanding,566
  Educational experiences,566
- Frameworks,566
  Information overloads,566
  Information reduction,566
- Insight,566
  Students,566
 Advanced high strength steels (AHSS),572
  Carbon steels,572
@@ -6313,7 +6015,6 @@ Advanced high strength steels (AHSS),572
  Friction,572
  High strength alloys,572
  High strength steel,572
- Joining,572
  Microstructure,572
  Phase transitions,572
  Research laboratories,572
@@ -6347,7 +6048,6 @@ Corrosion resistance,573
  Corrosion products,573
  Corrosion testing,573
  Crack-healing,573
- Friction stir processing,573
  Hall Petch relationship,573
  Intermittent immersions,573
  Inverse correlation,573
@@ -6360,10 +6060,8 @@ Capabilities,585
  Obsolescence,585
  Capabilities,585
  Design approaches,585
- Excess,585
  Net present value,585
  Product development strategy,585
- Redesign,585
  Requirements,585
  Research and development,585
  Product design,585
@@ -6415,7 +6113,6 @@ Optical trapping,591
  Laser particles,591
  Microscopic particle,591
  Opticaltrapping,591
- Photophoresis,591
  Thermal accommodation,591
  Trapped particle,591
  Three dimensional displays,591
@@ -6433,19 +6130,12 @@ BDI,592
  Replanning,592
  TradeoffsC (programming language),592
  Economic and social effects,592
- Graphical user interfaces,592
  Human computer interaction,592
  Motion planning,592
  Robotics,592
- Commitment,592
- Human-robot collaboration,592
  Human-robot-team,592
- Intent,592
- Intention,592
  Path planing,592
- Plans,592
  Re-planning,592
- Reasoning,592
  Tradeoffs,592
  Human robot interaction,592
 Complaint mechanisms,600
@@ -6461,11 +6151,6 @@ Complaint mechanisms,600
  Surgical equipment,600
  Titanium alloys,600
  Complaint mechanisms,600
- Cross-axis flexural pivot,600
- Cylindrical cross-axis flexural pivot,600
- Minimally invasive surgery,600
- Nitinol,600
- Pseudoelastic,600
  Superelastic,600
  Finite element method,600
 Limit analysis,601
@@ -6478,7 +6163,6 @@ Limit analysis,601
  Limit analysis,601
  Lower bound theorem,601
  Masonry shear walls,601
- Masonry structures,601
  Modelling methodology,601
  Shear strength predictions,601
  Strut-and-tie model,601
@@ -6523,7 +6207,6 @@ Collaborative learning,605
  Product design,605
  Product development,605
  Students,605
- Systems engineering,605
  Collaborative learning,605
  Communication medium,605
  Computer mediated communication,605
@@ -6591,8 +6274,6 @@ Conceptual blocks,636
  First year curriculum,636
  Service learningEngineering education,636
  Conceptual blocks,636
- Design heuristics,636
- Engineering design,636
  First-year curriculum,636
  Service learning,636
  Students,636
@@ -6617,10 +6298,7 @@ AA6111,637
  Welds,637
  AA6111,637
  Butt joints,637
- EBSD,637
  High Speed,637
- Mechanical,637
- Tensile,637
  Friction stir welding,637
 Antenna,639
  Measurement,639
@@ -6628,7 +6306,6 @@ Antenna,639
  Antennas,639
  Digital signal processing,639
  Fiber amplifiers,639
- Measurement,639
  Optical telescopes,639
  Wave propagation,639
  Commissioning test,639
@@ -6673,7 +6350,6 @@ cybersecurity,642
  Cyber security,642
  Insider Threat,642
  Multiparty computation,642
- simulation,642
  state inference,642
  Network security,642
 face recognition,643
@@ -6700,7 +6376,6 @@ Compressive strength,644
  Stress-strain behaviorCompressive strength,644
  Elastic moduli,644
  Lime,644
- Mortar,644
  Numerical analysis,644
  Plasma confinement,644
  Poisson ratio,644
@@ -6723,7 +6398,6 @@ Ballistic armor,645
  High speed cameras,645
  Ballistic armors,645
  Ballistic impact,645
- Dynamic testing,645
  Energy dissipation mechanism,645
  High-speed camera image,645
  In-situ measurement,645
@@ -6745,8 +6419,6 @@ Interdisciplinary design,646
  Electrical engineering students,646
  Inter-disciplinary designs,646
  Multi-disciplinary designs,646
- New product development,646
- Project based learning,646
  Student design projects,646
  Teaching methodologies,646
  University of technologies,646
@@ -6777,12 +6449,9 @@ Eco-composite,649
  Effective thermal conductivity,649
  Experimental investigations,649
  Fiber reinforced composites,649
- Kenaf,649
  Multilevels,649
- Thermal conductivity,649
  Cellulose,649
  Composites,649
- Kenaf,649
  Lignins,649
  Thermal Conductivity,649
 22q11.2 deletion syndrome,660
@@ -6799,7 +6468,6 @@ Eco-composite,649
  22q11.2 deletion syndrome,660
  Diffusion anisotropy,660
  Diffusion mris,660
- dMRI,660
  White matter,660
  Anisotropy,660
 Hyperparameter optimization,661
@@ -6844,14 +6512,10 @@ Acceleration,666
  Safety devices,666
  Sporting goods,666
  Sports,666
- Football helmet,666
- Impact detection,666
- Impact energy,666
  Impact velocities,666
  Self-sensing,666
  Severity index,666
  Foams,666
- nanocomposite,666
  nanocomposite,666
  polyurethan,666
  polyurethan foam,666
@@ -6890,7 +6554,6 @@ Acceleration,666
  Football,666
  Head Protective Devices,666
  Humans,666
- Nanocomposites,666
  Nanotechnology,666
  Polyurethanes,666
  Reproducibility of Results,666
@@ -6907,7 +6570,6 @@ Articulatory kinematics,667
  Hearing disorders,667
  Stroke counts,667
  Vocal tract movements,667
- voicing,667
  whisper,667
  Whispered speech,667
  Kinematics,667
@@ -6944,7 +6606,6 @@ Kumamoto Earthquake,671
  Electric power supply,671
  Fundamental mechanisms,671
  Lateral spreading,671
- Lifeline damage,671
  Pipeline failures,671
  Roads and bridges,671
  Transportation system,671
@@ -6972,7 +6633,6 @@ Conciseness,672
  Instruments,672
  Professional aspects,672
  Conciseness,672
- language use,672
  Pragmatics,672
  Word choices,672
  Writing style,672
@@ -6990,7 +6650,6 @@ Acoustic basis functions,673
  Circular cylindrical shells,673
  Critical design parameters,673
  Cut-on phenomena,673
- Cylindrical shell,673
  Radiation efficiency,673
  Radiation mode,673
  Radiation,673
@@ -7063,11 +6722,8 @@ BEM,677
  Drug delivery,677
  Shear flow,677
  Boundary element analysis,677
- Deformable capsule,677
  Deformable particles,677
- Dynamic refinement,677
  Finite-element approach,677
- Isogeometric analysis,677
  Smoothing techniques,677
  T-splines,677
  Finite element method,677
@@ -7099,9 +6755,7 @@ Application security,679
  Software design,679
  Application security,679
  End-to-end encryption,679
- Layered security,679
  Legacy software,679
- Secure software development,679
  Security,679
  Security features,679
  Threat mitigation,679
@@ -7115,7 +6769,6 @@ Application security,679
  Insertion losses,683
  Manufacture,683
  Melting,683
- Surface roughness,683
  Waveguide attenuators,683
  Waveguides,683
  3-D printing,683
@@ -7136,13 +6789,10 @@ Friction stir processing,686
  Temperature modelsDisturbance rejection,686
  Electric control equipment,686
  Friction,686
- Friction stir welding,686
  Heat conduction,686
- Model predictive control,686
  Predictive control systems,686
  Proportional control systems,686
  Research laboratories,686
- Temperature control,686
  Three term control systems,686
  Tribology,686
  Welding,686
@@ -7163,7 +6813,6 @@ Adaptive and intelligent educational systems,688
  Literature review,688
  Self-assessment technologiesBibliographies,688
  Computer science,688
- Data mining,688
  Data visualization,688
  Database systems,688
  Education,688
@@ -7193,12 +6842,6 @@ Adaptability,689
  Systems analysis,689
  Uncertainty analysis,689
  Adaptability,689
- Developing world,689
- Evolvability,689
- Excess,689
- Improved cookstove,689
- Reconfigurability,689
- Reconfigure,689
  Product design,689
 FPGA,690
  High Energy Physics,690
@@ -7213,15 +6856,12 @@ FPGA,690
  Integrated circuit design,690
  Liquefied gases,690
  Logic devices,690
- Measurement,690
  Radiation hardening,690
- Reliability,690
  Transceivers,690
  Electromagnetic calorimeter,690
  High energy physics experiments,690
  High energy physics experiments (HEP),690
  High radiation environment,690
- Instrumentation,690
  Reliability requirements,690
  Scrubbing,690
  Triple modular redundancies (TMR),690
@@ -7243,13 +6883,11 @@ Foam sensor,694
  Nanocomposite,694
  Wearable sensorBiophysics,694
  Foams,694
- Gait analysis,694
  Nanocomposites,694
  Sporting goods,694
  Average errors,694
  Calibration model,694
  Cross validation,694
- Functional data analysis,694
  Ground reaction forces,694
  Human movements,694
  Human walking,694
@@ -7281,7 +6919,6 @@ Foam sensor,694
  biological model,694
  clinical trial,694
  physiology,694
- walking,694
  nanocomposite,694
  Adult,694
  Female,694
@@ -7289,7 +6926,6 @@ Foam sensor,694
  Humans,694
  Male,694
 " Models, Biological",694
- Nanocomposites,694
  Walking,694
 Ascending auctions,697
  Estimation of number of bidders,697
@@ -7328,7 +6964,6 @@ air conditioning,698
  Floors and Floorcoverings,698
  Housing,698
  Seasons,698
- Utah,698
 Compliant mechanism,699
  Minimally invasive surgery,699
  Nitinol,699
@@ -7340,8 +6975,6 @@ Compliant mechanism,699
  Transplantation (surgical),699
  Bending stress,699
  Mechanical advantage,699
- Minimally invasive surgery,699
- Nitinol,699
  Range of motions,699
  Research results,699
  Surgical instrument,699
@@ -7389,9 +7022,7 @@ dGEMRIC,701
  early diagnosis,701
  follow up,701
  hip,701
- hip osteoarthritis,701
  middle aged,701
- nuclear magnetic resonance imaging,701
  pathology,701
  procedures,701
  radiography,701
@@ -7430,10 +7061,8 @@ bad news,704
  directness,704
  Negative message buffer,704
  visualsbad news,704
- directness,704
  Message format,704
  Negative information,704
- Negative message buffer,704
  Small buffers,704
  Social relationships,704
  visuals,704
@@ -7443,7 +7072,6 @@ Fluorescence sensing,706
  Pecvd,706
  SiO2,706
  Water absorptionFluorescence,706
- Lab-on-a-chip,706
  Plasma CVD,706
  Plasma enhanced chemical vapor deposition,706
  Water absorption,706
@@ -7455,7 +7083,6 @@ Fluorescence sensing,706
  Opto-fluidics,706
  Plasma enhanced chemical vapor depositions (PE CVD),706
  Single oxides,706
- SiO2,706
  Signal to noise ratio,706
 aerodynamics,708
  flow-structure interactions,708
@@ -7491,7 +7118,6 @@ Derivative superstructures,709
  Atomic displacement,709
  Combinatorial explosion,709
  Displacement direction,709
- Displacement patterns,709
  Elimination process,709
  Enumeration,709
  Model alloys,709
@@ -7537,7 +7163,6 @@ Aluminum alloys,713
  Mechanical behavior,713
  Process response,713
  Quasi-static tensile test,713
- Friction stir welding,713
 Basis Vectors,714
  Crystal Structure,714
  Database,714
@@ -7555,7 +7180,6 @@ Basis Vectors,714
  Lattice vectors,714
  Naval Research Laboratory,714
  Pearson symbol,714
- Space Groups,714
  Wyckoff positions,714
  Crystal structure,714
 collaborative design,715
@@ -7606,10 +7230,6 @@ avionics,722
  Radiation effects,722
  Radiation hardening,722
  Beam testing,722
- BRAM,722
- EDAC,722
- MMCM,722
- SERDES,722
  Soft error rate,722
  space,722
  Field programmable gate arrays (FPGA),722
@@ -7618,7 +7238,6 @@ Codon bias,724
  Language modeling,724
  Machine learningBioinformatics,724
  Computational linguistics,724
- Deep learning,724
  Gene expression,724
  Learning systems,724
  Biological phenomena,724
@@ -7643,9 +7262,6 @@ Economic cycles,726
  Economic cycles,726
  Economic downturn,726
  Economic Recession,726
- Organizational issues,726
- Organizational learning,726
- Recession,726
  Sampling survey,726
  Economic and social effects,726
 Algorithm,727
@@ -7659,7 +7275,6 @@ Algorithm,727
  De Bruijn graphs,727
  Phylogenetic tree reconstruction,727
  Phylogenetic trees,727
- Phylogenetics,727
  Supermatrix,727
  Whole genome sequences,727
  Trees (mathematics),727
@@ -7671,11 +7286,8 @@ De Bruijn graph,728
  Genes,728
  De Bruijn graphs,728
  Disease associations,728
- Graph,728
- GWAS,728
  Next-generation sequencing,728
  Phylogenetic trees,728
- Phylogenetics,728
  Single nucleotides,728
  Polymorphism,728
 cooperation,729
@@ -7701,7 +7313,6 @@ Construction,732
  Construction management,732
  Construction Management Courses,732
  Construction projects,732
- Experiential learning,732
  Experiential learning theories,732
  Learning opportunity,732
  Project management principles,732
@@ -7725,10 +7336,6 @@ Bearings,739
  Seismic response,739
  Seismology,739
  Transportation,739
- Damage,739
- Experimental analysis,739
- Fragility,739
- Incremental dynamic analysis,739
  Seismic behavior,739
  Highway bridges,739
  bridge,739
@@ -7806,7 +7413,6 @@ asset rating,744
  Weather information services,744
  Building energy consumption,744
  Building energy efficiency,744
- climate normalization,744
  Commercial building,744
  Energy simulation,744
  Heating and cooling,744
@@ -7826,7 +7432,6 @@ Bézier projection,745
  Tumors,745
  Urology,745
  Hierarchical splines,745
- Isogeometric analysis,745
  Local refinement,745
  Phase fields,745
  Tumor growth,745
@@ -7845,7 +7450,6 @@ high-density,747
  Model and simulation,747
  Multi-Agent Model,747
  Separation assurances,747
- UAV systems,747
  Unmanned aerial vehicle systems,747
  Multi agent systems,747
 Crystal plasticity,748
@@ -7879,7 +7483,6 @@ integrated optics,749
  Plasma enhanced chemical vapor deposition,749
  Refraction,749
  Refractive index,749
- Silica,749
  Thin films,749
  Throughput,749
  Waveguides,749
@@ -7896,7 +7499,6 @@ Air-bubble mixing,750
  Microfluidics,750
  Point-of-care,750
  Single molecule RNA detectionEfficiency,750
- Microfluidics,750
  Mixing,750
  Probes,750
  Proteins,750
@@ -7912,7 +7514,6 @@ Air-bubble mixing,750
  Streptavidin beads,750
  Diseases,750
  streptavidin,750
- virus RNA,750
  virus RNA,750
  antiresonant reflecting optical waveguide biosensor chip,750
  Article,750
@@ -7935,7 +7536,6 @@ Air-bubble mixing,750
  virus detection,750
  chemistry,750
  devices,750
- Ebolavirus,750
  equipment design,750
  genetic procedures,750
 " Hemorrhagic Fever, Ebola",750
@@ -7947,9 +7547,7 @@ Air-bubble mixing,750
  solid phase extraction,750
  virology,750
  Biosensing Techniques,750
- Ebolavirus,750
  Equipment Design,750
-" Hemorrhagic Fever, Ebola",750
  Humans,750
  Limit of Detection,750
  Microfluidic Analytical Techniques,750
@@ -7995,9 +7593,7 @@ Electric distribution network,752
  Infrastructure networks,752
  Light detection and ranging,752
  Prediction model,752
- Resilience,752
  Resolution measurements,752
- Severe weather,752
  Vegetation management,752
  Outages,752
 Computational differential geometry,753
@@ -8013,7 +7609,6 @@ Computational differential geometry,753
  Boundary approximation methods,753
  Computational differential geometry,753
  Dynamic equivalent,753
- information,753
  Large power systems,753
  Mathematical forms,753
  Parameter combination,753
@@ -8034,10 +7629,8 @@ Cell therapy,755
  Stem cells,755
  Cell delivery,755
  Cell therapy,755
- Endogenous TGase,755
  Intraperitoneal injections,755
  Mesenchymal stem cell,755
- Micro-scaffold capsule,755
  Regenerative medicine,755
  Tissue transglutaminase,755
  Scaffolds (biology),755
@@ -8047,7 +7640,6 @@ Cell therapy,755
  protein glutamine gamma glutamyltransferase,755
  guanine nucleotide binding protein,755
  macrogol derivative,755
- protein glutamine gamma glutamyltransferase,755
  protein glutamine gamma glutamyltransferase 2,755
  acute liver failure,755
  animal cell,755
@@ -8117,7 +7709,6 @@ band gaps,757
  Band gap energy,757
  Direct transition,757
  Energy value,757
- ferritin,757
  Indirect band gap,757
  Metal oxides,757
  Mineral formation,757
@@ -8140,7 +7731,6 @@ band gaps,758
  Band gap energy,758
  Basic conditions,758
  Electron acceptor,758
- ferritin,758
  Indirect band gap,758
  Oxide nanoparticles,758
  Uv/vis absorptions,758
@@ -8175,8 +7765,6 @@ Heterogeneous CAD,759
  Measurement techniques,760
  Spider silk fibers,760
  Spider silks,760
- Synthetic silk,760
- Thermal characterization,760
  Volumetric heat capacity,760
  Thermal conductivity,760
 Essential tremor,761
@@ -8187,7 +7775,6 @@ Essential tremor,761
  Tremor suppressionDamping,761
  Degrees of freedom (mechanics),761
  Electric impedance,761
- Frequency response,761
  Stiffness,761
  Essential tremor,761
  Fundamental principles,761
@@ -8216,7 +7803,6 @@ Essential tremor,761
  human,761
  pathophysiology,761
  tremor,761
- upper limb,761
  Humans,761
 " Models, Neurological",761
  Tremor,761
@@ -8247,7 +7833,6 @@ automotive applications,764
  Automotive applications,764
  Isogeometric analysis,764
  Kirchhoff Love,764
- Reissner-Mindlin,764
  shells,764
  Shells (structures),764
 human-robot interaction,765
@@ -8279,7 +7864,6 @@ haptic feedback,766
  Robots,766
  Effective interactions,766
  Haptic feedbacks,766
- human-swarm interaction,766
  Interaction methods,766
  Level of autonomies,766
  Operator performance,766
@@ -8296,7 +7880,6 @@ Dynamic data reconciliation,768
  Industrial datum,768
  Industrial dynamics,768
  Measurement technologies,768
- Moving horizon estimation,768
  Oil and Gas Industry,768
  Optimization and control,768
  Wireless transmitter,768
@@ -8312,11 +7895,9 @@ Front-end planning (FEP),770
  Front-end planning,770
  Industry professionals,770
  Infrastructure project,770
- Project definition rating index (PDRI),770
  Project performance,770
  Scope definition,770
  Structured approach,770
- Risk management,770
 Jet,771
  ODT,771
  One dimensional turbulence,771
@@ -8329,7 +7910,6 @@ Jet,771
  Turbulence,771
  Dispersive transport,771
  Lagrangian particles,771
- One dimensional turbulence,771
  Particle dispersion,771
  Particle dispersion model,771
  Particle-carrier gas,771
@@ -8372,7 +7952,6 @@ Bayesian additive regression trees,773
  grid cell,773
  human cell,773
  hurricane,773
- land use,773
  plant leaf,773
  prediction,773
  remission,773
@@ -8395,8 +7974,6 @@ Failure modes,775
  Tensile testing,775
  Concrete masonry prisms,775
  Experimental program,775
- Masonry prisms,775
- Nonlinear behavior,775
  Nonlinear stress-strain relationship,775
  Stiffness ratios,775
  Stress-strain behaviors,775
@@ -8427,7 +8004,6 @@ Electron backscattering diffraction (EBSD),778
  Crystallization,778
  Dynamic recrystallization,778
  Friction,778
- Friction stir welding,778
  Grain boundaries,778
  Grain size and shape,778
  In situ processing,778
@@ -8442,7 +8018,6 @@ Electron backscattering diffraction (EBSD),778
  Electron backscattering diffraction,778
  Elevated temperature,778
  Fine equiaxed grains,778
- Friction stir processing,778
  Friction stir welding(FSW),778
  Grain size distribution,778
  Low angle grain boundaries,778
@@ -8460,7 +8035,6 @@ Effective area shape,779
  Effective area,779
  Fabrication errors,779
  Power flux density,779
- Poynting streamlines,779
  Radiation efficiency,779
  Horn antennas,779
 Algorithms,780
@@ -8471,19 +8045,15 @@ Algorithms,780
  Tall buildingsAlgorithms,780
  Buildings,780
  Finite element method,780
- Optimization,780
  Shape optimization,780
  Structural optimization,780
  Tall buildings,780
- Atria,780
  Lateral load analysis,780
  Optimization method,780
  Optimization problems,780
  Optimization strategy,780
  Resource consumption,780
- Skybridges,780
  Structural volume,780
- Structural analysis,780
 Data association,781
  multiple target tracking (MTT),781
  random sample consensus (RANSAC)Clutter (information theory),781
@@ -8552,9 +8122,7 @@ Design creativity,795
  Course evaluations,795
  Design creativities,795
  Design Exploration,795
- Design synthesis,795
  Educational goals,795
- Framework,795
  Insight,795
  Project experiences,795
  Students,795
@@ -8592,9 +8160,6 @@ Copyright,797
  Cultural evolution,797
  Design Education,797
  Design schools,797
- IP trends,797
- Live projects,797
- Sponsored projects,797
  Utility patent,797
  Product design,797
 Design thinking,798
@@ -8605,8 +8170,6 @@ Design thinking,798
  Students,798
  Teaching,798
  Design thinking,798
- Experience design,798
- Holistic design,798
  Human-centered designs,798
  Inter-disciplinary designs,798
  Product design,798
@@ -8615,7 +8178,6 @@ Bio plastic,799
  Ecodesign,799
  Social responsibility,799
  SustainabilityCollagen,799
- Ecodesign,799
  Manufacture,799
  Molds,799
  Social aspects,799
@@ -8702,7 +8264,6 @@ Coal,804
  Fuels,804
  Heat flux,804
  Light transmission,804
- Method of moments,804
  Particle size,804
  Particle size analysis,804
  Size distribution,804
@@ -8795,8 +8356,6 @@ Convective heat transfer,821
  Surface properties,821
  Thin films,821
  Convective heat transfer,821
- Jet impingement,821
- Slip length,821
  Super-hydrophobic surfaces,821
  Temperature jump,821
  Fighter aircraft,821
@@ -8853,9 +8412,6 @@ BRAM scrubbing,824
  Software testing,824
  Static random access storage,824
  BRAM scrubbing,824
- configuration scrubbing,824
- LEON3,824
- SEU mitigation,824
  Soft processors,824
  Integrated circuit design,824
 Boiling,825
@@ -8869,7 +8425,6 @@ Boiling,825
  Phase interfaces,825
  Surface properties,825
  Wetting,825
- Droplet impingement,825
  Hydrophilic surfaces,825
  Hydrophobic surfaces,825
  Super-hydrophobic surfaces,825
@@ -8888,11 +8443,9 @@ Barrier layer,826
  Astrophysics,826
  Atoms,826
  Deposition,826
- Ellipsometry,826
  Genetic algorithms,826
  Hydrogen,826
  Innovation,826
- Mirrors,826
  NASA,826
  Observatories,826
  Reflection,826
@@ -8915,8 +8468,6 @@ Finishing contractors,831
  Construction process,831
  Finishing methods,831
  Last planner system,831
- Lean construction,831
- Lean implementation,831
  Lean practices,831
  Subcontractors,831
  Under-represented,831
@@ -8930,7 +8481,6 @@ Lean construction,832
  Lean construction,832
  Project governance,832
  Project maintenance,832
- Relational contracting,832
  Unethical behavior,832
  Unethical conduct,832
  Crime,832
@@ -8988,7 +8538,6 @@ Char oxidation,850
  Sensitivity analysisAnnealing,850
  Carbon capture,850
  Carbon dioxide,850
- Coal,850
  Computational fluid dynamics,850
  Enzyme kinetics,850
  Fuels,850
@@ -9013,10 +8562,8 @@ Conducting polymer,857
  Flow batteries,857
  Storage (materials),857
  Device architectures,857
- Electrochemical energy storage,857
  Energy storage applications,857
  High rate capability,857
- Organic battery,857
  Organic radical polymer,857
  Radical polymers,857
  Theoretical capacity,857
@@ -9032,7 +8579,6 @@ Amperometric sensing,858
  Electrochemical sensors,858
  Heat convection,858
  Mass transfer,858
- Microfluidics,858
  Nanotubes,858
  Platinum,858
  Yarn,858
@@ -9040,7 +8586,6 @@ Amperometric sensing,858
  Carbon nano-tube structures,858
  Concentration boundary layer,858
  Convective mass transfer,858
- Electrochemical,858
  Electrochemical sensing,858
  Microchannel surfaces,858
  Vertically aligned carbon nanotube,858
@@ -9066,7 +8611,6 @@ Carbon nanotubes,867
  Diseases,867
  Finite element method,867
  Implants (surgical),867
- Microfabrication,867
  Nanotubes,867
  Yarn,867
  Analytical tool,867
@@ -9089,7 +8633,6 @@ Convergence,868
  Energy expenditure,868
  Interaction systems,868
  Lateral acceleration,868
- Leader placement,868
  Placement strategy,868
  Robotic swarms,868
  Swarm intelligence,868
@@ -9134,18 +8677,14 @@ AA7075,873
  FSW,873
  Microstructure,873
  SEMAluminum,873
- Corrosion,873
  Corrosion resistance,873
  Friction,873
  Friction stir welding,873
  Heat affected zone,873
- Microstructure,873
  Scanning electron microscopy,873
  Welding,873
  Welds,873
  AA7075,873
- EBSD,873
- EXCO,873
  Friction stir process,873
  High speed friction stir welding,873
  Industrial processs,873
@@ -9208,10 +8747,8 @@ FFT,883
  Frequency response,883
  Laser excitation,883
  Nanocrystals,883
- Neural networks,883
  Silk,883
  Surface properties,883
- Thermal diffusivity,883
  Thermometers,883
  Fluorescence spectra,883
  Modulation frequencies,883
@@ -9223,7 +8760,6 @@ FFT,883
  Trained neural networks,883
  Semiconductor quantum dots,883
  Detection,883
- Fluorescence,883
  Lasers,883
  Neural Networks,883
 Formability,884
@@ -9254,7 +8790,6 @@ AA6022,887
  Characterization,887
  Cutting tools,887
  Friction,887
- Friction stir welding,887
  Interfaces (materials),887
  Investments,887
  Joining,887
@@ -9267,7 +8802,6 @@ AA6022,887
  Friction stir,887
  High-temperature flows,887
  Pacific northwest national laboratories,887
- Surfalex 6s,887
  U.S. Department of Energy,887
  Ultra high strength steel,887
  High strength steel,887
@@ -9297,8 +8831,5 @@ Crop diversification,889
  Weed control,889
  Crop diversification,889
  Cropping systems,889
- Dryland cropping systems,889
- Herbicide resistant weeds,889
- No-till,889
  Residue management,889
  Decision making,889
