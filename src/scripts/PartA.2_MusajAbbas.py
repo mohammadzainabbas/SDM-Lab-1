@@ -16,7 +16,7 @@ def flatten(t):
     return [item for sublist in t for item in sublist]
 
 def split_str_and_concat(df, col_name, sep="; "):
-    return pd.DataFrame(df[col_name].str.split(sep).tolist(), index=keywords_df.index).stack()
+    return pd.DataFrame(df[col_name].str.split(sep).tolist(), index=df.index).stack()
 
 def filter_countries(df):
     """

@@ -24,3 +24,14 @@ RETURN d.title AS paper, collect(a.name) AS authors, k.name AS keyword
 //=========================
 // Query No. 04
 //=========================
+CALL gds.pageRank.stream('documents')
+YIELD nodeId, score
+RETURN gds.util.asNode(nodeId).title AS paper, score
+ORDER BY score DESC, paper ASC
+
+CALL gds.pageRank.write('documents', {
+    maxIterations: 20,
+    dampingFactor: 0.85,
+    writeProperty: 'pagerank'
+})
+YIELD nodePropertiesWritten, ranIterations
