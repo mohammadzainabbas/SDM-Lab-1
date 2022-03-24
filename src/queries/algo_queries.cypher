@@ -10,6 +10,28 @@ CALL gds.graph.create.cypher(
 YIELD
     graphName AS graph, nodeCount AS nodes, relationshipCount AS rels
 
+///
+
+CALL gds.graph.create('authors',
+    'Author',
+    {
+        CONTRIBUTED: {
+            orientation: 'UNDIRECTED'
+        }
+    }
+)
+
+///
+
+CALL gds.betweenness.stream(
+    "authors"
+)
+YIELD
+nodeId, score
+
+// Delete in-memory graphs
+CALL gds.graph.drop("authors")
+
 /// For 3rd query
 
 MATCH (jo:Journal)
