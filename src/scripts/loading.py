@@ -69,9 +69,8 @@ def create_journal_nodes():
     """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/journals.csv" AS x
-        WITH toInteger(x.year) AS year, x
         CREATE(n: Journal)
-        SET n=x, n.year=year
+        SET n=x, n.year=toInteger(x.year)
     """
     run_query(query=query)
 
@@ -103,7 +102,7 @@ def create_author_nodes():
     """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/authors.csv" AS x
-        WITH x, toInteger(x.author_id) as author_id
+        WITH x, toInteger(x.author_id) AS author_id
         CREATE (n: Author)
         SET n=x, n.author_id=author_id
     """
@@ -115,11 +114,9 @@ def create_document_nodes():
     """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/documents.csv" AS x
-        WITH x, split(replace(replace(replace(replace(x.author_ids, '[', ''), ']', ''), ' ', ''), "'", ''), ',') AS y
-        UNWIND y AS p
-        WITH x, collect(toInteger(p)) AS ids, toInteger(x.document_id) AS document_id
-        Create (n: Document)
-        SET n=x, n.document_id=document_id, n.author_ids=ids
+        WITH x, toInteger(x.document_id) AS document_id
+        CREATE (n: Document)
+        SET n=x, n.document_id=document_id
     """
     run_query(query=query)
 
@@ -178,9 +175,10 @@ def create_document_journal_relation():
     Create relationship between document and journals
     """
     query = """
-        MATCH (a:Document), (b:Journal)
-        where a.source_title=b.name
-        CREATE (a)-[r:published_in]->(b)
+        LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/document_journal.csv" AS x
+        WITH x, toInteger(x.document_id) AS doc_id
+        MATCH (d:Document {document_id: doc_id}), (j:Journal {name: x.source_title})
+        CREATE (d)-[r:published_in]->(j)
     """
     run_query(query=query)
 
@@ -196,9 +194,9 @@ def main():
     create_author_id_unqiue_constraint()
     create_keyword_unqiue_constraint()
 
-    ## Create all nodes
+    # ## Create all nodes
     create_journal_nodes()
-    # create_affiliation_nodes()
+    # # create_affiliation_nodes()
     create_keyword_nodes()
     create_author_nodes()
     create_document_nodes()
