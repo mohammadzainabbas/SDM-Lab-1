@@ -62,3 +62,9 @@ class Neo4jConnection:
             __method = session.read_transaction if read_query else session.write_transaction
             __data, __columns = __method(__run_query, query)
             return __data if raw else DataFrame(__data, columns=__columns)
+
+def get_driver(**kwargs):
+    """
+    Get an instance of the driver
+    """
+    return Neo4jConnection(**kwargs)

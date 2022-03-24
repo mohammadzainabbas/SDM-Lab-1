@@ -1,99 +1,72 @@
 #!/usr/bin/env python
 
-import pandas as pd
-from os import getcwd, listdir
-from os.path import join, isfile, exists, abspath, pardir
+from os import getcwd
+from os.path import join, abspath, pardir
 from sys import path
-import re
 
-##### Configs #####
-database = "sdm"
+### Update path to include scripts
 parent_dir = abspath(join(join(getcwd(), pardir), pardir))
 data_dir = join(parent_dir, "data")
 scripts_dir = join(parent_dir, "src", "scripts")
 path.append(scripts_dir)
-from connect import Neo4jConnection
+from connect import get_driver
 
-driver = Neo4jConnection(uri="bolt://localhost:7687", user=None, pwd=None, database=database)
+# Global variable for handling the connection
+uri, database = "bolt://localhost:7687", "sdm"
+driver = get_driver(uri=uri, user=None, pwd=None, database=database)
+
+### Helper methods
 
 def run_query(query):
     """
-    Basic wrapper around 'driver' object
+    Basic wrapper around 'driver' object for queries
     """
     return driver.query(query)
 
 def delete_all_nodes():
+    """
+    Flush all nodes + relations
+    """
     query = """
         MATCH(n) DETACH DELETE(n)
     """
     run_query(query=query)
-delete_all_nodes()
-##### Create Constraints (Optional)
 
-
-# In[36]:
-
+### Methods for creating constraints
 
 def create_document_unqiue_constraint():
     """
-    Document's `document_id` should be unique
+    Create constraint for document_id being unique
     """    
     query = """
         CREATE CONSTRAINT document_unqiue IF NOT EXISTS FOR (n: Document) REQUIRE (n.document_id) IS UNIQUE
     """
     run_query(query=query)
 
-
-# In[37]:
-
-
-create_document_unqiue_constraint()
-
-
-# __Author__'s `document_id` should be unique
-
-# In[38]:
-
-
-def create_author_id_unqiue_constraint():    
+def create_author_id_unqiue_constraint(): 
+    """
+    Create constraint for author_id being unique
+    """
     query = """
         CREATE CONSTRAINT author_id_unqiue IF NOT EXISTS FOR (n: Author) REQUIRE (n.author_id) IS UNIQUE
     """
     run_query(query=query)
 
-
-# In[39]:
-
-
-create_author_id_unqiue_constraint()
-
-
-# __Keyword__'s `name` should be unique
-
-# In[40]:
-
-
-def create_keyword_unqiue_constraint():    
+def create_keyword_unqiue_constraint():
+    """
+    Create constraint for keyword being unique
+    """
     query = """
         CREATE CONSTRAINT keyword_unqiue IF NOT EXISTS FOR (n: Keyword) REQUIRE (n.name) IS UNIQUE
     """
     run_query(query=query)
 
+### Methods for creating nodes
 
-# In[41]:
-
-
-create_keyword_unqiue_constraint()
-
-
-# ### Create Nodes
-
-# Create `Journal` nodes
-
-# In[67]:
-
-
-def create_journal_nodes():    
+def create_journal_nodes():
+    """
+    Create all journal nodes
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/journals.csv" AS x
         WITH toInteger(x.year) AS year, x
@@ -102,19 +75,10 @@ def create_journal_nodes():
     """
     run_query(query=query)
 
-
-# In[68]:
-
-
-create_journal_nodes()
-
-
-# Create `Affiliation` nodes
-
-# In[69]:
-
-
-def create_affiliation_nodes():    
+def create_affiliation_nodes():
+    """
+    Create all affiliation nodes
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/affiliations.csv" AS x
         CREATE(n: Affiliation)
@@ -122,19 +86,10 @@ def create_affiliation_nodes():
     """
     run_query(query=query)
 
-
-# In[70]:
-
-
-create_affiliation_nodes()
-
-
-# Create `Keyword` nodes
-
-# In[71]:
-
-
-def create_keyword_nodes():    
+def create_keyword_nodes():
+    """
+    Create all keyword nodes
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/keywords.csv" AS x
         CREATE(n: Keyword)
@@ -142,19 +97,10 @@ def create_keyword_nodes():
     """
     run_query(query=query)
 
-
-# In[72]:
-
-
-create_keyword_nodes()
-
-
-# Create `Author` nodes
-
-# In[73]:
-
-
-def create_author_nodes():    
+def create_author_nodes(): 
+    """
+    Create all author nodes
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/authors.csv" AS x
         WITH x, toInteger(x.author_id) as author_id
@@ -163,19 +109,10 @@ def create_author_nodes():
     """
     run_query(query=query)
 
-
-# In[74]:
-
-
-create_author_nodes()
-
-
-# Create `Document` nodes
-
-# In[75]:
-
-
-def create_document_nodes():    
+def create_document_nodes():
+    """
+    Create all document nodes
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/documents.csv" AS x
         WITH x, split(replace(replace(replace(replace(x.author_ids, '[', ''), ']', ''), ' ', ''), "'", ''), ',') AS y
@@ -186,21 +123,12 @@ def create_document_nodes():
     """
     run_query(query=query)
 
+### Methods for creating relationships
 
-# In[76]:
-
-
-create_document_nodes()
-
-
-# ### Create Relationships
-
-# Create relationship between `Document` and `Author` nodes
-
-# In[77]:
-
-
-def create_document_author_relation():    
+def create_document_author_relation():
+    """
+    Create relationship between documents and authors
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/document_author.csv" AS x
         WITH toInteger(x.author_id) AS auth_id, toInteger(x.document_id) AS doc_id
@@ -209,19 +137,10 @@ def create_document_author_relation():
     """
     run_query(query=query)
 
-
-# In[78]:
-
-
-create_document_author_relation()
-
-
-# Create relationship between `Document` and `Keyword` nodes
-
-# In[79]:
-
-
-def create_document_keyword_relation():    
+def create_document_keyword_relation():
+    """
+    Create relationship between documents and keywords
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/document_keyword.csv" AS x
         WITH x, toInteger(x.document_id) AS doc_id
@@ -230,19 +149,10 @@ def create_document_keyword_relation():
     """
     run_query(query=query)
 
-
-# In[80]:
-
-
-create_document_keyword_relation()
-
-
-# Create relationship between `Author` and `Keyword` nodes
-
-# In[81]:
-
-
-def create_author_keyword_relation():    
+def create_author_keyword_relation():
+    """
+    Create relationship between authors and keywords
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/author_keyword.csv" AS x
         WITH x, toInteger(x.author_id) AS auth_id
@@ -251,19 +161,10 @@ def create_author_keyword_relation():
     """
     run_query(query=query)
 
-
-# In[82]:
-
-
-create_author_keyword_relation()
-
-
-# Create relationship between `Author` and `Affiliation` nodes
-
-# In[83]:
-
-
 def create_author_affiliation_relation():
+    """
+    Create relationship between authors and affiliations
+    """
     query = """
         LOAD CSV WITH HEADERS FROM "file:///Users/mohammadzainabbas/Downloads/sdm/author_affiliation.csv" AS x
         WITH x, toInteger(x.author_id) AS auth_id
@@ -272,19 +173,10 @@ def create_author_affiliation_relation():
     """
     run_query(query=query)
 
-
-# In[84]:
-
-
-create_author_affiliation_relation()
-
-
-# Create relationship between `Document` and `Journal` nodes
-
-# In[85]:
-
-
 def create_document_journal_relation():
+    """
+    Create relationship between document and journals
+    """
     query = """
         MATCH (a:Document), (b:Journal)
         where a.source_title=b.name
@@ -292,15 +184,31 @@ def create_document_journal_relation():
     """
     run_query(query=query)
 
+def main():
+    """
+    main function for loading section
+    """
+    ## Flush everything first (optional)
+    delete_all_nodes()
 
-# In[86]:
+    ## Create all constraints (optional)
+    create_document_unqiue_constraint()
+    create_author_id_unqiue_constraint()
+    create_keyword_unqiue_constraint()
 
+    ## Create all nodes
+    create_journal_nodes()
+    # create_affiliation_nodes()
+    create_keyword_nodes()
+    create_author_nodes()
+    create_document_nodes()
 
-create_document_journal_relation()
+    ## Create relationships between nodes
+    create_document_author_relation()
+    create_document_keyword_relation()
+    create_author_keyword_relation()
+    # create_author_affiliation_relation()
+    create_document_journal_relation()
 
-
-# In[ ]:
-
-
-
-
+if __name__ == "__main__":
+    main()
