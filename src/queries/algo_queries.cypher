@@ -1,54 +1,38 @@
-// Create in-memory graph for authors' nodes
+//---------------------------------------------
+// Louvain (Community detection algorithm)
+//---------------------------------------------
+// Create in-memory graph for authors
 CALL gds.graph.create.cypher(
   "authors",
   "Match (a:Author) return id(a) as id",
   "Match (a:Author)<-[r:written_by]-(d:Document) return id(d) as source, id(a) as target",
-  {
-    validateRelationships
-, 
-)
-YIELD
-    graphName AS graph, nodeCount AS nodes, relationshipCount AS rels
+  {validateRelationships: false})
+YIELD graphName AS graph, nodeCount AS nodes, relationshipCount AS rels
 
-///
+// Executed algorithm in stream mode 
+CALL gds.louvain.stream('authors')
+YIELD nodeId, communityId
+RETURN gds.util.asNode(nodeId).name AS author, communityId AS community_id
+ORDER BY author
 
-CALL gds.graph.create('authors',
-    'Author',
+// Write results as property "community"
+CALL gds.louvain.write('authors', { writeProperty: 'community' })
+YIELD communityCount, modularity, modularities
+
+//---------------------------------------------
+
+//---------------------------------------------
+// Strongly) Connected components
+//---------------------------------------------
+// Create in-memory graph for documents
+CALL gds.graph.create('documents',
+    'Document',
     {
-        CONTRIBUTED: {
-            orientation: 'UNDIRECTED'
-        }
+        reviewed_by: { orientation: 'NATURAL' }
     }
 )
-
-///
-
-CALL gds.betweenness.stream(
-    "authors"
-)
-YIELD
-nodeId, score
-
-// Delete in-memory graphs
-CALL gds.graph.drop("authors")
-
-/// For 3rd query
-
-MATCH (jo:Journal)
-with apoc.coll.reverse(apoc.coll.sort(apoc.convert.toSet(collect(jo.year)))) as all_years
-with *, all_years[size(all_years) - 3] as last_year
-unwind all_years as year
-with year, all_years, apoc.coll.flatten([x in range(0, size(all_years)) where x <= size(all_years) - 3 | 
-case when all_years[x + 1]=year - 1 then [all_years[x + 1], all_years[x + 2]] else [] end]) as years
-where size(years) >= 1
-with *, years[0] as first, years[1] as second
-// return year, years, first, second
-
-MATCH (a:Author)<-[r:written_by]-(d:Document)-[p:published_in]->(j:Journal)
-with *, a as author, r as written_by, d as document, p as published_in, j as journal 
-Call {
-    with journal, document, year
-    return journal.name as conference, sum(toInteger(document.cited_count)) AS cited_count
-}
-
-return conference, cited_count
+// Executed algorithm in stream mode 
+CALL gds.alpha.scc.stream("documents")
+YIELD nodeId, componentId
+RETURN gds.util.asNode(nodeId).title AS paper, componentId as component_id
+//---------------------------------------------
